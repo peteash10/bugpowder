@@ -1,13 +1,14 @@
 # The BugPowder archive
 
 From 1988 to the mid 2000s I collected self published comics and zines, mostly from the UK small press comics scenes but also from across the world. I ran a review zine, TRS, and a main order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I kept them all in boxes and in 2024, while signed off work with Long-Covid-related stuff, decided to start scanning them, opening the first box and taking whatever's on the top. 
-
+## Info
 - Blog post introducing the project.
 - [The archive on display in 2018.](https://art.peteashton.com/OZA/)
 
-Pages scanned: 1,191 
-Estimated total scans: 75,000
-Progress: 1.588%
+## Stats
+- Pages scanned: 1,191 
+- Estimated total scans: 75,000
+- Progress: 1.588%
 
 As the scanning progresses I will be making a database / spreadsheet of the archive. For now here's a dump of the directories as of 25 June 2024.
 
