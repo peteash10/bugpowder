@@ -11,7 +11,7 @@ Progress: 1.588%
 
 As the scanning progresses I will be making a database / spreadsheet of the archive. For now here's a dump of the directories as of 25 June 2024.
 
-.
+```
 ├── AMP
 │   └── AMP 0 (1998)
 ├── Alan Macintyre
@@ -147,4 +147,4 @@ As the scanning progresses I will be making a database / spreadsheet of the arch
 ├── UK Small Press misc
 │   └── The Marvel Sketchbook (1994)
 └── _Ephemera
-
+```
