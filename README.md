@@ -10,7 +10,8 @@ From 1988 to the mid 2000s I collected self published comics and zines, mostly f
 - Estimated total scans: 75,000
 - Progress: 1.588%
 
-As the scanning progresses I will be making a database / spreadsheet of the archive. For now here's a dump of the directories as of 25 June 2024.
+## The zines
+As the scanning progresses I will create a database / spreadsheet of the archive. For now here's a dump of the directories as of 25 June 2024.
 
 ```
 ├── AMP
