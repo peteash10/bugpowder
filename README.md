@@ -166,3 +166,5 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 └── _Ephemera
 
 ```
+
+*[Pete Ashton](http://peteashton.com)*
