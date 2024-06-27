@@ -8,11 +8,11 @@ From 1988 to the mid 2000s I collected self published comics and zines, mostly f
 
 ## Stats
 -	Date of first scan: 	6 June 2024
--	This page updated: 	26 June 2024
--	Pages scanned: 	1,256
+-	This page updated: 	27 June 2024
+-	Pages scanned: 	1,332
 -	Estimated total scans: 	75,000
--	Progress: 	1.67%
--	Estimated day of final scan:	13 September 2027
+-	Progress: 	1.78%
+-	Estimated day of final scan:	15 February 2026
 
 ## The zines
 As the scanning progresses I will create a database / spreadsheet of the archive. For now here's a dump of the directories.
@@ -29,6 +29,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── Alas Comica 6 (1996)
 ├── Andre Paine
 │   └── Vollmond 1 (1988)
+├── Andy Luke
+│   └── TRS2 - Comics 2001 edition
 ├── Atomic
 │   └── Atomic 10 (1990:91)
 ├── Ben Hunt & Robyn Talbot
@@ -82,6 +84,9 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── TRS3 - May 2022
 ├── Jim Jones
 │   └── Rider's Writes 5 (1997)
+├── Jim Mcgee
+│   ├── Square Eyed Stories 16 (2003)
+│   └── Square Eyed Stories 17 (2004)
 ├── John Jaques
 │   └── Fancy a Brew 1 (1997?)
 ├── John Porcellino
@@ -126,6 +131,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── Minds Eye Presents 10 (2001)
 ├── Rol Hirst
 │   └── The Jock 05 (1993)
+├── Ros Garbles
+│   └── Garbles 7 (1993)
 ├── Rough Cut Comics
 │   └── Rough Cut Presents Trailers 1 (2001)
 ├── Sally Anne Hickman
@@ -150,6 +157,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   ├── Fat Knite 4
 │   ├── Fat Knite 5
 │   └── Fat Knite 6
+├── The Desyre Foundation
+│   └── The Desyre Foundation Newsletter 1 (1996)
 ├── Three Drunken Goths
 │   └── Delirium Tremens #5 (1999)
 ├── Tim Brown
@@ -163,7 +172,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── Typewriter 4 (2001)
 ├── UK Small Press misc
 │   └── The Marvel Sketchbook (1994)
-└── _Ephemera
+├── _Ephemera
+└── _Scans
 
 ```
 
