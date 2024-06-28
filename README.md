@@ -8,11 +8,12 @@ From 1988 to the mid 2000s I collected self published comics and zines, mostly f
 
 ## Stats
 -	Date of first scan: 	6 June 2024
--	This page updated: 	27 June 2024
--	Pages scanned: 	1,332
+-	This page updated: 	28 June 2024
+-	Pages scanned: 	1,424
 -	Estimated total scans: 	75,000
--	Progress: 	1.78%
--	Estimated day of final scan:	15 February 2026
+-	Progress: 	1.90%
+-	Estimated day of final scan:	28 February 2026
+
 
 ## The zines
 As the scanning progresses I will create a database / spreadsheet of the archive. For now here's a dump of the directories.
@@ -29,6 +30,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── Alas Comica 6 (1996)
 ├── Andre Paine
 │   └── Vollmond 1 (1988)
+├── Andy (Konky Kru)
+│   └── Realistische Zeichnungen 1
 ├── Andy Luke
 │   └── TRS2 - Comics 2001 edition
 ├── Atomic
@@ -114,7 +117,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   ├── Refractor 4
 │   └── The Whistleblowers (1995?)
 ├── Paul Lukas
-│   └── Beer Frame 10 (2000)
+│   ├── Beer Frame 10 (2000)
+│   └── Beer Frame 6 (1996)
 ├── Paul M Davies
 │   ├── Fun Comics 1 (1995)
 │   ├── Fun Comics 2 (1995)
