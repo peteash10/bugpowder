@@ -8,18 +8,20 @@ From 1988 to the mid 2000s I collected self published comics and zines, mostly f
 
 ## Stats
 -	Date of first scan: 	6 June 2024
--	This page updated: 	28 June 2024
--	Pages scanned: 	1,424
--	Estimated total scans: 	75,000
--	Progress: 	1.90%
--	Estimated day of final scan:	28 February 2026
+-	This page updated: 	3 July 2024
+-	Pages scanned: 	1,516
+-	Height of scans (mm)	80
+-	Average thickness (mm)	0.106
+-	Total height of zines (mm)	3,600
+-	Estimated total scans: 	34,110
+-	Progress: 	4.44%
+-	Estimated day of final scan:	23 June 2025
 
 
 ## The zines
 As the scanning progresses I will create a database / spreadsheet of the archive. For now here's a dump of the directories.
 
 ```
-.
 ├── AMP
 │   └── AMP 0 (1998)
 ├── Alan Macintyre
@@ -31,6 +33,7 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 ├── Andre Paine
 │   └── Vollmond 1 (1988)
 ├── Andy (Konky Kru)
+│   ├── Andy's Konky Kru Picture Strips (1995)
 │   └── Realistische Zeichnungen 1
 ├── Andy Luke
 │   └── TRS2 - Comics 2001 edition
@@ -99,6 +102,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── Rinky Dink 1 (1998)
 ├── Liliane
 │   └── Euro Liliane 11 (1996)
+├── Luella Jane Wright
+│   └── Mitten Brain 2 (1994)
 ├── Luke Walsh
 │   └── Weird Astral Detective Fiction (1992)
 ├── Malcy Duff
@@ -107,6 +112,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 ├── Mark Pawson
 │   ├── Disinfotainment - Armchair Shopping (1996)
 │   └── Mapk ?237aвcoн
+├── Mitch & Murray
+│   └── Amateur demo edition (1997)
 ├── Mr Biggers
 │   └── Loose Screws 15 (1998)
 ├── Paul & Neil Bristow
@@ -129,6 +136,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── Jonni Star (1998)
 ├── Ralph Kidson
 │   └── Captain Dolphin 5
+├── Rick Hoskin
+│   └── American Ant 1 (1993)
 ├── Rick Olsen
 │   └── Tiddles the Wonder Cat's Super Silly Fun Book (1997)
 ├── Robin Bougie
@@ -152,6 +161,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── SchNEWS 162 (1998)
 ├── Sean Azzopardi
 │   └── Ed (2005)
+├── Sean Duffield
+│   └── Paper Tiger Comix 1 (2004)
 ├── Shawn Granton
 │   └── Ten Foot Rule 5 (2000)
 ├── Simon Perrins & Andrew Livesey
@@ -176,9 +187,8 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 │   └── Typewriter 4 (2001)
 ├── UK Small Press misc
 │   └── The Marvel Sketchbook (1994)
-├── _Ephemera
-└── _Scans
-
+├── Vincent Stall
+│   └── Robot Investigator (2001)
 ```
 
 *[Pete Ashton](http://peteashton.com)*
