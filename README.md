@@ -1,6 +1,10 @@
 # The BugPowder archive
 
-From 1988 to the mid 2000s I collected self published comics and zines, mostly from the UK small press comics scenes but also from across the world. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene in the 2000s but kept all the zines and in 2024, while signed off work with Long-Covid-related stuff, decided to start scanning them, opening the first box and taking whatever's on the top. 
+From 1988 to the mid 2000s I collected self published comics and zines, mostly from the UK small press comics scenes but also from across the world. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene in the 2000s but kept all the zines. 
+
+In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page records my progress. 
+
+Pete Ashton
 
 ## Info
 - [Blog post introducing the project.](https://72.peteashton.com/scanning-the-bugpowder-archive/)
@@ -19,7 +23,7 @@ From 1988 to the mid 2000s I collected self published comics and zines, mostly f
 
 
 ## The zines
-As the scanning progresses I will create a database / spreadsheet of the archive. For now here's a dump of the directories.
+As the scanning progresses I will replace this page with a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
 
 ```
 ├── AMP
@@ -38,7 +42,7 @@ As the scanning progresses I will create a database / spreadsheet of the archive
 ├── Andy Luke
 │   └── TRS2 - Comics 2001 edition
 ├── Atomic
-│   └── Atomic 10 (1990:91)
+│   └── Atomic 10 (1990-91)
 ├── Ben Hunt & Robyn Talbot
 │   └── Classic Comics #2 (2001)
 ├── Ben Oakes
