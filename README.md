@@ -191,8 +191,8 @@ As the scanning progresses I will replace this page with a searchable index of t
 │   └── Typewriter 4 (2001)
 ├── UK Small Press misc
 │   └── The Marvel Sketchbook (1994)
-├── Vincent Stall
-│   └── Robot Investigator (2001)
+└── Vincent Stall
+    └── Robot Investigator (2001)
 ```
 
 *[Pete Ashton](http://peteashton.com)*
