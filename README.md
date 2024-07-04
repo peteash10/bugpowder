@@ -12,20 +12,21 @@ Pete Ashton
 
 ## Stats
 -	Date of first scan: 	6 June 2024
--	This page updated: 	3 July 2024
--	Pages scanned: 	1,516
--	Height of scans (mm)	80
--	Average thickness (mm)	0.106
--	Total height of zines (mm)	3,600
--	Estimated total scans: 	34,110
--	Progress: 	4.44%
--	Estimated day of final scan:	23 June 2025
+-	This page updated: 	4 July 2024
+-	Pages scanned: 	1,601
+-	Height of scanned zines (mm)	180
+-	Average paper thickness (mm)	0.112
+-	Total height of zines (mm)	3,750
+-	Estimated total scans: 	66,708
+-	Progress: 	2.40%
+-	Estimated day of final scan:	26 June 2026
 
 
 ## The zines
-As the scanning progresses I will replace this page with a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
+As the scanning progresses I will include a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
 
 ```
+.
 ├── AMP
 │   └── AMP 0 (1998)
 ├── Alan Macintyre
@@ -41,6 +42,8 @@ As the scanning progresses I will replace this page with a searchable index of t
 │   └── Realistische Zeichnungen 1
 ├── Andy Luke
 │   └── TRS2 - Comics 2001 edition
+├── Andy Nixon
+│   └── Angel Dust Funnies 4 (1989)
 ├── Atomic
 │   └── Atomic 10 (1990-91)
 ├── Ben Hunt & Robyn Talbot
@@ -70,6 +73,8 @@ As the scanning progresses I will replace this page with a searchable index of t
 │   └── Fish Wish (1993)
 ├── Douglas Nobel
 │   └── SFM Roma (2002)
+├── Dylan Horrocks
+│   └── Nga Pakiwaituhi o Aotearoa - New Zealand Comics (1998)
 ├── Factor Fiction Press
 │   └── The Seven Faced Badger of Doom
 ├── Gary Northfield
@@ -171,6 +176,8 @@ As the scanning progresses I will replace this page with a searchable index of t
 │   └── Ten Foot Rule 5 (2000)
 ├── Simon Perrins & Andrew Livesey
 │   └── Flying Monkey 3 (1998)
+├── Smoke
+│   └── Smoke - A London Perculiar 4 (2003)
 ├── Steve Blincoe
 │   ├── Fat Knite 3
 │   ├── Fat Knite 4
