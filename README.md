@@ -14,9 +14,9 @@ Pete Ashton
 -	Date of first scan: 	6 June 2024
 -	This page updated: 	4 July 2024
 -	Pages scanned: 	1,601
--	Height of scanned zines (mm)	180
--	Average paper thickness (mm)	0.112
--	Total height of zines (mm)	3,750
+-	Height of scanned zines (mm):	180
+-	Average paper thickness (mm):	0.112
+-	Total height of zines (mm):	3,750
 -	Estimated total scans: 	66,708
 -	Progress: 	2.40%
 -	Estimated day of final scan:	26 June 2026
