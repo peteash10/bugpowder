@@ -2,7 +2,7 @@
 
 From 1988 to the mid 2000s I collected self published comics and zines, mostly from the UK small press comics scenes but also from across the world. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene in the 2000s but kept all the zines. 
 
-In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page records my progress. 
+In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page shows my progress. 
 
 Pete Ashton
 
@@ -11,22 +11,24 @@ Pete Ashton
 - [The archive on display in 2018.](https://art.peteashton.com/OZA/)
 
 ## Stats
--	Date of first scan: 	6 June 2024
--	This page updated: 	4 July 2024
--	Pages scanned: 	1,601
--	Height of scanned zines (mm):	180
--	Average paper thickness (mm):	0.112
--	Total height of zines (mm):	3,750
--	Estimated total scans: 	66,708
--	Progress: 	2.40%
--	Estimated day of final scan:	26 June 2026
+Calculations are based comparing the taking the size of the scanned files and comparing them to percentage of zines scanned.
+  
+-	Date of first scan: 	6 June 2024	
+-	This page updated: 	5 July 2024	
+-	Pages scanned: 	1,653	
+-	Scanned filesize: 	23.39	GB
+-	Height of scanned zines:	182	mm
+-	Total height of zines:	3,750	mm
+-	Estimated total filesize	963.87	GB
+-	Boxes scanned:	0.364	
+-	Progress: 	2.43%	
+-	**Estimated day of final scan:	28 July 2026**	
 
 
 ## The zines
 As the scanning progresses I will include a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
 
 ```
-.
 ├── AMP
 │   └── AMP 0 (1998)
 ├── Alan Macintyre
@@ -43,6 +45,7 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Andy Luke
 │   └── TRS2 - Comics 2001 edition
 ├── Andy Nixon
+│   ├── Angel Dust Funnies 1 (1989)
 │   └── Angel Dust Funnies 4 (1989)
 ├── Atomic
 │   └── Atomic 10 (1990-91)
@@ -56,6 +59,9 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Bugs & Drugs
 │   ├── Bugs & Drugs 1 (1992)
 │   └── Bugs & Drugs 4
+├── Carrie McNinch
+│   ├── The Assassin and the Whiner 10 (1998)
+│   └── The Assassin and the Whiner 11 (1999)
 ├── Charise Mericle
 │   └── Color Right (1995)
 ├── Chris Webster
@@ -83,7 +89,7 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Fuzzball 4 (1997)
 ├── Goodman Bros
 │   ├── Aggadon (2004)
-│   └── Zip Gun Presents - Chimera
+│   └── Zip Gun Presents - Chimera (2003)
 ├── Hisae Arai
 │   └── Cheeky Monkey's Fun Book
 ├── Jeremy Dennis
@@ -143,6 +149,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── The Information 4 (1999)
 ├── Phil Elliott
 │   └── Jonni Star (1998)
+├── Rachel House
+│   └── Art Students Stole My Vibrator (2000)
 ├── Ralph Kidson
 │   └── Captain Dolphin 5
 ├── Rick Hoskin
@@ -179,7 +187,7 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Smoke
 │   └── Smoke - A London Perculiar 4 (2003)
 ├── Steve Blincoe
-│   ├── Fat Knite 3
+│   ├── Fat Knite 3 (1988)
 │   ├── Fat Knite 4
 │   ├── Fat Knite 5
 │   └── Fat Knite 6
@@ -193,6 +201,7 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Tom Spurgeon
 │   └── Shelton (1999)
 ├── Tony McGee
+│   ├── Angel Nebula 9 (2001)
 │   └── Dark Weather 5 (1998)
 ├── Typewwriter
 │   └── Typewriter 4 (2001)
