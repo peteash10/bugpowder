@@ -11,7 +11,7 @@ Pete Ashton
 - [The archive on display in 2018.](https://art.peteashton.com/OZA/)
 
 ## Stats
-Calculations are based comparing the taking the size of the scanned files and comparing them to percentage of zines scanned.
+Calculations are based comparing the taking the size of the scanned files and comparing them to the physical percentage of zines scanned.
   
 -	Date of first scan: 	6 June 2024	
 -	This page updated: 	5 July 2024	
@@ -19,7 +19,7 @@ Calculations are based comparing the taking the size of the scanned files and co
 -	Scanned filesize: 	23.39	GB
 -	Height of scanned zines:	182	mm
 -	Total height of zines:	3,750	mm
--	Estimated total filesize	963.87	GB
+-	Estimated total filesize:	963.87	GB
 -	Boxes scanned:	0.364	
 -	Progress: 	2.43%	
 -	**Estimated day of final scan:	28 July 2026**	
