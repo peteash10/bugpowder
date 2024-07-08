@@ -14,21 +14,22 @@ Pete Ashton
 Calculations are based comparing the taking the size of the scanned files and comparing them to the physical percentage of zines scanned.
   
 -	Date of first scan: 	6 June 2024	
--	This page updated: 	5 July 2024	
--	Pages scanned: 	1,653	
--	Scanned filesize: 	23.39	GB
--	Height of scanned zines:	182	mm
+-	This page updated: 	8 July 2024	
+-	Pages scanned: 	1,745	
+-	Scanned filesize: 	25.08	GB
+-	Height of scanned zines:	198	mm
 -	Total height of zines:	3,750	mm
--	Estimated total filesize:	963.87	GB
--	Boxes scanned:	0.36	/ 15
--	Progress: 	2.43%	
--	**Estimated day of final scan:	28 July 2026**	
+-	Estimated total filesize	950.00	GB
+-	Boxes scanned:	0.40	/ 15
+-	Progress: 	2.64%	
+-	**Estimated day of final scan:	17 September 2026**	
 
 
 ## The zines
 As the scanning progresses I will include a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
 
 ```
+.
 ├── AMP
 │   └── AMP 0 (1998)
 ├── Alan Macintyre
@@ -72,7 +73,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Theatre of Conceits 03 (1996)
 ├── David Gordon
 │   ├── Fury 2 (1991)
-│   └── Fury 3 (1992)
+│   ├── Fury 3 (1992)
+│   └── The Lightning Room [Damage 1] (1993)
 ├── David Willacy
 │   └── The Outer Realms 3 (2004)
 ├── Derek Gray
@@ -102,12 +104,15 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   ├── Psychosense 1 (1996)
 │   └── Psychosense 9 (1997)
 ├── Jez Higgins
+│   ├── Coffee Time 7 (1993)
 │   └── TRS3 - May 2022
 ├── Jim Jones
 │   └── Rider's Writes 5 (1997)
 ├── Jim Mcgee
 │   ├── Square Eyed Stories 16 (2003)
 │   └── Square Eyed Stories 17 (2004)
+├── John Cake
+│   └── The Bruising Pit (1998)
 ├── John Jaques
 │   └── Fancy a Brew 1 (1997?)
 ├── John Porcellino
@@ -127,11 +132,14 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Mark Pawson
 │   ├── Disinfotainment - Armchair Shopping (1996)
 │   └── Mapk ?237aвcoн
+├── Matthew Lawrenson
+│   └── Thoughts and Words 2 (2002)
 ├── Mitch & Murray
 │   └── Amateur demo edition (1997)
 ├── Mr Biggers
 │   └── Loose Screws 15 (1998)
 ├── Paul & Neil Bristow
+│   ├── Holocron 0
 │   ├── Holocron 1 (1995)
 │   ├── Refractor 1
 │   ├── Refractor 2
@@ -157,6 +165,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── American Ant 1 (1993)
 ├── Rick Olsen
 │   └── Tiddles the Wonder Cat's Super Silly Fun Book (1997)
+├── Rob Lenningrad
+│   └── Watchblood
 ├── Robin Bougie
 │   └── Minds Eye Presents 10 (2001)
 ├── Rol Hirst
@@ -165,6 +175,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Garbles 7 (1993)
 ├── Rough Cut Comics
 │   └── Rough Cut Presents Trailers 1 (2001)
+├── Ruel Gaviola
+│   └── Amusing Yourself To Death 15 (1999)
 ├── Sally Anne Hickman
 │   └── My Daily Review 1 (2001)
 ├── Sammy Wammy
