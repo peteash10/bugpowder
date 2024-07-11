@@ -11,7 +11,7 @@ Pete Ashton
 - [The archive on display in 2018.](https://art.peteashton.com/OZA/)
 
 ## Stats
-Estimated time scales are based comparing the taking the physical height of the scanned files vs the total height of the zines (converted to A4). I also use this percentage to estimate the total file size.
+Estimated time scales are based comparing the taking the physical height of the scanned zines (currently A5 only) vs the total height of all the zines (in A4 boxes so there's a conversion needed). I also use this percentage to estimate the total file size.
   
 -	Date of first scan: 	6 June 2024	
 -	This page updated: 	11 July 2024	
@@ -23,7 +23,10 @@ Estimated time scales are based comparing the taking the physical height of the 
 -	Progress: 	2.87%	
 -	**Estimated day of final scan:	26 October 2026**
 
-2% ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
+**Progress:**  
+2.87% ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
+
+*(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain)*
 
 ## The zines
 As the scanning progresses I will include a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
