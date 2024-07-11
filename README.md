@@ -21,7 +21,9 @@ Estimated time scales are based comparing the taking the physical height of the 
 -	Estimated total filesize	965.58	GB
 -	Boxes scanned:	0.43	/ 15
 -	Progress: 	2.87%	
--	**Estimated day of final scan:	26 October 2026**	
+-	**Estimated day of final scan:	26 October 2026**
+
+2% ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
 
 
 ## The zines
