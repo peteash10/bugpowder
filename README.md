@@ -15,16 +15,16 @@ Estimated time scales are based comparing the taking the physical height of the 
   
 -	Date of first scan: 	6 June 2024	
 -	This page updated: 	11 July 2024	
--	Size of scanned files: 	27.68	GB
--	Height of scanned zines:	215	mm
+-	Size of scanned files: 	28.77	GB
+-	Height of scanned zines:	221	mm
 -	Total height of zines:	3,750	mm
--	Estimated total filesize	965.58	GB
--	Boxes scanned:	0.43	/ 15
--	Progress: 	2.87%	
--	**Estimated day of final scan:	26 October 2026**
+-	Estimated total filesize	976.36	GB
+-	Boxes scanned:	0.44	/ 15
+-	Progress: 	2.95%	
+-	**Estimated day of final scan:	2 October 2026**
 
 **Progress:**  
-2.87% ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
+2.95% ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
 
 *(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain)*
 
@@ -53,10 +53,14 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Angel Dust Funnies 4 (1989)
 ├── Atomic
 │   └── Atomic 10 (1990-91)
+├── Ben Graham
+│   └── The First Job (2001)
 ├── Ben Hunt & Robyn Talbot
 │   └── Classic Comics #2 (2001)
 ├── Ben Oakes
 │   └── The Miserable Tale Of Demeter & Sharky (2002)
+├── Big Untidy
+│   └── Big Untidy - Flyer and Letter
 ├── Bob Lynch
 │   └── Tales of Sadness (1996)
 ├── Brian Dean
@@ -65,6 +69,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Bugs & Drugs
 │   ├── Bugs & Drugs 1 (1992)
 │   └── Bugs & Drugs 4
+├── C Cilla
+│   └── The Diplomat 3 (1996)
 ├── Carrie McNinch
 │   ├── The Assassin and the Whiner 10 (1998)
 │   └── The Assassin and the Whiner 11 (1999)
@@ -78,6 +84,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Theatre of Conceits 03 (1996)
 ├── Darryl Cunningham
 │   └── Blood Relatives (1989)
+├── David Baillie
+│   └── David Baillie's Awkward Fascination Compendium (2003)
 ├── David Gordon
 │   ├── Fury 2 (1991)
 │   ├── Fury 3 (1992)
@@ -138,6 +146,7 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Luke Walsh
 │   └── Weird Astral Detective Fiction (1992)
 ├── Malcy Duff
+│   ├── The Cloud Dog Agency (1999)
 │   ├── Zero Termite 4 (1998)
 │   └── Zero Termite 7 (1999)
 ├── Mark Pawson
@@ -217,6 +226,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   ├── Fat Knite 4
 │   ├── Fat Knite 5
 │   └── Fat Knite 6
+├── Terracotta
+│   └── Terracotta (1996?)
 ├── The Desyre Foundation
 │   └── The Desyre Foundation Newsletter 1 (1996)
 ├── Three Drunken Goths
