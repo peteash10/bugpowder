@@ -11,18 +11,17 @@ Pete Ashton
 - [The archive on display in 2018.](https://art.peteashton.com/OZA/)
 
 ## Stats
-Calculations are based comparing the taking the size of the scanned files and comparing them to the physical percentage of zines scanned.
+Estimated time scales are based comparing the taking the physical height of the scanned files vs the total height of the zines (converted to A4). I also use this percentage to estimate the total file size.
   
 -	Date of first scan: 	6 June 2024	
--	This page updated: 	8 July 2024	
--	Pages scanned: 	1,745	
--	Scanned filesize: 	25.08	GB
--	Height of scanned zines:	198	mm
+-	This page updated: 	11 July 2024	
+-	Size of scanned files: 	27.68	GB
+-	Height of scanned zines:	215	mm
 -	Total height of zines:	3,750	mm
--	Estimated total filesize	950.00	GB
--	Boxes scanned:	0.40	/ 15
--	Progress: 	2.64%	
--	**Estimated day of final scan:	17 September 2026**	
+-	Estimated total filesize	965.58	GB
+-	Boxes scanned:	0.43	/ 15
+-	Progress: 	2.87%	
+-	**Estimated day of final scan:	26 October 2026**	
 
 
 ## The zines
@@ -54,6 +53,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Classic Comics #2 (2001)
 ├── Ben Oakes
 │   └── The Miserable Tale Of Demeter & Sharky (2002)
+├── Bob Lynch
+│   └── Tales of Sadness (1996)
 ├── Brian Dean
 │   ├── Anxiety Culture 1 (1995)
 │   └── Anxiety Culture 3
@@ -71,6 +72,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Toonadelic Times 2 (2001)
 ├── Darren Powell
 │   └── Theatre of Conceits 03 (1996)
+├── Darryl Cunningham
+│   └── Blood Relatives (1989)
 ├── David Gordon
 │   ├── Fury 2 (1991)
 │   ├── Fury 3 (1992)
@@ -83,6 +86,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── SFM Roma (2002)
 ├── Dylan Horrocks
 │   └── Nga Pakiwaituhi o Aotearoa - New Zealand Comics (1998)
+├── EL Press
+│   └── Gloomy Delight (2001)
 ├── Factor Fiction Press
 │   └── The Seven Faced Badger of Doom
 ├── Gary Northfield
@@ -94,6 +99,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Zip Gun Presents - Chimera (2003)
 ├── Hisae Arai
 │   └── Cheeky Monkey's Fun Book
+├── Into The Abyss
+│   └── Fight Amnesia! 10 (1996)
 ├── Jeremy Dennis
 │   ├── 3inaBed 11 (1995)
 │   ├── 3inaBed 15 (1996)
@@ -132,6 +139,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Mark Pawson
 │   ├── Disinfotainment - Armchair Shopping (1996)
 │   └── Mapk ?237aвcoн
+├── Mark Saltveit
+│   └── The Palindromist 2 (1996)
 ├── Matthew Lawrenson
 │   └── Thoughts and Words 2 (2002)
 ├── Mitch & Murray
@@ -148,7 +157,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── The Whistleblowers (1995?)
 ├── Paul Lukas
 │   ├── Beer Frame 10 (2000)
-│   └── Beer Frame 6 (1996)
+│   ├── Beer Frame 6 (1996)
+│   └── Beer Frame 7 (1997)
 ├── Paul M Davies
 │   ├── Fun Comics 1 (1995)
 │   ├── Fun Comics 2 (1995)
@@ -209,6 +219,7 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Delirium Tremens #5 (1999)
 ├── Tim Brown
 │   ├── Nightclub Nick 1 (2000)
+│   ├── Nightclub Nick 2 (2000)
 │   └── Nightclub Nick 6
 ├── Tom Spurgeon
 │   └── Shelton (1999)
