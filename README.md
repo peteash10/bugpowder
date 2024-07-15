@@ -269,3 +269,6 @@ As the scanning progresses I will include a searchable index of the archive (or 
 
 *[Pete Ashton](http://peteashton.com)*
 
+<script data-goatcounter="https://bugpowder.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
