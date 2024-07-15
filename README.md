@@ -1,6 +1,6 @@
 # The BugPowder archive
 
-From 1988 to the mid 2000s I amassed a collection of self published comics and zines, mostly from the UK small press comics scenes but also from across the world. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene in the 2000s but kept all the zines. 
+From 1988 to the early 2000s I amassed a collection of self published comics and zines, mostly from the UK small press comics scenes but also from across the world. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. 
 
 In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page shows my progress. 
 
