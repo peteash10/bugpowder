@@ -7,7 +7,7 @@ In 2024, while signed off work with Long-Covid-related stuff, I decided to start
 Pete Ashton
 
 ## Info
-- [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, June 25 2024.
+- [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, 25 June 2024.
 - [The archive on display in 2018.](https://art.peteashton.com/OZA/)
 
 ## Stats
