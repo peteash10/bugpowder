@@ -209,10 +209,10 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Minds Eye Presents 10 (2001)
 ├── Rol Hirst
 │   ├── The Jock 05 (1993)
-│   ├── The Jock 10 (1994)
-│   ├── The Jock 11 (1994)
-│   ├── The Jock 08 (1993)
-│   └── The Jock 09 (1993)
+│   ├── The Jock 08 (1994)
+│   ├── The Jock 09 (1994)
+│   ├── The Jock 10 (1993)
+│   └── The Jock 11 (1993)
 ├── Ros Garbles
 │   └── Garbles 7 (1993)
 ├── Rough Cut Comics
