@@ -7,24 +7,27 @@ In 2024, while signed off work with Long-Covid-related stuff, I decided to start
 Pete Ashton
 
 ## Info
-- [Blog post introducing the project.](https://72.peteashton.com/scanning-the-bugpowder-archive/)
+- [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, June 25 2024.
 - [The archive on display in 2018.](https://art.peteashton.com/OZA/)
 
 ## Stats
-Estimated time scales are based comparing the taking the physical height of the scanned zines (currently A5 only) vs the total height of all the zines (in A4 boxes so there's a conversion needed). I also use this percentage to estimate the total file size.
+Progress is measured by taking the physical height of the scanned zines (currently just A5 as I only have a normal scanner right now) vs the total height of the boxes of zines. I use this percentage to estimate the total file size and the date of the final scan. 
   
 -	Date of first scan: 	6 June 2024	
--	This page updated: 	11 July 2024	
--	Size of scanned files: 	28.77	GB
--	Height of scanned zines:	221	mm
+-	This page updated: 	15 July 2024	
+-	Size of scanned files: 	30.35	GB
+-	Height of scanned zines:	227	mm
 -	Total height of zines:	3,750	mm
--	Estimated total filesize	976.36	GB
--	Boxes scanned:	0.44	/ 15
--	Progress: 	2.95%	
--	**Estimated day of final scan:	2 October 2026**
+-	Estimated total filesize	1002.75	GB
+-	Boxes scanned:	0.45	/ 15
+-	Progress: 	3.03%	
+-	**Estimated day of final scan:	20 January 2027**
+
 
 **Progress:**  
-2.95% ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
+3.03% ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 100%
+
+	+++-------------------------------------------------------------------------------------------------
 
 *(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain)*
 
@@ -32,7 +35,6 @@ Estimated time scales are based comparing the taking the physical height of the 
 As the scanning progresses I will include a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
 
 ```
-.
 ├── AMP
 │   └── AMP 0 (1998)
 ├── Alan Macintyre
@@ -83,7 +85,9 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Darren Powell
 │   └── Theatre of Conceits 03 (1996)
 ├── Darryl Cunningham
-│   └── Blood Relatives (1989)
+│   ├── Blood Relatives (1989)
+│   ├── The British Sketchbook v1 (1997)
+│   └── The Marvel Sketchbook (1994)
 ├── David Baillie
 │   └── David Baillie's Awkward Fascination Compendium (2003)
 ├── David Gordon
@@ -105,10 +109,12 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Gary Northfield
 │   └── Stupidmonsters #2 (2002)
 ├── Gary Parkin
-│   └── Fuzzball 4 (1997)
+│   ├── Fuzzball 4 (1997)
+│   └── Fuzzball 5 (1997)
 ├── Goodman Bros
 │   ├── Aggadon (2004)
-│   └── Zip Gun Presents - Chimera (2003)
+│   ├── Zip Gun Presents - Chimera (2003)
+│   └── Zip Gun Presents - Japan (2001)
 ├── Hisae Arai
 │   └── Cheeky Monkey's Fun Book
 ├── Into The Abyss
@@ -125,6 +131,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Jez Higgins
 │   ├── Coffee Time 7 (1993)
 │   └── TRS3 - May 2022
+├── Jim Cameron
+│   └── Confused (1996)
 ├── Jim Jones
 │   └── Rider's Writes 5 (1997)
 ├── Jim Mcgee
@@ -193,7 +201,11 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Robin Bougie
 │   └── Minds Eye Presents 10 (2001)
 ├── Rol Hirst
-│   └── The Jock 05 (1993)
+│   ├── The Jock 05 (1993)
+│   ├── The Jock 10 (1994)
+│   ├── The Jock 11 (1994)
+│   ├── The Jock 08 (1993)
+│   └── The Jock 09 (1993)
 ├── Ros Garbles
 │   └── Garbles 7 (1993)
 ├── Rough Cut Comics
@@ -233,6 +245,7 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Three Drunken Goths
 │   └── Delirium Tremens #5 (1999)
 ├── Tim Brown
+│   ├── Brin 2 (1998)
 │   ├── Nightclub Nick 1 (2000)
 │   ├── Nightclub Nick 2 (2000)
 │   └── Nightclub Nick 6
@@ -243,8 +256,6 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Dark Weather 5 (1998)
 ├── Typewwriter
 │   └── Typewriter 4 (2001)
-├── UK Small Press misc
-│   └── The Marvel Sketchbook (1994)
 └── Vincent Stall
     └── Robot Investigator (2001)
 ```
