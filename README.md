@@ -32,7 +32,7 @@ Progress is measured by taking the physical height of the scanned zines (current
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
 100%
 
-*(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain)*
+*(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain.)*
 
 ## The zines
 As the scanning progresses I will include a searchable index of the archive (or more likely a link to a Google spreadsheet). For now here's a dump of the directories.
