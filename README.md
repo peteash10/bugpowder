@@ -14,18 +14,18 @@ Pete Ashton
 Progress is measured by taking the physical height of the scanned zines (currently just A5 as I only have a normal scanner right now) vs the total height of the boxes of zines. I use this percentage to estimate the total file size and the date of the final scan. 
   
 -	Date of first scan: 	6 June 2024	
--	This page updated: 	15 July 2024	
--	Size of scanned files: 	30.35	GB
--	Height of scanned zines:	227	mm
+-	This page updated: 	16 July 2024	
+-	Size of scanned files: 	32.89	GB
+-	Height of scanned zines:	237	mm
 -	Total height of zines:	3,750	mm
--	Estimated total filesize	1002.75	GB
--	Boxes scanned:	0.45	/ 15
--	Progress: 	3.03%	
--	**Estimated day of final scan:	20 January 2027**
+-	Estimated total filesize	1040.82	GB
+-	Boxes scanned:	0.47	/ 15
+-	Progress: 	3.16%	
+-	**Estimated day of final scan:	11 January 2027**
 
 
 **Progress:**  
-3.03%  
+3.16%  
 ⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
@@ -89,6 +89,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Rockdrill (2005)
 ├── Dal
 │   └── Toonadelic Times 2 (2001)
+├── Dan Howland
+│   └── The Journal of Ride Theory 3 (1997?)
 ├── Darren Powell
 │   └── Theatre of Conceits 03 (1996)
 ├── Darryl Cunningham
@@ -106,7 +108,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Derek Gray
 │   └── Fish Wish (1993)
 ├── Douglas Nobel
-│   └── SFM Roma (2002)
+│   ├── SFM Roma (2002)
+│   └── Strip For Me 11 (2002)
 ├── Dylan Horrocks
 │   └── Nga Pakiwaituhi o Aotearoa - New Zealand Comics (1998)
 ├── EL Press
@@ -149,7 +152,6 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── The Bruising Pit (1998)
 ├── John Jaques
 │   └── Fancy a Brew 1 (1997?)
-├── John Porcellino
 ├── Jone-Zee
 │   └── Ain't Life A Blast 2
 ├── Kevin Lousy
@@ -199,20 +201,24 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Art Students Stole My Vibrator (2000)
 ├── Ralph Kidson
 │   └── Captain Dolphin 5
-├── Rick Hoskin
-│   └── American Ant 1 (1993)
 ├── Rick Olsen
 │   └── Tiddles the Wonder Cat's Super Silly Fun Book (1997)
+├── Rik Hoskin
+│   └── American Ant 1 (1993)
 ├── Rob Lenningrad
 │   └── Watchblood
 ├── Robin Bougie
 │   └── Minds Eye Presents 10 (2001)
 ├── Rol Hirst
 │   ├── The Jock 05 (1993)
-│   ├── The Jock 08 (1994)
-│   ├── The Jock 09 (1994)
-│   ├── The Jock 10 (1993)
-│   └── The Jock 11 (1993)
+│   ├── The Jock 08 (1993)
+│   ├── The Jock 09 (1993)
+│   ├── The Jock 10 (1994)
+│   ├── The Jock 11 (1994)
+│   ├── The Jock 12 (1994)
+│   ├── The Jock 14 (1994)
+│   ├── The Jock 15 (1994)
+│   └── The Jock 16 (1994)
 ├── Ros Garbles
 │   └── Garbles 7 (1993)
 ├── Rough Cut Comics
