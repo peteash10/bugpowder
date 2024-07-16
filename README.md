@@ -1,6 +1,6 @@
 # The BugPowder archive
 
-From 1988 to the early 2000s I amassed a collection of self published comics and zines, mostly from the UK small press comics scenes but also from across the world. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. 
+From 1988 to the early 2000s I amassed a collection of thousands of self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. 
 
 In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page shows my progress. 
 
@@ -8,7 +8,7 @@ Pete Ashton
 
 ## Info
 - [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, 25 June 2024.
-- [The archive on display in 2018.](https://art.peteashton.com/OZA/)
+- [The Open Zine Archive](https://art.peteashton.com/OZA/) - the collection on display in 2018.
 
 ## Stats
 Progress is measured by taking the physical height of the scanned zines (currently just A5 as I only have a normal scanner right now) vs the total height of the boxes of zines. I use this percentage to estimate the total file size and the date of the final scan. 
