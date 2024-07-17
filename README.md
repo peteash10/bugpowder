@@ -17,7 +17,7 @@ Progress is measured by taking the physical height of the scanned zines (current
 -	This page updated: 	16 July 2024	
 -	Size of scanned files: 	32.89	GB
 -	Height of scanned zines:	237	mm
--	Total height of zines:	3,750	mm
+-	Height of all zines (est):	3,750	mm
 -	Estimated total filesize	1040.82	GB
 -	Boxes scanned:	0.47	/ 15
 -	Progress: 	3.16%	
