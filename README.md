@@ -11,26 +11,27 @@ Pete Ashton
 - [The Open Zine Archive](https://art.peteashton.com/OZA/) - the collection on display in 2018.
 
 ## Stats
-Progress is measured by taking the physical height of the scanned zines (currently just A5 as I only have a normal scanner right now) vs the total height of the boxes of zines. I use this percentage to estimate the total file size and the date of the final scan. 
+Progress is measured by taking the physical height of the scanned zines vs the total height all the zines, converted to A4. (A5 height divided by 2, A6 by 4, and US comic format multiplied by 0.71.)
+
+I use this percentage to estimate the total file size and the date of the final scan. 
   
 -	Date of first scan: 	6 June 2024	
 -	This page updated: 	18 July 2024	
 -	Size of scanned files: 	34.46	GB
--	Height of scanned zines:	247	mm
--	Total height of zines:	3,750	mm
--	Estimated total filesize	1046.36	GB
--	Boxes scanned:	0.49	/ 15
--	Progress: 	3.29%	
--	**Estimated day of final scan:	2 February 2027**
-
-
-**Progress:**  
-3.29%  
-⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
-🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
-🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
-🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
-100%
+-	Height of scanned zines:	124	mm
+-	Total height of zines:	3,602	mm
+-	Estimated total filesize	1005.17	GB
+-	Boxes scanned:	0.49	/ 16
+-	Progress: 	3.43%	
+-	**Estimated day of final scan:	26 December 2026**
+			
+**Progress:**			
+3.43%			
+⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
+🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
+🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
+🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
+100%			
 
 *(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain.)*
 
