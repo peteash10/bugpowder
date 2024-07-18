@@ -18,20 +18,20 @@ I use this percentage to estimate the total file size and the date of the final 
 -	Date of first scan: 	6 June 2024	
 -	This page updated: 	18 July 2024	
 -	Size of scanned files: 	34.46	GB
--	Height of scanned zines:	124	mm
+-	Height of scanned zines:	126	mm
 -	Total height of zines:	3,602	mm
--	Estimated total filesize	1005.17	GB
--	Boxes scanned:	0.49	/ 16
--	Progress: 	3.43%	
--	**Estimated day of final scan:	26 December 2026**
+-	Estimated total filesize	989.15	GB
+-	Boxes scanned:	0.50	/ 16
+-	Progress: 	3.48%	
+-	**Estimated day of final scan:	11 December 2026**
 			
 **Progress:**			
-3.43%			
+3.48%			
 ⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲			
-100%			
+100%						
 
 *(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain.)*
 
@@ -182,10 +182,14 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── The Palindromist 2 (1996)
 ├── Matthew Lawrenson
 │   └── Thoughts and Words 2 (2002)
+├── Megan Kelso
+│   └── Unspoken (1995-6?)
 ├── Mitch & Murray
 │   └── Amateur demo edition (1997)
 ├── Mr Biggers
 │   └── Loose Screws 15 (1998)
+├── Paperrad
+│   └── Muppet Babies
 ├── Paul & Neil Bristow
 │   ├── Holocron 0
 │   ├── Holocron 1 (1995)
@@ -245,7 +249,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   ├── SchNEWS 161 (1998)
 │   └── SchNEWS 162 (1998)
 ├── Sean Azzopardi
-│   └── Ed (2005)
+│   ├── Ed (2005)
+│   └── Twelve Hour Shift (2005)
 ├── Sean Duffield
 │   └── Paper Tiger Comix 1 (2004)
 ├── Shawn Granton
@@ -253,7 +258,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Simon Perrins & Andrew Livesey
 │   └── Flying Monkey 3 (1998)
 ├── Smoke
-│   └── Smoke - A London Perculiar 4 (2003)
+│   ├── Smoke - A London Peculiar 4 (2003)
+│   └── Smoke - A London Peculiar 6
 ├── Steve Blincoe
 │   ├── Fat Knite 3 (1988)
 │   ├── Fat Knite 4
