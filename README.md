@@ -14,18 +14,18 @@ Pete Ashton
 Progress is measured by taking the physical height of the scanned zines (currently just A5 as I only have a normal scanner right now) vs the total height of the boxes of zines. I use this percentage to estimate the total file size and the date of the final scan. 
   
 -	Date of first scan: 	6 June 2024	
--	This page updated: 	16 July 2024	
--	Size of scanned files: 	32.89	GB
--	Height of scanned zines:	237	mm
--	Height of all zines (est):	3,750	mm
--	Estimated total filesize	1040.82	GB
--	Boxes scanned:	0.47	/ 15
--	Progress: 	3.16%	
--	**Estimated day of final scan:	11 January 2027**
+-	This page updated: 	18 July 2024	
+-	Size of scanned files: 	34.46	GB
+-	Height of scanned zines:	247	mm
+-	Total height of zines:	3,750	mm
+-	Estimated total filesize	1046.36	GB
+-	Boxes scanned:	0.49	/ 15
+-	Progress: 	3.29%	
+-	**Estimated day of final scan:	2 February 2027**
 
 
 **Progress:**  
-3.16%  
+3.29%  
 ⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲  
@@ -68,6 +68,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Classic Comics #2 (2001)
 ├── Ben Oakes
 │   └── The Miserable Tale Of Demeter & Sharky (2002)
+├── Bib Edwards
+│   └── Braque's Love Dart (2001)
 ├── Big Untidy
 │   └── Big Untidy - Flyer and Letter
 ├── Bob Lynch
@@ -125,6 +127,9 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   ├── Aggadon (2004)
 │   ├── Zip Gun Presents - Chimera (2003)
 │   └── Zip Gun Presents - Japan (2001)
+├── Graham Pearce
+│   ├── Sgt Mike Battle (2001)
+│   └── Watchblood
 ├── Hisae Arai
 │   └── Cheeky Monkey's Fun Book
 ├── Into The Abyss
@@ -134,7 +139,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   ├── 3inaBed 15 (1996)
 │   ├── Feeding the Geese
 │   ├── Minute Steaks 22
-│   └── The Little Blue Book Of Extraordinary Interiors (2004)
+│   ├── The Little Blue Book Of Extraordinary Interiors (2004)
+│   └── The Weeky Strip (2001)
 ├── Jessica
 │   ├── Psychosense 1 (1996)
 │   └── Psychosense 9 (1997)
@@ -154,6 +160,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Fancy a Brew 1 (1997?)
 ├── Jone-Zee
 │   └── Ain't Life A Blast 2
+├── Kevin Huizenga
+│   └── Impossible 1 (2001?)
 ├── Kevin Lousy
 │   └── Rinky Dink 1 (1998)
 ├── Liliane
@@ -204,9 +212,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Rick Olsen
 │   └── Tiddles the Wonder Cat's Super Silly Fun Book (1997)
 ├── Rik Hoskin
-│   └── American Ant 1 (1993)
-├── Rob Lenningrad
-│   └── Watchblood
+│   ├── American Ant 1 (1993)
+│   └── Broken Jeffrey (1996)
 ├── Robin Bougie
 │   └── Minds Eye Presents 10 (2001)
 ├── Rol Hirst
