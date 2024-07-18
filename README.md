@@ -23,7 +23,7 @@ I use this percentage to estimate the total file size and the date of the final 
 -	Estimated total filesize	1004.08	GB
 -	Boxes scanned:	0.50	/ 16
 -	Progress: 	3.48%	
--	**Estimated day of final scan:	11 December 2026	**
+-	**Estimated day of final scan:	11 December 2026**
 			
 **Progress:**			
 3.48%	<br>		
