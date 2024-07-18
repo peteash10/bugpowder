@@ -17,10 +17,10 @@ I use this percentage to estimate the total file size and the date of the final 
   
 -	Date of first scan: 	6 June 2024	
 -	This page updated: 	18 July 2024	
--	Size of scanned files: 	34.46	GB
+-	Size of scanned files: 	34.98	GB
 -	Height of scanned zines:	126	mm
 -	Total height of zines:	3,602	mm
--	Estimated total filesize	989.15	GB
+-	Estimated total filesize	1004.08	GB
 -	Boxes scanned:	0.50	/ 16
 -	Progress: 	3.48%	
 -	**Estimated day of final scan:	11 December 2026**
