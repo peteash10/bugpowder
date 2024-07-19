@@ -1,6 +1,6 @@
 # The BugPowder archive
 
-From 1988 to the early 2000s I amassed a collection of thousands of self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsollicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. 
+From 1988 to the early 2000s I amassed a collection of thousands of self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. 
 
 In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page shows my progress. 
 
@@ -9,8 +9,7 @@ Pete Ashton
 
 <div style="border:3px solid red; padding: 5px;">
 
-At some point I will need to get a budget A3 scanner. <br>
-If you can advise me on which to buy and where to get one from, please get in touch!
+In a few months I will need an A3 scanner. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!
 
 </div>
 
