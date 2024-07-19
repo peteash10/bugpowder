@@ -4,7 +4,12 @@ From 1988 to the early 2000s I amassed a collection of thousands of self publish
 
 In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page shows my progress. 
 
-Pete Ashton
+Pete Ashton  
+*pete@peteashton.com*
+
+<div style="border:1px solid red; padding: 5px;">
+At some point I will need to get a budget A3 scanner. If you can advise me on which to buy and where to get one from, please get in touch!
+</div>
 
 ## Info
 - [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, 25 June 2024.
