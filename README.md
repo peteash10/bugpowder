@@ -118,6 +118,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   ├── Fury 2 (1991)
 │   ├── Fury 3 (1992)
 │   └── The Lightning Room [Damage 1] (1993)
+├── David Potts
+│   └── Inkling (1991)
 ├── David Willacy
 │   └── The Outer Realms 3 (2004)
 ├── Derek Gray
@@ -226,6 +228,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Art Students Stole My Vibrator (2000)
 ├── Ralph Kidson
 │   └── Captain Dolphin 5
+├── Richard Z Starbuck
+│   └── Automatic 6 (1996)
 ├── Rick Olsen
 │   └── Tiddles the Wonder Cat's Super Silly Fun Book (1997)
 ├── Rik Hoskin
