@@ -45,7 +45,6 @@ A5 zines |	2027	|	251	|	12.38%
 A4 zines |	1605	|	0	|	0.00%
 Comic zines |	1090	|	0	|	0.00%
 
-*(Don't try to replicate my maths - there are a few qualifiers in there which would take too long to explain.)*
 
 ## The zines
 
