@@ -7,8 +7,9 @@ In 2024, while signed off work with Long-Covid-related stuff, I decided to start
 Pete Ashton  
 *pete@peteashton.com*
 
-<div style="border:1px solid red; padding: 5px;">
-At some point I will need to get a budget A3 scanner. If you can advise me on which to buy and where to get one from, please get in touch!
+<div style="border:3px solid red; padding: 5px;">
+At some point I will need to get a budget A3 scanner.  
+If you can advise me on which to buy and where to get one from, please get in touch!
 </div>
 
 ## Info
