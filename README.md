@@ -24,16 +24,16 @@ I use this percentage to estimate the total file size and the date of the final 
   
 -	Date of first scan: 	6 June 2024			
 -	This page updated: 	19 July 2024			
--	Size of scanned files: 	34.98	GB		
--	Height of scanned zines:	126	mm		
+-	Size of scanned files: 	36.01	GB		
+-	Height of scanned zines:	129	mm		
 -	Total height of zines:	3,602	mm		
--	Estimated total filesize	1004.08	GB		
--	Boxes scanned:	0.50	/ 16		
--	**Estimated day of final scan:	9 January 2027**		
-- 	(only	29.7	months to go)		
+-	Estimated total filesize	1009.51	GB		
+-	Boxes scanned:	0.51	/ 16		
+-	**Estimated day of final scan:	18 December 2026**		
+- 	(only	29.0	months to go)		
 					
 ## Progress					
-The project is 	3.48%	complete. <br>			
+The project is 	3.57%	complete. <br>			
 ⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>					
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>					
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>					
@@ -42,7 +42,7 @@ The project is 	3.48%	complete. <br>
 Format |	Total height	|	Scanned height	|	Progress
 ------ |	-----	|	-----	|	-----
 A6 zines |	840	|	0	|	0.00%
-A5 zines |	2027	|	251	|	12.38%
+A5 zines |	2027	|	257	|	12.68%
 A4 zines |	1605	|	0	|	0.00%
 Comic zines |	1090	|	0	|	0.00%
 
