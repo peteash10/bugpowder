@@ -307,6 +307,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
     └── Robot Investigator (2001)
 ```
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
 *[Pete Ashton](http://peteashton.com)*
 
 <script data-goatcounter="https://bugpowder.goatcounter.com/count"
