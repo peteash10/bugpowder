@@ -60,9 +60,8 @@ Comic book | 1090mm | 0mm | 0.00%
 
 Photos taken from [an exhibition](https://art.peteashton.com/OZA/) put on in 2018. 
 
+![](OZA1.jpg)![](OZA2.jpg)![](OZA3.jpg)![](OZA4.jpg)![](OZA5.jpg)![](OZA6.jpg)
 
-
-![](OAZ02.jpg)
 
 *[Pete Ashton](http://peteashton.com)*
 
