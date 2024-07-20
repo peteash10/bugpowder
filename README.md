@@ -23,6 +23,9 @@ In a few months I will need an A3 scanner. If you can advise me on which to buy 
 
 As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to turn this into a more accessible, searchable website in the future.
 
+- [View it on the web](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
+- [Bownload it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true).
+
 ## Stats
 Progress is measured by taking the physical height of the scanned zines vs the total height all the zines, converted to A4. (A5 height divided by 2, A6 by 4, and US comic format multiplied by 0.71.)
 
@@ -30,10 +33,11 @@ I use this percentage to estimate the total file size and the date of the final 
   
 - Date of first scan: 	6 June 2024	
 - This page updated: 	20 July 2024	
-- Size of scanned files: 	36.56	GB
+- Number of zines scanned: 	155	
+- Size of scanned files: 	36.76	GB
 - Height of scanned zines:	134	mm
 - Total height of zines:	3,602	mm
-- Estimated total filesize	986.54	GB
+- Estimated total filesize	991.94	GB
 - Boxes scanned:	0.53	/ 16
 - **Estimated day of final scan:**	10 December 2026	
 - (only 28.72 months to go)		
@@ -47,14 +51,15 @@ Scanning is **3.71%** complete <br>
 		
 Format | Total height | Scanned height | Progress		
 ------ | ----- | ----- | -----		
-A6 zines | 840mm | 0mm | 0.00%		
-A5 zines | 2027mm | 267mm | 13.17%		
-A4 zines | 1605mm | 0mm | 0.00%		
-Comic size zines | 1090mm | 0mm | 0.00%		
+A6 / mini | 840mm | 0mm | 0.00%		
+A5 / digest | 2027mm | 267mm | 13.17%		
+A4 / letter | 1605mm | 0mm | 0.00%		
+Comic book | 1090mm | 0mm | 0.00%		
 
+## Some of the zines
 
-- [View it on the web](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
-- [Bownload it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true).
+Photos taken from [an exhibition](https://art.peteashton.com/OZA/) put on in 2018. 
+
 
 
 ![](OAZ02.jpg)
