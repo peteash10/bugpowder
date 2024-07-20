@@ -24,16 +24,16 @@ I use this percentage to estimate the total file size and the date of the final 
   
 - Date of first scan: 	6 June 2024	
 - This page updated: 	20 July 2024	
-- Size of scanned files: 	36.01	GB
-- Height of scanned zines:	129	mm
+- Size of scanned files: 	36.56	GB
+- Height of scanned zines:	134	mm
 - Total height of zines:	3,602	mm
-- Estimated total filesize	1009.51	GB
-- Boxes scanned:	0.51	/ 16
-- **Estimated day of final scan:**	15 January 2027	
-- (only 29.89 months to go)		
+- Estimated total filesize	986.54	GB
+- Boxes scanned:	0.53	/ 16
+- **Estimated day of final scan:**	10 December 2026	
+- (only 28.72 months to go)		
 		
 ## Progress		
-Scanning is **3.57%** complete <br>		
+Scanning is **3.71%** complete <br>		
 ⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>		
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>		
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>		
@@ -42,7 +42,7 @@ Scanning is **3.57%** complete <br>
 Format | Total height | Scanned height | Progress		
 ------ | ----- | ----- | -----		
 A6 zines | 840mm | 0mm | 0.00%		
-A5 zines | 2027mm | 257mm | 12.68%		
+A5 zines | 2027mm | 267mm | 13.17%		
 A4 zines | 1605mm | 0mm | 0.00%		
 Comic size zines | 1090mm | 0mm | 0.00%		
 
@@ -74,7 +74,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   ├── Angel Dust Funnies 1 (1989)
 │   └── Angel Dust Funnies 4 (1989)
 ├── Atomic
-│   └── Atomic 10 (1990-91)
+│   ├── Atomic 10 (1990-91)
+│   └── Atomic 9 (1990)
 ├── Ben Graham
 │   └── The First Job (2001)
 ├── Ben Hunt & Robyn Talbot
@@ -149,6 +150,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 │   └── Cheeky Monkey's Fun Book
 ├── Into The Abyss
 │   └── Fight Amnesia! 10 (1996)
+├── Jason Whitley
+│   └── Your Living Room (1996)
 ├── Jeremy Dennis
 │   ├── 3inaBed 11 (1995)
 │   ├── 3inaBed 15 (1996)
@@ -272,7 +275,8 @@ As the scanning progresses I will include a searchable index of the archive (or 
 ├── Shawn Granton
 │   └── Ten Foot Rule 5 (2000)
 ├── Simon Perrins & Andrew Livesey
-│   └── Flying Monkey 3 (1998)
+│   ├── Flying Monkey 3 (1998)
+│   └── Hope for the Future 3 (2001)
 ├── Smoke
 │   ├── Smoke - A London Peculiar 4 (2003)
 │   └── Smoke - A London Peculiar 6
