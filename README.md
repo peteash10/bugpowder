@@ -13,9 +13,15 @@ In a few months I will need an A3 scanner. If you can advise me on which to buy 
 
 </div>
 
-## Info
+## More info about the project 
+
 - [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, 25 June 2024.
 - [The Open Zine Archive](https://art.peteashton.com/OZA/) - the collection on display in 2018.
+
+
+## The scanned zines
+
+As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to turn this into a more accessible, searchable website in the future.
 
 ## Stats
 Progress is measured by taking the physical height of the scanned zines vs the total height all the zines, converted to A4. (A5 height divided by 2, A6 by 4, and US comic format multiplied by 0.71.)
@@ -46,10 +52,6 @@ A5 zines | 2027mm | 267mm | 13.17%
 A4 zines | 1605mm | 0mm | 0.00%		
 Comic size zines | 1090mm | 0mm | 0.00%		
 
-
-## The zines
-
-As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to turn this into a more accessible, searchable website in the future.
 
 - [View it on the web](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
 - [Bownload it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true).
