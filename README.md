@@ -34,13 +34,13 @@ Scanning is **3.72%** complete <br>
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>
 🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>
 
-Scanning began on **6 June 2024**. As of **21 July 2024**, **159 zines** have been scanned, an average of **3.5 per day**. When stacked as an A4 pile they measure **3,602 mm high**.   
+Scanning began on **6 June 2024**. This page was updated on **21 July 2024** and in that time **159 zines** have been scanned, an average of **3.5 per day**. 
 
-The total height of all the zines is **3,602 mm**, so we are **3.72%** of the way through the scanning. **0.54** of the 16 boxes have been scanned.   
+When stacked as an A4 pile the scanned zines are **3,602 mm high**.   The total height of all the zines is **3,602 mm**, so we are **3.72%** of the way through the scanning. **0.54** of the 16 boxes have been scanned.   
 
 The size of the scans on disk is **37.5 GB** and the estimated total is currently **1,007.6 GB**.   
 
-Based on the current rate, the final day of scanning should be **2 January 2027**, which is in **29.46** months.   
+Based on the current rate, the final day of scanning should be **28 September 2027**, which is in **38.29** months.   
 
 ## Progress by format
 
