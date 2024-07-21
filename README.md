@@ -31,13 +31,15 @@ As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to 
 Scanning is **4.00%** complete <br>
 ☑️☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
 
-This page was updated on **21 July 2024** and scanning began on **6 June 2024**.  In that time **164 zines** have been scanned, an average of **3.6 per day**. 
+📅 This page was updated on **21 July 2024** and scanning began on **6 June 2024**.  In that time **164 zines** have been scanned, an average of **3.6 per day**. 
 
-When stacked as an A4 pile the scanned zines are **144 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.00%** of the way through the scanning. **0.58** of the 16 boxes have been scanned.   
+📏 When stacked as an A4 pile the scanned zines are **144 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.00%** of the way through the scanning. **0.58** of the 16 boxes have been scanned.   
 
-The size of the scans on disk is **38.9 GB** and the estimated total is currently **974.1 GB**.   
+📖 The scanned zines comprise **4,582** pages, an average of **27.9** pages per zine. The largest zine has **92** pages and the smallest **2**. The most common size is **24** pages.
 
-Based on the current rate, the final day of scanning should be **6 July 2027**, which is in **35.53** months.   
+💾 The size of the scans on disk is **38.9 GB** and the estimated total is currently **974.1 GB**.   
+
+📅 Based on the current rate, the final day of scanning should be **6 July 2027**, which is in **35.53** months.   
 
 ## Progress by format
 
