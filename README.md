@@ -48,6 +48,15 @@ A5 / digest | 2,027mm | 288mm | 14.21%
 A4 / letter | 1,605mm | 0mm | 0.00%
 Comic book | 1,090mm | 0mm | 0.00%
 
+## Charts
+
+**Distribution of page counts across scanned zines.**  
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1533171026&format=image)
+
+**Number of zines scanned each day.**  
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=623822358&format=image)  
+(I had Covid 12-23 June...)
+
 ## Some of the zines
 
 Photos taken from [an exhibition](https://art.peteashton.com/OZA/) put on in 2018. 
