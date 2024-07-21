@@ -28,23 +28,25 @@ As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to 
 
 ## Stats
 
-Scanning is **3.82%** complete <br>
+## Stats
+
+Scanning is **3.94%** complete <br>
 ☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
 
-This page was updated on **21 July 2024** and scanning began on **6 June 2024**.  In that time **161 zines** have been scanned, an average of **3.6 per day**. 
+This page was updated on **21 July 2024** and scanning began on **6 June 2024**.  In that time **164 zines** have been scanned, an average of **3.6 per day**. 
 
-When stacked as an A4 pile the scanned zines are **138 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **3.82%** of the way through the scanning. **0.55** of the 16 boxes have been scanned.   
+When stacked as an A4 pile the scanned zines are **142 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **3.94%** of the way through the scanning. **0.57** of the 16 boxes have been scanned.   
 
-The size of the scans on disk is **38.1 GB** and the estimated total is currently **999.2 GB**.   
+The size of the scans on disk is **38.9 GB** and the estimated total is currently **987.9 GB**.   
 
-Based on the current rate, the final day of scanning should be **28 August 2027**, which is in **37.28** months.   
+Based on the current rate, the final day of scanning should be **22 July 2027**, which is in **36.05** months.   
 
 ## Progress by format
 
 Format | Total height | Scanned height | Progress
 ------ | ----- | ----- | -----
 A6 / mini | 840mm | 0mm | 0.00%
-A5 / digest | 2,027mm | 275mm | 13.57%
+A5 / digest | 2,027mm | 284mm | 14.01%
 A4 / letter | 1,605mm | 0mm | 0.00%
 Comic book | 1,090mm | 0mm | 0.00%
 
