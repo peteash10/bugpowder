@@ -27,34 +27,30 @@ As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to 
 - [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
 
 ## Stats
-Progress is measured by taking the physical height of the scanned zines vs the total height all the zines, converted to A4. (A5 height divided by 2, A6 by 4, and US comic format multiplied by 0.71.)
 
-I use this percentage to estimate the total file size and the date of the final scan. 
-  
-- Date of first scan: 	6 June 2024	
-- This page updated: 	21 July 2024	
-- Number of zines scanned: 	159	
-- Size of scanned files: 	37.48	GB
-- Height of scanned zines:	134	mm
-- Total height of zines:	3,602	mm
-- Estimated total filesize	1007.60	GB
-- Boxes scanned:	0.54	/ 16
-- **Estimated day of final scan:**	2 January 2027	
-- (only 29.46 months to go)		
-		
-## Progress		
-Scanning is **3.72%** complete <br>		
-⬛⬛⬛🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>		
-🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>		
-🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>		
-🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>		
-		
-Format | Total height | Scanned height | Progress		
------- | ----- | ----- | -----		
-A6 / mini | 840mm | 0mm | 0.00%		
-A5 / digest | 2027mm | 268mm | 13.22%		
-A4 / letter | 1605mm | 0mm | 0.00%		
-Comic book | 1090mm | 0mm | 0.00%		
+Scanning is **3.72%** complete <br>
+☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>
+🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>
+🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>
+🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲<br>
+
+Scanning began on **6 June 2024**. As of **21 July 2024**, **159 zines** have been scanned, an average of **3.5 per day**. When stacked as an A4 pile they measure **3,602 mm high**.   
+
+The total height of all the zines is **3,602 mm**, so we are **3.72%** of the way through the scanning. **0.54** of the 16 boxes have been scanned.   
+
+The size of the scans on disk is **37.5 GB** and the estimated total is currently **1,007.6 GB**.   
+
+Based on the current rate, the final day of scanning should be **2 January 2027**, which is in **29.46** months.   
+
+## Progress by format
+
+Format | Total height | Scanned height | Progress
+------ | ----- | ----- | -----
+A6 / mini | 840mm | 0mm | 0.00%
+A5 / digest | 2,027mm | 268mm | 13.22%
+A4 / letter | 1,605mm | 0mm | 0.00%
+Comic book | 1,090mm | 0mm | 0.00%
+
 
 ## Some of the zines
 
