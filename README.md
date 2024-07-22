@@ -61,7 +61,12 @@ Comic book | 1,090mm | 0mm | 0.00%
 ### Number of zines scanned each day.
 (I had Covid 12-20 June...)
 
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=623822358&format=image)  
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=623822358&format=image) 
+
+### Number of pages scanned each day.
+(Some zines are bigger than others...)
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1841904038&format=image) 
 
 ## Some of the zines
 
