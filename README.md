@@ -9,7 +9,7 @@ Pete Ashton
 
 <div style="border:3px solid red; padding: 5px;">
 
-In a few months I will need an A3 scanner. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!
+At some point in 2025 I will have scanned all the smaller zines and will need to get an A3 scanner. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!
 
 </div>
 
@@ -28,28 +28,27 @@ As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to 
 
 ## Stats
 
-Scanning is **4.00%** complete <br>
+Scanning is **4.05%** complete <br>
 ☑️☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
 
-This page was updated on **22 July 2024** and scanning began on **6 June 2024**.  In that time **164 zines** have been scanned, an average of **3.6 per day**. 
+This page was updated on **22 July 2024** and scanning began on **6 June 2024**.  In that time **171 zines** have been scanned, an average of **3.7 per day**. 
 
-When stacked as an A4 pile the scanned zines are **144 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.00%** of the way through the scanning. **0.58** of the 16 boxes have been scanned.   
+When stacked as an A4 pile the scanned zines are **146 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.05%** of the way through the scanning. **0.58** of the 16 boxes have been scanned.   
 
-The scanned zines comprise **4,582** pages, an average of **27.9** pages per zine. The largest zine has **92** pages and the smallest **2**. The most common size is **24** pages.
+The 171 scanned zines comprise **4,762** pages, an average of **27.8** pages per zine. The largest zine has **92** pages and the smallest **2**. The most common size is **24** pages.
 
-The size of the scans on disk is **38.9 GB** and the estimated total is currently **974.1 GB**.   
+The size of the scans on disk is **40.4 GB** and the estimated total is currently **997.6 GB**.   
 
-Based on the current rate, the final day of scanning should be **31 July 2027**, which is in **36.32** months.   
+Based on the current rate, the final day of scanning should be **16 July 2027**, which is in **35.80** months.   
 
 ## Progress by format
 
 Format | Total height | Scanned height | Progress
 ------ | ----- | ----- | -----
 A6 / mini | 840mm | 12mm | 1.43%
-A5 / digest | 2,027mm | 278mm | 13.71%
-A4 / letter | 1,605mm | 2mm | 0.12%
+A5 / digest | 2,027mm | 284mm | 14.01%
+A4 / letter | 1,605mm | 1mm | 0.06%
 Comic book | 1,090mm | 0mm | 0.00%
-
 
 ## Charts
 
