@@ -26,6 +26,8 @@ As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to 
 - [List of scanned zines as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
 - [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
 
+I plan to turn this into a more accessible, searchable website in the future.
+
 ## Stats
 
 Scanning is **4.05%** complete <br>
@@ -37,7 +39,7 @@ When stacked as an A4 pile the scanned zines are **146 mm high**.   The total he
 
 The 171 scanned zines comprise **4,762** pages, an average of **27.8** pages per zine. The largest zine has **92** pages and the smallest **2**. The most common size is **24** pages.
 
-The size of the scans on disk is **40.4 GB** and the estimated total is currently **997.6 GB**.   
+The uncompressed TIFF files take up **40.4 GB** on disk and the estimated final total is **997.6 GB**.   
 
 Based on the current rate, the final day of scanning should be **16 July 2027**, which is in **35.80** months.   
 
