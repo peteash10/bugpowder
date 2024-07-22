@@ -30,25 +30,25 @@ I plan to turn this into a more accessible, searchable website in the future.
 
 ## Stats
 
-Scanning is **4.21%** complete <br>
+Scanning is **4.40%** complete <br>
 ☑️☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
 
-This page was updated on **22 July 2024** and scanning began on **6 June 2024**.  In that time **175 zines** have been scanned, an average of **3.8 per day**. 
+This page was updated on **22 July 2024** and scanning began on **6 June 2024**.  In that time **178 zines** have been scanned, an average of **3.9 per day**. 
 
-When stacked as an A4 pile the scanned zines are **152 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.21%** of the way through the scanning. **0.61** of the 16 boxes have been scanned.   
+When stacked as an A4 pile the scanned zines are **159 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.40%** of the way through the scanning. **0.63** of the 16 boxes have been scanned.   
 
-The 175 scanned zines comprise **4,866** pages, an average of **27.8** pages per zine. The largest zine has **92** pages and the smallest **2**. The most common size is **24** pages.
+The 178 scanned zines comprise **5,006** pages, an average of **28.1** pages per zine. The largest zine has **92** pages and the smallest **2**. The most common size is **24** pages.
 
-The uncompressed TIFF files take up **41.4 GB** on disk and the estimated final total is **984.2 GB**.   
+The uncompressed TIFF files take up **42.8 GB** on disk and the estimated final total is **972.8 GB**.   
 
-Based on the current rate, the final day of scanning should be **4 June 2027**, which is in **34.45** months.   
+Based on the current rate, the final day of scanning should be **17 April 2027**, which is in **32.86** months.   
 
 ## Progress by format
 
 Format | Total height | Scanned height | Progress
 ------ | ----- | ----- | -----
 A6 / mini | 840mm | 12mm | 1.43%
-A5 / digest | 2,027mm | 295mm | 14.55%
+A5 / digest | 2,027mm | 309mm | 15.24%
 A4 / letter | 1,605mm | 1mm | 0.06%
 Comic book | 1,090mm | 0mm | 0.00%
 
