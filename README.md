@@ -57,7 +57,7 @@ Comic book | 1,090mm | 0mm | 0.00%
 
 **Number of zines scanned each day.**  
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=623822358&format=image)  
-(I had Covid 12-23 June...)
+(I had Covid 12-20 June...)
 
 ## Some of the zines
 
