@@ -21,7 +21,7 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 
 ## The scanned zines
 
-As the scanning progresses I'm updating a spreadsheet on Google docs. I plan to turn this into a more accessible, searchable website in the future.
+As the scanning progresses I'm updating a spreadsheet on Google docs. 
 
 - [List of scanned zines as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
 - [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
@@ -54,12 +54,14 @@ Comic book | 1,090mm | 0mm | 0.00%
 
 ## Charts
 
-**Distribution of page counts across scanned zines.**  
+### Distribution of page counts across scanned zines.
+
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1533171026&format=image)
 
-**Number of zines scanned each day.**  
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=623822358&format=image)  
+### Number of zines scanned each day.
 (I had Covid 12-20 June...)
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=623822358&format=image)  
 
 ## Some of the zines
 
