@@ -2,7 +2,7 @@
 
 From 1988 to the early 2000s I amassed a collection of thousands of self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. 
 
-In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box and starting from the top. This page shows my progress. 
+In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box of A5 zines and scanning a handful each evening. This page documents my progress. 
 
 Pete Ashton  
 *pete@peteashton.com*
