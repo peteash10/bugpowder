@@ -37,7 +37,7 @@ This page was updated on **24 July 2024** and scanning began on **6 June 2024**.
 
 When stacked as an A4 pile the scanned zines are **165 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.58%** of the way through the scanning. **0.66** of the 16 boxes have been scanned.   
 
-The 185 scanned zines comprise **5,166** pages, an average of **27.9** pages per zine. The largest zine has **92** pages and the smallest **2**.
+The 185 scanned zines comprise **5,166** pages, an average of **27.9** pages per zine. The largest zine has **92** pages and the smallest **2**. The earliest zines were published in **1988** and the latest in **2005**.
 
 The uncompressed TIFF files take up **44.3 GB** on disk and the estimated final total is **966.5 GB**.   
 
