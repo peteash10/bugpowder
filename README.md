@@ -9,7 +9,7 @@ Pete Ashton
 
 <div style="border:3px solid red; padding: 5px;">
 
-At some point in 2025 I will have scanned all the smaller zines and will need to get an A3 scanner. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!
+At some point in 2025 I will have scanned all the smaller zines and will need to get an A3 scanner to do the rest. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!
 
 </div>
 
@@ -30,25 +30,25 @@ I plan to turn this into a more accessible, searchable website in the future.
 
 ## Stats
 
-Scanning is **4.5%** complete <br>
+Scanning is **4.6%** complete <br>
 ☑️☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
 
-This page was updated on **23 July 2024** and scanning began on **6 June 2024**.  In that time **180 zines** have been scanned, an average of **3.8 per day**. 
+This page was updated on **24 July 2024** and scanning began on **6 June 2024**.  In that time **185 zines** have been scanned, an average of **3.9 per day**. 
 
-When stacked as an A4 pile the scanned zines are **161 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.47%** of the way through the scanning. **0.64** of the 16 boxes have been scanned.   
+When stacked as an A4 pile the scanned zines are **165 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.58%** of the way through the scanning. **0.66** of the 16 boxes have been scanned.   
 
-The 180 scanned zines comprise **5,062** pages, an average of **28.1** pages per zine. The largest zine has **92** pages and the smallest **2**.
+The 185 scanned zines comprise **5,166** pages, an average of **27.9** pages per zine. The largest zine has **92** pages and the smallest **2**.
 
-The uncompressed TIFF files take up **43.3 GB** on disk and the estimated final total is **969.3 GB**.   
+The uncompressed TIFF files take up **44.3 GB** on disk and the estimated final total is **966.5 GB**.   
 
-At the current rate the final day of scanning should be **23 April 2027**, which is in **33.03** months.   
+At the current rate the final day of scanning should be **19 April 2027**, which is in **32.88** months.   
 
 ## Progress by format
 
 Format | Total height | Scanned height | Progress
 ------ | ----- | ----- | -----
 A6 / mini | 840mm | 12mm | 1.43%
-A5 / digest | 2,027mm | 314mm | 15.49%
+A5 / digest | 2,027mm | 322mm | 15.89%
 A4 / letter | 1,605mm | 1mm | 0.06%
 Comic book | 1,090mm | 0mm | 0.00%
 
