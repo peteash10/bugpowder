@@ -35,11 +35,11 @@ Scanning is **4.6%** complete <br>
 
 This page was updated on **24 July 2024** and scanning began on **6 June 2024**.  In that time **185 zines** have been scanned, an average of **3.9 per day**. 
 
-When stacked as an A4 pile the scanned zines are **165 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.58%** of the way through the scanning. **0.66** of the 16 boxes have been scanned.   
+When stacked as an A4 pile the scanned zines are **165 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.6%** of the way through the scanning. **0.66** of the 16 boxes have been scanned.   
 
-The 185 scanned zines comprise **5,166** pages, an average of **27.9** pages per zine. The largest zine has **92** pages and the smallest **2**. The earliest zines were published in **1988** and the latest in **2005**.
+The 185 scanned zines comprise **5,166** pages, an average of **27.9** pages per zine. The largest zine has **92** pages and the smallest **2**. Of the scanned zines, the earliest were published in **1988** and the latest in **2005**.
 
-The uncompressed TIFF files take up **44.3 GB** on disk and the estimated final total is **966.5 GB**.   
+The uncompressed TIFF files take up **44.3 GB** on disk. If we are 4.6% complete, the final total should be **966.5 GB**.   
 
 At the current rate the final day of scanning should be **19 April 2027**, which is in **32.88** months.   
 
