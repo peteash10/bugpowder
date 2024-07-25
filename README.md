@@ -21,9 +21,11 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 
 ## The scanned zines
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k5PfxQ_esik?si=DxyqUnUEFBGR26Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*A slideshow of the covers of the scanned zines as of 24 July 2024.*
 
-As the scanning progresses I'm updating a spreadsheet on Google docs. 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-W7BXDal3fI?si=VRjmEkgMxOOJkjfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Each scanned zine is added to a spreadsheet on Google docs. 
 
 - [List of scanned zines as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
 - [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
