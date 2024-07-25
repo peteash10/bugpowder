@@ -33,7 +33,7 @@ I plan to turn this into a more accessible, searchable website in the future.
 Scanning is **4.6%** complete <br>
 ☑️☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
 
-This page was updated on **24 July 2024** and scanning began on **6 June 2024**.  In that time **185 zines** have been scanned, an average of **3.9 per day**. 
+This page was updated on **24 July 2024** and scanning began on **6 June 2024**.  Over those 48 days **185 zines** have been scanned, an average of **3.9 per day**. 
 
 When stacked as an A4 pile the scanned zines are **165 mm high**.   The total height of all the zines in A4 boxes is **3,602 mm**, so we are **4.6%** of the way through the scanning. **0.66** of the 16 boxes have been scanned.   
 
