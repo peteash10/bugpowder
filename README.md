@@ -21,9 +21,9 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 
 ## The scanned zines
 
-*A slideshow of the covers of the scanned zines as of 24 July 2024.*
+*A slideshow of the covers of the scanned zines as of 26 July 2024.*
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-W7BXDal3fI?si=VRjmEkgMxOOJkjfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b8R0jODRSyM?si=u8lOMqblLYgLTeza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Each scanned zine is added to a spreadsheet on Google docs. 
 
