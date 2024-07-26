@@ -45,7 +45,7 @@ The 192 scanned zines comprise **5,402** pages, an average of **28.1** pages per
 
 The uncompressed TIFF files take up **46.6 GB** on disk. If we are 4.8% complete, the final total should be **979.3 GB**.   
 
-At the current rate the final day of scanning should be **23 April 2027**, which is in **32.92** months.   
+At the current rate the final day of scanning should be **23 April 2027**, which is in **32.92** months.  
 
 ## Progress by format
 
