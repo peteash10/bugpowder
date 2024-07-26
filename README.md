@@ -37,22 +37,22 @@ I plan to turn this into a more accessible, searchable website in the future.
 Scanning is **4.8%** complete <br>
 ☑️☑️☑️☑️🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲🔲
 
-This page was updated on **26 July 2024** and scanning began on **6 June 2024**.  Over those 50 days **191 zines** have been scanned, an average of **3.8 per day**. 
+This page was updated on **26 July 2024** and scanning began on **6 June 2024**.  Over those 50 days **192 zines** have been scanned, an average of **3.8 per day**. 
 
-When stacked as an A4 pile the scanned zines are **172 mm high**.   The total height of all the zines in A4 boxes is **3,554 mm**, so we are **4.8%** of the way through the scanning. **0.69** of the 16 boxes have been scanned. *(A small but significant number of items may not technically be zines or self published, so the total height will shrink as I filter those out.)*
+When stacked as an A4 pile the scanned zines are **169 mm high**.   The total height of all the zines in A4 boxes is **3,554 mm**, so we are **4.8%** of the way through the scanning. **0.68** of the 16 boxes have been scanned. *(A small but significant number of items may not technically be zines or self published, so the total height will shrink as I filter those out.)*
 
-The 191 scanned zines comprise **5,378** pages, an average of **28.2** pages per zine. The largest zine has **92** pages and the smallest **2**. Of the scanned zines, the earliest were published in **1988** and the latest in **2005**.
+The 192 scanned zines comprise **5,402** pages, an average of **28.1** pages per zine. The largest zine has **92** pages and the smallest **2**. Of the scanned zines, the earliest were published in **1988** and the latest in **2005**.
 
-The uncompressed TIFF files take up **46.3 GB** on disk. If we are 4.8% complete, the final total should be **957.1 GB**.   
+The uncompressed TIFF files take up **46.6 GB** on disk. If we are 4.8% complete, the final total should be **979.3 GB**.   
 
-At the current rate the final day of scanning should be **5 April 2027**, which is in **32.32** months.   
+At the current rate the final day of scanning should be **23 April 2027**, which is in **32.92** months.   
 
 ## Progress by format
 
 Format | Total height | Scanned height | Progress
 ------ | ----- | ----- | -----
 A6 / mini | 840mm | 12mm | 1.43%
-A5 / digest | 1,930mm | 336mm | 17.41%
+A5 / digest | 1,930mm | 330mm | 17.10%
 A4 / letter | 1,605mm | 1mm | 0.06%
 Comic book | 1,090mm | 0mm | 0.00%
 
