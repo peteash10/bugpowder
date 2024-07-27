@@ -9,7 +9,9 @@ In 2024, while signed off work with Long-Covid-related stuff, I decided to start
 Pete Ashton  
 *pete@peteashton.com*
 
-* TOC {:toc}
+* TOC
+
+{:toc}
 
 <div style="border:3px solid red; padding: 5px;">
 
