@@ -23,12 +23,12 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 
 ## The scanned zines
 
-As each zine is scanned it's added to a spreadsheet, the first stage of building a searchable archive: 
+As each zine is scanned it is added to a spreadsheet, the first stage of building a searchable archive: 
 
 - [View as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
 - [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
 
-Here are the covers of all zines in the order they were scanned. 
+Here are the covers of all zines in the order they were scanned. (I am scanning the entire contents but will not be making them publicly available without permission of the creators. Access to the full archive will be figured out in time.) 
 
 
 <img height="100" src="thumbs/100001_t.jpg">
