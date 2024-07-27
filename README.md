@@ -224,6 +224,7 @@ Here are the covers of all zines in the order they were scanned.
 <img height="100" src="thumbs/100191_t.jpg">
 <img height="100" src="thumbs/100192_t.jpg">
 
+
 I periodically make a video slideshow of the covers in a higher resolution. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b8R0jODRSyM?si=u8lOMqblLYgLTeza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
