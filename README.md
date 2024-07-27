@@ -1,6 +1,6 @@
 # The BugPowder archive
 
-From 1988 to the early 2000s I amassed a collection of thousands of self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. Most of them are photocopied or printed in very short runs. Many of them are hand-finished with personal touches. 
+From 1988 to the early 2000s I amassed a collection of roughly 4-5,000 self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. Most of them are photocopied or printed in very short runs. Many of them are hand-finished with personal touches. 
 
 During the 1990s I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. Because while the quality may vary from the sublime to the unfortunate, they are unique objects and I feel they all have value.
 
@@ -22,6 +22,14 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 
 
 ## The scanned zines
+
+As each zine is scanned it's added to a spreadsheet, the first stage of building a searchable archive: 
+
+- [View as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
+- [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
+
+Here are the covers of all zines in the order they were scanned. 
+
 
 <img height="100" src="thumbs/100001_t.jpg">
 <img height="100" src="thumbs/100002_t.jpg">
@@ -216,16 +224,10 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 <img height="100" src="thumbs/100191_t.jpg">
 <img height="100" src="thumbs/100192_t.jpg">
 
-*A slideshow of the covers of the scanned zines as of 26 July 2024.*
+I periodically make a video slideshow of the covers in a higher resolution. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b8R0jODRSyM?si=u8lOMqblLYgLTeza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Each scanned zine is added to a spreadsheet on Google docs. 
-
-- [List of scanned zines as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
-- [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
-
-I plan to turn this into a more accessible, searchable website in the future.
 
 ## Stats
 
@@ -267,7 +269,7 @@ Comic book | 1,090mm | 0mm | 0.00%
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1841904038&format=image) 
 
-## Some of the zines
+## The zines on show
 
 Photos taken from [an exhibition](https://art.peteashton.com/OZA/) put on in 2018. 
 
