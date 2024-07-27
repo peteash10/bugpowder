@@ -1,4 +1,4 @@
-# The BugPowder archive
+# The BugPowder zine archive
 
 From 1988 to the early 2000s I amassed a collection of roughly 4-5,000 self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. Most of them are photocopied or printed in very short runs. Many of them are hand-finished with personal touches. 
 
