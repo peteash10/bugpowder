@@ -9,10 +9,6 @@ In 2024, while signed off work with Long-Covid-related stuff, I decided to start
 Pete Ashton  
 *pete@peteashton.com*
 
-* TOC
-
-{:toc}
-
 <div style="border:3px solid red; padding: 5px;">
 
 At some point in 2025 I will have scanned all the smaller zines and will need to get an A3 scanner to do the rest. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!
