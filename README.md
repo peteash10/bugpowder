@@ -28,207 +28,207 @@ As each zine is scanned it is added to a spreadsheet, the first stage of buildin
 - [View as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
 - [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
 
-Here are the covers of all zines in the order they were scanned. (I am scanning the entire contents but will not be making them publicly available without permission of the creators. Access to the full archive will be figured out in time.) 
+Here are the covers of all zines in the order they were scanned. I am scanning the entire contents but will not be making them publicly available without permission of the creators. Access to the full archive will be figured out in time, but for now I figure the covers are ok to share.
 
 
-<img height="100" src="thumbs/100001_t.jpg">
-<img height="100" src="thumbs/100002_t.jpg">
-<img height="100" src="thumbs/100003_t.jpg">
-<img height="100" src="thumbs/100004_t.jpg">
-<img height="100" src="thumbs/100005_t.jpg">
-<img height="100" src="thumbs/100006_t.jpg">
-<img height="100" src="thumbs/100007_t.jpg">
-<img height="100" src="thumbs/100008_t.jpg">
-<img height="100" src="thumbs/100009_t.jpg">
-<img height="100" src="thumbs/100010_t.jpg">
-<img height="100" src="thumbs/100011_t.jpg">
-<img height="100" src="thumbs/100012_t.jpg">
-<img height="100" src="thumbs/100013_t.jpg">
-<img height="100" src="thumbs/100014_t.jpg">
-<img height="100" src="thumbs/100015_t.jpg">
-<img height="100" src="thumbs/100016_t.jpg">
-<img height="100" src="thumbs/100017_t.jpg">
-<img height="100" src="thumbs/100018_t.jpg">
-<img height="100" src="thumbs/100019_t.jpg">
-<img height="100" src="thumbs/100020_t.jpg">
-<img height="100" src="thumbs/100021_t.jpg">
-<img height="100" src="thumbs/100022_t.jpg">
-<img height="100" src="thumbs/100023_t.jpg">
-<img height="100" src="thumbs/100024_t.jpg">
-<img height="100" src="thumbs/100025_t.jpg">
-<img height="100" src="thumbs/100026_t.jpg">
-<img height="100" src="thumbs/100027_t.jpg">
-<img height="100" src="thumbs/100028_t.jpg">
-<img height="100" src="thumbs/100029_t.jpg">
-<img height="100" src="thumbs/100030_t.jpg">
-<img height="100" src="thumbs/100031_t.jpg">
-<img height="100" src="thumbs/100032_t.jpg">
-<img height="100" src="thumbs/100033_t.jpg">
-<img height="100" src="thumbs/100034_t.jpg">
-<img height="100" src="thumbs/100035_t.jpg">
-<img height="100" src="thumbs/100036_t.jpg">
-<img height="100" src="thumbs/100037_t.jpg">
-<img height="100" src="thumbs/100038_t.jpg">
-<img height="100" src="thumbs/100039_t.jpg">
-<img height="100" src="thumbs/100040_t.jpg">
-<img height="100" src="thumbs/100041_t.jpg">
-<img height="100" src="thumbs/100042_t.jpg">
-<img height="100" src="thumbs/100043_t.jpg">
-<img height="100" src="thumbs/100044_t.jpg">
-<img height="100" src="thumbs/100045_t.jpg">
-<img height="100" src="thumbs/100046_t.jpg">
-<img height="100" src="thumbs/100047_t.jpg">
-<img height="100" src="thumbs/100048_t.jpg">
-<img height="100" src="thumbs/100049_t.jpg">
-<img height="100" src="thumbs/100050_t.jpg">
-<img height="100" src="thumbs/100051_t.jpg">
-<img height="100" src="thumbs/100052_t.jpg">
-<img height="100" src="thumbs/100053_t.jpg">
-<img height="100" src="thumbs/100054_t.jpg">
-<img height="100" src="thumbs/100055_t.jpg">
-<img height="100" src="thumbs/100056_t.jpg">
-<img height="100" src="thumbs/100057_t.jpg">
-<img height="100" src="thumbs/100058_t.jpg">
-<img height="100" src="thumbs/100059_t.jpg">
-<img height="100" src="thumbs/100060_t.jpg">
-<img height="100" src="thumbs/100061_t.jpg">
-<img height="100" src="thumbs/100062_t.jpg">
-<img height="100" src="thumbs/100063_t.jpg">
-<img height="100" src="thumbs/100064_t.jpg">
-<img height="100" src="thumbs/100065_t.jpg">
-<img height="100" src="thumbs/100066_t.jpg">
-<img height="100" src="thumbs/100067_t.jpg">
-<img height="100" src="thumbs/100068_t.jpg">
-<img height="100" src="thumbs/100069_t.jpg">
-<img height="100" src="thumbs/100070_t.jpg">
-<img height="100" src="thumbs/100071_t.jpg">
-<img height="100" src="thumbs/100072_t.jpg">
-<img height="100" src="thumbs/100073_t.jpg">
-<img height="100" src="thumbs/100074_t.jpg">
-<img height="100" src="thumbs/100075_t.jpg">
-<img height="100" src="thumbs/100076_t.jpg">
-<img height="100" src="thumbs/100077_t.jpg">
-<img height="100" src="thumbs/100078_t.jpg">
-<img height="100" src="thumbs/100079_t.jpg">
-<img height="100" src="thumbs/100080_t.jpg">
-<img height="100" src="thumbs/100081_t.jpg">
-<img height="100" src="thumbs/100082_t.jpg">
-<img height="100" src="thumbs/100083_t.jpg">
-<img height="100" src="thumbs/100084_t.jpg">
-<img height="100" src="thumbs/100085_t.jpg">
-<img height="100" src="thumbs/100086_t.jpg">
-<img height="100" src="thumbs/100087_t.jpg">
-<img height="100" src="thumbs/100088_t.jpg">
-<img height="100" src="thumbs/100089_t.jpg">
-<img height="100" src="thumbs/100090_t.jpg">
-<img height="100" src="thumbs/100091_t.jpg">
-<img height="100" src="thumbs/100092_t.jpg">
-<img height="100" src="thumbs/100093_t.jpg">
-<img height="100" src="thumbs/100094_t.jpg">
-<img height="100" src="thumbs/100095_t.jpg">
-<img height="100" src="thumbs/100096_t.jpg">
-<img height="100" src="thumbs/100097_t.jpg">
-<img height="100" src="thumbs/100098_t.jpg">
-<img height="100" src="thumbs/100099_t.jpg">
-<img height="100" src="thumbs/100100_t.jpg">
-<img height="100" src="thumbs/100101_t.jpg">
-<img height="100" src="thumbs/100102_t.jpg">
-<img height="100" src="thumbs/100103_t.jpg">
-<img height="100" src="thumbs/100104_t.jpg">
-<img height="100" src="thumbs/100105_t.jpg">
-<img height="100" src="thumbs/100106_t.jpg">
-<img height="100" src="thumbs/100107_t.jpg">
-<img height="100" src="thumbs/100108_t.jpg">
-<img height="100" src="thumbs/100109_t.jpg">
-<img height="100" src="thumbs/100110_t.jpg">
-<img height="100" src="thumbs/100111_t.jpg">
-<img height="100" src="thumbs/100112_t.jpg">
-<img height="100" src="thumbs/100113_t.jpg">
-<img height="100" src="thumbs/100114_t.jpg">
-<img height="100" src="thumbs/100115_t.jpg">
-<img height="100" src="thumbs/100116_t.jpg">
-<img height="100" src="thumbs/100117_t.jpg">
-<img height="100" src="thumbs/100118_t.jpg">
-<img height="100" src="thumbs/100119_t.jpg">
-<img height="100" src="thumbs/100120_t.jpg">
-<img height="100" src="thumbs/100121_t.jpg">
-<img height="100" src="thumbs/100122_t.jpg">
-<img height="100" src="thumbs/100123_t.jpg">
-<img height="100" src="thumbs/100124_t.jpg">
-<img height="100" src="thumbs/100125_t.jpg">
-<img height="100" src="thumbs/100126_t.jpg">
-<img height="100" src="thumbs/100127_t.jpg">
-<img height="100" src="thumbs/100128_t.jpg">
-<img height="100" src="thumbs/100129_t.jpg">
-<img height="100" src="thumbs/100130_t.jpg">
-<img height="100" src="thumbs/100131_t.jpg">
-<img height="100" src="thumbs/100132_t.jpg">
-<img height="100" src="thumbs/100133_t.jpg">
-<img height="100" src="thumbs/100134_t.jpg">
-<img height="100" src="thumbs/100135_t.jpg">
-<img height="100" src="thumbs/100136_t.jpg">
-<img height="100" src="thumbs/100137_t.jpg">
-<img height="100" src="thumbs/100138_t.jpg">
-<img height="100" src="thumbs/100139_t.jpg">
-<img height="100" src="thumbs/100140_t.jpg">
-<img height="100" src="thumbs/100141_t.jpg">
-<img height="100" src="thumbs/100142_t.jpg">
-<img height="100" src="thumbs/100143_t.jpg">
-<img height="100" src="thumbs/100144_t.jpg">
-<img height="100" src="thumbs/100145_t.jpg">
-<img height="100" src="thumbs/100146_t.jpg">
-<img height="100" src="thumbs/100147_t.jpg">
-<img height="100" src="thumbs/100148_t.jpg">
-<img height="100" src="thumbs/100149_t.jpg">
-<img height="100" src="thumbs/100150_t.jpg">
-<img height="100" src="thumbs/100151_t.jpg">
-<img height="100" src="thumbs/100152_t.jpg">
-<img height="100" src="thumbs/100153_t.jpg">
-<img height="100" src="thumbs/100154_t.jpg">
-<img height="100" src="thumbs/100155_t.jpg">
-<img height="100" src="thumbs/100156_t.jpg">
-<img height="100" src="thumbs/100157_t.jpg">
-<img height="100" src="thumbs/100158_t.jpg">
-<img height="100" src="thumbs/100159_t.jpg">
-<img height="100" src="thumbs/100160_t.jpg">
-<img height="100" src="thumbs/100161_t.jpg">
-<img height="100" src="thumbs/100162_t.jpg">
-<img height="100" src="thumbs/100163_t.jpg">
-<img height="100" src="thumbs/100164_t.jpg">
-<img height="100" src="thumbs/100165_t.jpg">
-<img height="100" src="thumbs/100166_t.jpg">
-<img height="100" src="thumbs/100167_t.jpg">
-<img height="100" src="thumbs/100168_t.jpg">
-<img height="100" src="thumbs/100169_t.jpg">
-<img height="100" src="thumbs/100170_t.jpg">
-<img height="100" src="thumbs/100171_t.jpg">
-<img height="100" src="thumbs/100172_t.jpg">
-<img height="100" src="thumbs/100173_t.jpg">
-<img height="100" src="thumbs/100174_t.jpg">
-<img height="100" src="thumbs/100175_t.jpg">
-<img height="100" src="thumbs/100176_t.jpg">
-<img height="100" src="thumbs/100177_t.jpg">
-<img height="100" src="thumbs/100178_t.jpg">
-<img height="100" src="thumbs/100179_t.jpg">
-<img height="100" src="thumbs/100180_t.jpg">
-<img height="100" src="thumbs/100181_t.jpg">
-<img height="100" src="thumbs/100182_t.jpg">
-<img height="100" src="thumbs/100183_t.jpg">
-<img height="100" src="thumbs/100184_t.jpg">
-<img height="100" src="thumbs/100185_t.jpg">
-<img height="100" src="thumbs/100186_t.jpg">
-<img height="100" src="thumbs/100187_t.jpg">
-<img height="100" src="thumbs/100188_t.jpg">
-<img height="100" src="thumbs/100189_t.jpg">
-<img height="100" src="thumbs/100190_t.jpg">
-<img height="100" src="thumbs/100191_t.jpg">
-<img height="100" src="thumbs/100192_t.jpg">
-<img height="100" src="thumbs/100193_t.jpg">
-<img height="100" src="thumbs/100194_t.jpg">
-<img height="100" src="thumbs/100195_t.jpg">
-<img height="100" src="thumbs/100196_t.jpg">
-<img height="100" src="thumbs/100197_t.jpg">
-<img height="100" src="thumbs/100198_t.jpg">
+<a href="covers/100001_c.jpg"><img height="100" src="thumbs/100001_t.jpg"></a>
+<a href="covers/100002_c.jpg"><img height="100" src="thumbs/100002_t.jpg"></a>
+<a href="covers/100003_c.jpg"><img height="100" src="thumbs/100003_t.jpg"></a>
+<a href="covers/100004_c.jpg"><img height="100" src="thumbs/100004_t.jpg"></a>
+<a href="covers/100005_c.jpg"><img height="100" src="thumbs/100005_t.jpg"></a>
+<a href="covers/100006_c.jpg"><img height="100" src="thumbs/100006_t.jpg"></a>
+<a href="covers/100007_c.jpg"><img height="100" src="thumbs/100007_t.jpg"></a>
+<a href="covers/100008_c.jpg"><img height="100" src="thumbs/100008_t.jpg"></a>
+<a href="covers/100009_c.jpg"><img height="100" src="thumbs/100009_t.jpg"></a>
+<a href="covers/100010_c.jpg"><img height="100" src="thumbs/100010_t.jpg"></a>
+<a href="covers/100011_c.jpg"><img height="100" src="thumbs/100011_t.jpg"></a>
+<a href="covers/100012_c.jpg"><img height="100" src="thumbs/100012_t.jpg"></a>
+<a href="covers/100013_c.jpg"><img height="100" src="thumbs/100013_t.jpg"></a>
+<a href="covers/100014_c.jpg"><img height="100" src="thumbs/100014_t.jpg"></a>
+<a href="covers/100015_c.jpg"><img height="100" src="thumbs/100015_t.jpg"></a>
+<a href="covers/100016_c.jpg"><img height="100" src="thumbs/100016_t.jpg"></a>
+<a href="covers/100017_c.jpg"><img height="100" src="thumbs/100017_t.jpg"></a>
+<a href="covers/100018_c.jpg"><img height="100" src="thumbs/100018_t.jpg"></a>
+<a href="covers/100019_c.jpg"><img height="100" src="thumbs/100019_t.jpg"></a>
+<a href="covers/100020_c.jpg"><img height="100" src="thumbs/100020_t.jpg"></a>
+<a href="covers/100021_c.jpg"><img height="100" src="thumbs/100021_t.jpg"></a>
+<a href="covers/100022_c.jpg"><img height="100" src="thumbs/100022_t.jpg"></a>
+<a href="covers/100023_c.jpg"><img height="100" src="thumbs/100023_t.jpg"></a>
+<a href="covers/100024_c.jpg"><img height="100" src="thumbs/100024_t.jpg"></a>
+<a href="covers/100025_c.jpg"><img height="100" src="thumbs/100025_t.jpg"></a>
+<a href="covers/100026_c.jpg"><img height="100" src="thumbs/100026_t.jpg"></a>
+<a href="covers/100027_c.jpg"><img height="100" src="thumbs/100027_t.jpg"></a>
+<a href="covers/100028_c.jpg"><img height="100" src="thumbs/100028_t.jpg"></a>
+<a href="covers/100029_c.jpg"><img height="100" src="thumbs/100029_t.jpg"></a>
+<a href="covers/100030_c.jpg"><img height="100" src="thumbs/100030_t.jpg"></a>
+<a href="covers/100031_c.jpg"><img height="100" src="thumbs/100031_t.jpg"></a>
+<a href="covers/100032_c.jpg"><img height="100" src="thumbs/100032_t.jpg"></a>
+<a href="covers/100033_c.jpg"><img height="100" src="thumbs/100033_t.jpg"></a>
+<a href="covers/100034_c.jpg"><img height="100" src="thumbs/100034_t.jpg"></a>
+<a href="covers/100035_c.jpg"><img height="100" src="thumbs/100035_t.jpg"></a>
+<a href="covers/100036_c.jpg"><img height="100" src="thumbs/100036_t.jpg"></a>
+<a href="covers/100037_c.jpg"><img height="100" src="thumbs/100037_t.jpg"></a>
+<a href="covers/100038_c.jpg"><img height="100" src="thumbs/100038_t.jpg"></a>
+<a href="covers/100039_c.jpg"><img height="100" src="thumbs/100039_t.jpg"></a>
+<a href="covers/100040_c.jpg"><img height="100" src="thumbs/100040_t.jpg"></a>
+<a href="covers/100041_c.jpg"><img height="100" src="thumbs/100041_t.jpg"></a>
+<a href="covers/100042_c.jpg"><img height="100" src="thumbs/100042_t.jpg"></a>
+<a href="covers/100043_c.jpg"><img height="100" src="thumbs/100043_t.jpg"></a>
+<a href="covers/100044_c.jpg"><img height="100" src="thumbs/100044_t.jpg"></a>
+<a href="covers/100045_c.jpg"><img height="100" src="thumbs/100045_t.jpg"></a>
+<a href="covers/100046_c.jpg"><img height="100" src="thumbs/100046_t.jpg"></a>
+<a href="covers/100047_c.jpg"><img height="100" src="thumbs/100047_t.jpg"></a>
+<a href="covers/100048_c.jpg"><img height="100" src="thumbs/100048_t.jpg"></a>
+<a href="covers/100049_c.jpg"><img height="100" src="thumbs/100049_t.jpg"></a>
+<a href="covers/100050_c.jpg"><img height="100" src="thumbs/100050_t.jpg"></a>
+<a href="covers/100051_c.jpg"><img height="100" src="thumbs/100051_t.jpg"></a>
+<a href="covers/100052_c.jpg"><img height="100" src="thumbs/100052_t.jpg"></a>
+<a href="covers/100053_c.jpg"><img height="100" src="thumbs/100053_t.jpg"></a>
+<a href="covers/100054_c.jpg"><img height="100" src="thumbs/100054_t.jpg"></a>
+<a href="covers/100055_c.jpg"><img height="100" src="thumbs/100055_t.jpg"></a>
+<a href="covers/100056_c.jpg"><img height="100" src="thumbs/100056_t.jpg"></a>
+<a href="covers/100057_c.jpg"><img height="100" src="thumbs/100057_t.jpg"></a>
+<a href="covers/100058_c.jpg"><img height="100" src="thumbs/100058_t.jpg"></a>
+<a href="covers/100059_c.jpg"><img height="100" src="thumbs/100059_t.jpg"></a>
+<a href="covers/100060_c.jpg"><img height="100" src="thumbs/100060_t.jpg"></a>
+<a href="covers/100061_c.jpg"><img height="100" src="thumbs/100061_t.jpg"></a>
+<a href="covers/100062_c.jpg"><img height="100" src="thumbs/100062_t.jpg"></a>
+<a href="covers/100063_c.jpg"><img height="100" src="thumbs/100063_t.jpg"></a>
+<a href="covers/100064_c.jpg"><img height="100" src="thumbs/100064_t.jpg"></a>
+<a href="covers/100065_c.jpg"><img height="100" src="thumbs/100065_t.jpg"></a>
+<a href="covers/100066_c.jpg"><img height="100" src="thumbs/100066_t.jpg"></a>
+<a href="covers/100067_c.jpg"><img height="100" src="thumbs/100067_t.jpg"></a>
+<a href="covers/100068_c.jpg"><img height="100" src="thumbs/100068_t.jpg"></a>
+<a href="covers/100069_c.jpg"><img height="100" src="thumbs/100069_t.jpg"></a>
+<a href="covers/100070_c.jpg"><img height="100" src="thumbs/100070_t.jpg"></a>
+<a href="covers/100071_c.jpg"><img height="100" src="thumbs/100071_t.jpg"></a>
+<a href="covers/100072_c.jpg"><img height="100" src="thumbs/100072_t.jpg"></a>
+<a href="covers/100073_c.jpg"><img height="100" src="thumbs/100073_t.jpg"></a>
+<a href="covers/100074_c.jpg"><img height="100" src="thumbs/100074_t.jpg"></a>
+<a href="covers/100075_c.jpg"><img height="100" src="thumbs/100075_t.jpg"></a>
+<a href="covers/100076_c.jpg"><img height="100" src="thumbs/100076_t.jpg"></a>
+<a href="covers/100077_c.jpg"><img height="100" src="thumbs/100077_t.jpg"></a>
+<a href="covers/100078_c.jpg"><img height="100" src="thumbs/100078_t.jpg"></a>
+<a href="covers/100079_c.jpg"><img height="100" src="thumbs/100079_t.jpg"></a>
+<a href="covers/100080_c.jpg"><img height="100" src="thumbs/100080_t.jpg"></a>
+<a href="covers/100081_c.jpg"><img height="100" src="thumbs/100081_t.jpg"></a>
+<a href="covers/100082_c.jpg"><img height="100" src="thumbs/100082_t.jpg"></a>
+<a href="covers/100083_c.jpg"><img height="100" src="thumbs/100083_t.jpg"></a>
+<a href="covers/100084_c.jpg"><img height="100" src="thumbs/100084_t.jpg"></a>
+<a href="covers/100085_c.jpg"><img height="100" src="thumbs/100085_t.jpg"></a>
+<a href="covers/100086_c.jpg"><img height="100" src="thumbs/100086_t.jpg"></a>
+<a href="covers/100087_c.jpg"><img height="100" src="thumbs/100087_t.jpg"></a>
+<a href="covers/100088_c.jpg"><img height="100" src="thumbs/100088_t.jpg"></a>
+<a href="covers/100089_c.jpg"><img height="100" src="thumbs/100089_t.jpg"></a>
+<a href="covers/100090_c.jpg"><img height="100" src="thumbs/100090_t.jpg"></a>
+<a href="covers/100091_c.jpg"><img height="100" src="thumbs/100091_t.jpg"></a>
+<a href="covers/100092_c.jpg"><img height="100" src="thumbs/100092_t.jpg"></a>
+<a href="covers/100093_c.jpg"><img height="100" src="thumbs/100093_t.jpg"></a>
+<a href="covers/100094_c.jpg"><img height="100" src="thumbs/100094_t.jpg"></a>
+<a href="covers/100095_c.jpg"><img height="100" src="thumbs/100095_t.jpg"></a>
+<a href="covers/100096_c.jpg"><img height="100" src="thumbs/100096_t.jpg"></a>
+<a href="covers/100097_c.jpg"><img height="100" src="thumbs/100097_t.jpg"></a>
+<a href="covers/100098_c.jpg"><img height="100" src="thumbs/100098_t.jpg"></a>
+<a href="covers/100099_c.jpg"><img height="100" src="thumbs/100099_t.jpg"></a>
+<a href="covers/100100_c.jpg"><img height="100" src="thumbs/100100_t.jpg"></a>
+<a href="covers/100101_c.jpg"><img height="100" src="thumbs/100101_t.jpg"></a>
+<a href="covers/100102_c.jpg"><img height="100" src="thumbs/100102_t.jpg"></a>
+<a href="covers/100103_c.jpg"><img height="100" src="thumbs/100103_t.jpg"></a>
+<a href="covers/100104_c.jpg"><img height="100" src="thumbs/100104_t.jpg"></a>
+<a href="covers/100105_c.jpg"><img height="100" src="thumbs/100105_t.jpg"></a>
+<a href="covers/100106_c.jpg"><img height="100" src="thumbs/100106_t.jpg"></a>
+<a href="covers/100107_c.jpg"><img height="100" src="thumbs/100107_t.jpg"></a>
+<a href="covers/100108_c.jpg"><img height="100" src="thumbs/100108_t.jpg"></a>
+<a href="covers/100109_c.jpg"><img height="100" src="thumbs/100109_t.jpg"></a>
+<a href="covers/100110_c.jpg"><img height="100" src="thumbs/100110_t.jpg"></a>
+<a href="covers/100111_c.jpg"><img height="100" src="thumbs/100111_t.jpg"></a>
+<a href="covers/100112_c.jpg"><img height="100" src="thumbs/100112_t.jpg"></a>
+<a href="covers/100113_c.jpg"><img height="100" src="thumbs/100113_t.jpg"></a>
+<a href="covers/100114_c.jpg"><img height="100" src="thumbs/100114_t.jpg"></a>
+<a href="covers/100115_c.jpg"><img height="100" src="thumbs/100115_t.jpg"></a>
+<a href="covers/100116_c.jpg"><img height="100" src="thumbs/100116_t.jpg"></a>
+<a href="covers/100117_c.jpg"><img height="100" src="thumbs/100117_t.jpg"></a>
+<a href="covers/100118_c.jpg"><img height="100" src="thumbs/100118_t.jpg"></a>
+<a href="covers/100119_c.jpg"><img height="100" src="thumbs/100119_t.jpg"></a>
+<a href="covers/100120_c.jpg"><img height="100" src="thumbs/100120_t.jpg"></a>
+<a href="covers/100121_c.jpg"><img height="100" src="thumbs/100121_t.jpg"></a>
+<a href="covers/100122_c.jpg"><img height="100" src="thumbs/100122_t.jpg"></a>
+<a href="covers/100123_c.jpg"><img height="100" src="thumbs/100123_t.jpg"></a>
+<a href="covers/100124_c.jpg"><img height="100" src="thumbs/100124_t.jpg"></a>
+<a href="covers/100125_c.jpg"><img height="100" src="thumbs/100125_t.jpg"></a>
+<a href="covers/100126_c.jpg"><img height="100" src="thumbs/100126_t.jpg"></a>
+<a href="covers/100127_c.jpg"><img height="100" src="thumbs/100127_t.jpg"></a>
+<a href="covers/100128_c.jpg"><img height="100" src="thumbs/100128_t.jpg"></a>
+<a href="covers/100129_c.jpg"><img height="100" src="thumbs/100129_t.jpg"></a>
+<a href="covers/100130_c.jpg"><img height="100" src="thumbs/100130_t.jpg"></a>
+<a href="covers/100131_c.jpg"><img height="100" src="thumbs/100131_t.jpg"></a>
+<a href="covers/100132_c.jpg"><img height="100" src="thumbs/100132_t.jpg"></a>
+<a href="covers/100133_c.jpg"><img height="100" src="thumbs/100133_t.jpg"></a>
+<a href="covers/100134_c.jpg"><img height="100" src="thumbs/100134_t.jpg"></a>
+<a href="covers/100135_c.jpg"><img height="100" src="thumbs/100135_t.jpg"></a>
+<a href="covers/100136_c.jpg"><img height="100" src="thumbs/100136_t.jpg"></a>
+<a href="covers/100137_c.jpg"><img height="100" src="thumbs/100137_t.jpg"></a>
+<a href="covers/100138_c.jpg"><img height="100" src="thumbs/100138_t.jpg"></a>
+<a href="covers/100139_c.jpg"><img height="100" src="thumbs/100139_t.jpg"></a>
+<a href="covers/100140_c.jpg"><img height="100" src="thumbs/100140_t.jpg"></a>
+<a href="covers/100141_c.jpg"><img height="100" src="thumbs/100141_t.jpg"></a>
+<a href="covers/100142_c.jpg"><img height="100" src="thumbs/100142_t.jpg"></a>
+<a href="covers/100143_c.jpg"><img height="100" src="thumbs/100143_t.jpg"></a>
+<a href="covers/100144_c.jpg"><img height="100" src="thumbs/100144_t.jpg"></a>
+<a href="covers/100145_c.jpg"><img height="100" src="thumbs/100145_t.jpg"></a>
+<a href="covers/100146_c.jpg"><img height="100" src="thumbs/100146_t.jpg"></a>
+<a href="covers/100147_c.jpg"><img height="100" src="thumbs/100147_t.jpg"></a>
+<a href="covers/100148_c.jpg"><img height="100" src="thumbs/100148_t.jpg"></a>
+<a href="covers/100149_c.jpg"><img height="100" src="thumbs/100149_t.jpg"></a>
+<a href="covers/100150_c.jpg"><img height="100" src="thumbs/100150_t.jpg"></a>
+<a href="covers/100151_c.jpg"><img height="100" src="thumbs/100151_t.jpg"></a>
+<a href="covers/100152_c.jpg"><img height="100" src="thumbs/100152_t.jpg"></a>
+<a href="covers/100153_c.jpg"><img height="100" src="thumbs/100153_t.jpg"></a>
+<a href="covers/100154_c.jpg"><img height="100" src="thumbs/100154_t.jpg"></a>
+<a href="covers/100155_c.jpg"><img height="100" src="thumbs/100155_t.jpg"></a>
+<a href="covers/100156_c.jpg"><img height="100" src="thumbs/100156_t.jpg"></a>
+<a href="covers/100157_c.jpg"><img height="100" src="thumbs/100157_t.jpg"></a>
+<a href="covers/100158_c.jpg"><img height="100" src="thumbs/100158_t.jpg"></a>
+<a href="covers/100159_c.jpg"><img height="100" src="thumbs/100159_t.jpg"></a>
+<a href="covers/100160_c.jpg"><img height="100" src="thumbs/100160_t.jpg"></a>
+<a href="covers/100161_c.jpg"><img height="100" src="thumbs/100161_t.jpg"></a>
+<a href="covers/100162_c.jpg"><img height="100" src="thumbs/100162_t.jpg"></a>
+<a href="covers/100163_c.jpg"><img height="100" src="thumbs/100163_t.jpg"></a>
+<a href="covers/100164_c.jpg"><img height="100" src="thumbs/100164_t.jpg"></a>
+<a href="covers/100165_c.jpg"><img height="100" src="thumbs/100165_t.jpg"></a>
+<a href="covers/100166_c.jpg"><img height="100" src="thumbs/100166_t.jpg"></a>
+<a href="covers/100167_c.jpg"><img height="100" src="thumbs/100167_t.jpg"></a>
+<a href="covers/100168_c.jpg"><img height="100" src="thumbs/100168_t.jpg"></a>
+<a href="covers/100169_c.jpg"><img height="100" src="thumbs/100169_t.jpg"></a>
+<a href="covers/100170_c.jpg"><img height="100" src="thumbs/100170_t.jpg"></a>
+<a href="covers/100171_c.jpg"><img height="100" src="thumbs/100171_t.jpg"></a>
+<a href="covers/100172_c.jpg"><img height="100" src="thumbs/100172_t.jpg"></a>
+<a href="covers/100173_c.jpg"><img height="100" src="thumbs/100173_t.jpg"></a>
+<a href="covers/100174_c.jpg"><img height="100" src="thumbs/100174_t.jpg"></a>
+<a href="covers/100175_c.jpg"><img height="100" src="thumbs/100175_t.jpg"></a>
+<a href="covers/100176_c.jpg"><img height="100" src="thumbs/100176_t.jpg"></a>
+<a href="covers/100177_c.jpg"><img height="100" src="thumbs/100177_t.jpg"></a>
+<a href="covers/100178_c.jpg"><img height="100" src="thumbs/100178_t.jpg"></a>
+<a href="covers/100179_c.jpg"><img height="100" src="thumbs/100179_t.jpg"></a>
+<a href="covers/100180_c.jpg"><img height="100" src="thumbs/100180_t.jpg"></a>
+<a href="covers/100181_c.jpg"><img height="100" src="thumbs/100181_t.jpg"></a>
+<a href="covers/100182_c.jpg"><img height="100" src="thumbs/100182_t.jpg"></a>
+<a href="covers/100183_c.jpg"><img height="100" src="thumbs/100183_t.jpg"></a>
+<a href="covers/100184_c.jpg"><img height="100" src="thumbs/100184_t.jpg"></a>
+<a href="covers/100185_c.jpg"><img height="100" src="thumbs/100185_t.jpg"></a>
+<a href="covers/100186_c.jpg"><img height="100" src="thumbs/100186_t.jpg"></a>
+<a href="covers/100187_c.jpg"><img height="100" src="thumbs/100187_t.jpg"></a>
+<a href="covers/100188_c.jpg"><img height="100" src="thumbs/100188_t.jpg"></a>
+<a href="covers/100189_c.jpg"><img height="100" src="thumbs/100189_t.jpg"></a>
+<a href="covers/100190_c.jpg"><img height="100" src="thumbs/100190_t.jpg"></a>
+<a href="covers/100191_c.jpg"><img height="100" src="thumbs/100191_t.jpg"></a>
+<a href="covers/100192_c.jpg"><img height="100" src="thumbs/100192_t.jpg"></a>
+<a href="covers/100193_c.jpg"><img height="100" src="thumbs/100193_t.jpg"></a>
+<a href="covers/100194_c.jpg"><img height="100" src="thumbs/100194_t.jpg"></a>
+<a href="covers/100195_c.jpg"><img height="100" src="thumbs/100195_t.jpg"></a>
+<a href="covers/100196_c.jpg"><img height="100" src="thumbs/100196_t.jpg"></a>
+<a href="covers/100197_c.jpg"><img height="100" src="thumbs/100197_t.jpg"></a>
+<a href="covers/100198_c.jpg"><img height="100" src="thumbs/100198_t.jpg"></a>
 
 I periodically make a video slideshow of the covers in a higher resolution. 
 
