@@ -19,6 +19,7 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 
 - [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, 25 June 2024.
 - [The Open Zine Archive](https://art.peteashton.com/OZA/) - the collection on display in 2018.
+- [Defining a zine](https://bugpowder.peteashton.com/defining-a-zine/) - An "eternal draft" article in which I attempt draw a line on what is and isn't a zine.
 
 
 ## The scanned zines
