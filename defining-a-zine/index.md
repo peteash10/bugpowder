@@ -48,4 +48,5 @@ A common criticism of material published in a zine is it can't be any good becau
 
 And so, in comics at least, a lot of publishers would keep an eye on zines to see who was developing into a commercially viable talent. My old chum [Frazer Irving](https://en.wikipedia.org/wiki/Frazer_Irving) ironed out the creases in his work in zines and then one day we were looking through his portfolio and realised he was ready for the big time. The next year he was earnbing a living working for 2000AD. 
 
-But uncommercial isn't just about quality. 
+But uncommercial is abou more than quality. Someone can be of the highest quality but not be commerically viable, and I would argue many of the best zines come into this category. 
+
