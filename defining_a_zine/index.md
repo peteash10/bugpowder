@@ -40,5 +40,12 @@ Or maybe an anti-business model? Traditionaly in publishing you make something a
 
 I would say a zine bypasses this. The photocopier allows for an early type of print-on-demand, reducing the initial financial outlay. Orders come in direct from readers and the postal service was shockingly affordable by todays standards. For the cost of a few beers you could run off 20 copies of your zine and send a few out to review zines, waiting for the orders to trickle in. If you were running a periodical you could offer pre-orders or subscritions to cover the next issue's costs. I never made a profit from my zines but I never really lost money either.
 
-Zines enables communication between individuals and within communities using publishing without capital investment. (There's a lot to unpack in that statement and I intend to... later...)
+Zines enables communication between individuals and within communities using publishing without capital investment. 
 
+## Are zines uncommercial? 
+
+A common criticism of material published in a zine is it can't be any good because if it was it'd published by a proper publisher. And in many cases this is fair. The vast majority of zines are, by most critical standards, not very good. In many cases this was the point - everoyne's first zine is crap, because you have to start somewhere. But your second one is better, and the third better still. If you stick with it you might even become "good". 
+
+And so, in comics at least, a lot of publishers would keep an eye on zines to see who was developing into a commercially viable talent. My old chum [Frazer Irving](https://en.wikipedia.org/wiki/Frazer_Irving) ironed out the creases in his work in zines and then one day we were looking through his portfolio and realised he was ready for the big time. The next year he was earnbing a living working for 2000AD. 
+
+But uncommercial isn't just about quality. 
