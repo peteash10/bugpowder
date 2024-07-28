@@ -2,7 +2,7 @@
 
 *(This is a live document - I'll be expanding and revising it over time as my thoughts organise and develop.)*
 
-One of the challenges of scanning and indexing a zine archive is the edge cases. Most of the zines are clearly zines. And most of the things that aren't zines are clearly not zines. But then there's the stuff that is but also isn't, or isn't but also is. Should they be included?
+One of the challenges of [scanning and indexing a zine archive](https://bugpowder.peteashton.com/) is the edge cases. Most of the zines in my "boxes of zines" are clearly zines. And most of the items that aren't zines but have slipped in there are clearly not zines. But then there's the stuff that is but also isn't, or isn't but also is. How can I decide if they should be included in the final archive?
 
 Zines emerged over time thanks to increased accessibility of reproduction technologies, most significantly but not exclusively the photocopier. Like most emerging things the terminology came later in retrospect.
 
