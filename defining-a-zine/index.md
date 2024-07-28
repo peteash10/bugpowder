@@ -62,7 +62,7 @@ If your are required to produce a zine, say as coursework for an academic qualif
 
 A zine is made as an end in itself. It serves no purpose other than to exist as a zine. It's existence may provoke change in the world, such as inspiring others to make their own zines, but it's production is self-contained and autonomous.
 
-That is not to say that publications made as labour do not have value. That would be absurd and render nearly all intellectual writing obsolete. All we are saying is those publications are not and will never be zines.
+That is not to say that publications made as labour do not have value. That would be absurd and render nearly all writing obsolete. All we are saying is those publications are not and will never be zines.
 
 ## Zines are networks
 
