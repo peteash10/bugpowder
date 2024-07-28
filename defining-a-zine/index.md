@@ -1,6 +1,6 @@
 # Defining a zine
 
-*(This is a live document - I'll be revising it over time as my thoughts organise and develop.)*
+*(This is a live document - I'll be expanding and revising it over time as my thoughts organise and develop.)*
 
 One of the challenges of scanning and indexing a zine archive is the edge cases. Most of the zines are clearly zines. And most of the things that aren't zines are clearly not zines. But then there's the stuff that is but also isn't, or isn't but also is. Should they be included? 
 
@@ -50,3 +50,27 @@ And so, in comics at least, a lot of publishers would keep an eye on zines to se
 
 But uncommercial is abou more than quality. Someone can be of the highest quality but not be commerically viable, and I would argue many of the best zines come into this category. 
 
+The beauty of a zine is it can reach a handful of people and still be as viable as if it were reaching thousands. So if your words or art or ideas are only of interest to a small community, but that community happens to be spread over the world, you could reach them through a zine. 
+
+This is why so many of the important zine communities catered for niche interests and minorities who were ignored by commercial publishers, sometimes out of prejudice but often because they was simply no money to be made from them. 
+
+## Zines are networks
+
+No zine stands alone. OK, zines can stand alone, but they tend not to have any readers. And that's fine. A zine with one reader is still a zine. 
+
+But on the whole zines exist as nodes on a network, as part of a scene. A zine in the classic mould would have a section reviewing other zines, and these reviews would mostly service a pointers, not critical apraisals. These pages would position the zine as part of a network of other zines, defining itself by association. 
+
+Beyond self-identification the reviews section invited readers to explore the network. When I came across a new zine that I liked the second thing I did after reading it was to send off a bunch of cheques and SASEs (self-addressed stamped envelopes) for any zines I didn't recognise and liked the sounds of on those pages. 
+
+Of course the networks were not discrete. They overlapped and you could argue quite convincingly that there was only ever one zine network because you could conceivably travel across the reviews pages between every zine ever reviewed by another zine. 
+
+Not every zine had reviews, mind you, especially those that were less periodical and more discrete book-like objects. But they still existed on the network thanks to review zines, even if they were effectively dead ends. (Although even if they didn't include reviews they'd often come with fliers for other zines. The medium of the network was a much the envelope as its primary contents.) 
+
+---
+## Not the end
+
+This is very much a work in progress and an attempt to answer a question to which there probably isn't a clear answer, because the most important thing about zines is that they don't fit into clear categories. They are awkward irritants that exist because they need to, not because there's an allocated space for them. 
+
+But there's a great pleasure to be found in attempting to define the indefinable because even if I never come to a neat conclusion the journey will force me to think deeper, challenge my assumptions and consider new things. 
+
+If you have absurdly nuanced thoughts about what a zine is and isn't, the sort of thought that people look at you funny when you try to articulate them, drop me a note at pete@peteashton.com
