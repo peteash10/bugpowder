@@ -4,7 +4,7 @@
 
 One of the challenges of [scanning and indexing a zine archive](https://bugpowder.peteashton.com/) is the edge cases. Most of the zines in my "boxes of zines" are clearly zines. And most of the items that aren't zines but have slipped in there are clearly not zines. But then there's the stuff that is but also isn't, or isn't but also is. How can I decide if they should be included in the final archive?
 
-Zines emerged over time thanks to increased accessibility of reproduction technologies, most significantly but not exclusively the photocopier. Like most emerging things the terminology came later in retrospect.
+Zines as a category of publications emerged over the 20th century due to increased accessibility of reproduction technologies, most significantly but not exclusively the photocopier, and the establishment of an affordable, flat-rate international postal service. And as is often the case for emerging things, the terminology came later.
 
 ## More than a fanzine
 
