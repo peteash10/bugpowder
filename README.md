@@ -29,7 +29,7 @@ As each zine is scanned it is added to a spreadsheet, the first stage of buildin
 - [View as a web page.](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubhtml?gid=1433529062&single=true)
 - [Download it as a PDF](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pub?gid=1433529062&single=true&output=pdf).
 
-Here are the covers of all zines in the order they were scanned. I am scanning the entire contents but will not be making them publicly available without permission of the creators. Access to the full archive will be figured out in time, but for now I figure the covers are ok to share.
+Here are the covers of the scanned zines in the order they were done. The entire contents of each zine has been scanned but I will not be making them publicly available without permission of the creators. Access to the full archive for research etc will be figured out in time, possibly working with some august body, but for now I figure the covers are ok to share.
 
 
 <a href="covers/100001_c.jpg"><img height="100" src="thumbs/100001_t.jpg"></a>
