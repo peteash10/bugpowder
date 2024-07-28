@@ -70,7 +70,7 @@ No zine stands alone. OK, zines can stand alone, but they tend not to have any r
 
 But on the whole zines exist as nodes on a network, as part of a scene. A zine in the classic mould would have a section reviewing other zines, and these reviews would mostly service a pointers, not critical appraisals. These pages would position the zine as part of a network of other zines, defining itself by association.
 
-Beyond self-identification the reviews section invited readers to explore the network. When I came across a new zine that I liked the second thing I did after reading it was to send off a bunch of cheques and SASEs (self-addressed stamped envelopes) for any zines I didn't recognise and liked the sounds of on those pages.
+Beyond self-identification, the reviews section invited readers to explore the network. When I came across a new zine that I liked the second thing I did after reading it was to send off a bunch of cheques and SASEs (self-addressed stamped envelopes) for any zines I didn't recognise and liked the sounds of on those pages.
 
 Of course the networks were not discrete. They overlapped and you could argue quite convincingly that there was only ever one zine network because you could conceivably travel across the reviews pages between every zine ever reviewed by another zine.
 
@@ -83,7 +83,7 @@ This is very much a work in progress and an attempt to answer a question to whic
 
 But there's a great pleasure to be found in attempting to define the indefinable because even if I never come to a neat conclusion the journey will force me to think deeper, challenge my assumptions and consider new things.
 
-If you have absurdly nuanced thoughts about what a zine is and isn't, the sort of thoughts where people look at you funny when you try to articulate them, and have been prompted into further thoughts by what I've written above, drop me a note at pete@peteashton.com
+If you also have absurdly nuanced thoughts about what a zine is and isn't, the sort of thoughts where people look at you funny when you try to articulate them, and have been prompted into further thoughts by what I've written above, drop me a note at pete@peteashton.com
 
 ---
 

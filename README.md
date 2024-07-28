@@ -1,8 +1,8 @@
 # The BugPowder zine archive
 
-From 1988 to the early 2000s I amassed a collection of roughly 4-5,000 self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. Most of them are photocopied or printed in very short runs. Many of them are hand-finished with personal touches. 
+From 1988 to the mid 2000s I amassed a collection of roughly 4-5,000 self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. Most of them are photocopied or printed in very short runs. Many of them are hand-finished with personal touches. 
 
-During the 1990s I ran a review zine, TRS, and a mail order distro, BugPowder, which meant people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. Because while the quality may vary from the sublime to the unfortunate, they are unique objects and I feel they all have value.
+During the 1990s I ran a review zine, TRS (The Review Sheet, because it was a single sheet of paper and I am good at naming things), and a mail order distro, BugPowder (named for reasons I will no doubt explain later), which meant people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. Because while the quality may vary from the sublime to the unfortunate, they are unique objects and I feel they all have value.
 
 In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box of A5 zines and scanning a handful each evening. This page documents my progress. 
 
