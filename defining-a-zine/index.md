@@ -74,3 +74,9 @@ This is very much a work in progress and an attempt to answer a question to whic
 But there's a great pleasure to be found in attempting to define the indefinable because even if I never come to a neat conclusion the journey will force me to think deeper, challenge my assumptions and consider new things. 
 
 If you have absurdly nuanced thoughts about what a zine is and isn't, the sort of thought that people look at you funny when you try to articulate them, drop me a note at pete@peteashton.com
+
+---
+
+
+<script data-goatcounter="https://bugpowder.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
