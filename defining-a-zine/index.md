@@ -102,8 +102,7 @@ A zine doesn't have to look like it was made in a 1980s bedsit by someone on the
 
 ## Zines are a means to an end. 
 
-One reason zines faded somewhat in the 2000s was the internet  
-
+Tk
 
 
 ---
