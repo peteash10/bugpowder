@@ -100,6 +100,10 @@ This shouldn't need stating, but I see this a lot in the post-internet zine revi
 
 A zine doesn't have to look like it was made in a 1980s bedsit by someone on the dole and to do this deliberately with a 2020's computer leaves a bit of a bad taste in my mouth. I mean, it's fine, do what you want. A retro-looking zine is just as valid as any zine. But a zine doesn't have to look like that.   
 
+## Zines are a means to an end. 
+
+One reason zines faded somewhat in the 2000s was the internet  
+
 
 
 ---
