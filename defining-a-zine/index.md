@@ -88,6 +88,20 @@ An example of mail art that is not at all zine-like would be one-off objects lik
 
 The big question is whether all zines that are sent through the mail are mail art. I would like to think that they are, but it's not a hill I'm comfortable dying on. For one, zines are not entirely distributed by post. They are stocked in shops, sold at markets and zine fairs, traded at gigs and festivals. Selling or trading zines face to face would be the norm for some communities that were more geographically localised. 
 
+## Zines are content-agnostic
+
+This is important to me as many of the "zines" in my collection are identical in form to a standard comic book. Rol Hirst's The Jock has a cover, text on the inside front page, 20-ish pages of serialised comic story, 2-3 pages of letters from readers and capsule reviews of other comics in his network and a back cover. He is copying the format of commercially published comics, which in many ways is the point. Like many people whose comic zines are in the collection, he wanted to do a comic just like the comics he admires, and so he did. 
+
+What makes it a zine is not what's inside it but that it fits the criteria I've outlined above. A zine can be about anything and contain anything. 
+
+## There is no zine aesthetic
+
+This shouldn't need stating, but I see this a lot in the post-internet zine revival era. A dominant zine aesthetic did evolve due to technological and mechanical constraints at specific eras. Type-written text dominated when typewriters were common. Photocopying dominated when photocopiers became accessible. [Letraset](https://en.wikipedia.org/wiki/Letraset) was a thing up to the mid-80s because desktop publishing didn't exist yet. The "DIY zine aesthetic" comes from working with the limitations of the tools available to you and making the best of them. And of course there were plenty of zines that didn't look like the dominant aesthetic of their era because they didn't use those tools. 
+
+A zine doesn't have to look like it was made in a 1980s bedsit by someone on the dole and to do this deliberately with a 2020's computer leaves a bit of a bad taste in my mouth. I mean, it's fine, do what you want. A retro-looking zine is just as valid as any zine. But a zine doesn't have to look like that.   
+
+
+
 ---
 ## Not the end
 
