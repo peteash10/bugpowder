@@ -1,0 +1,6 @@
+cd /Users/peteashton/Dropbox/BugPowder\ archive/_Scans/Covers
+for f in *.tiff; do   convert "$f"  "/Users/peteashton/Dropbox/Video/Bugpowder\ Archive\ videos/Covers\ -\ full\ size/$(basename "$f" .tiff).jpg"; done
+cd /Users/peteashton/Dropbox/Video/Bugpowder\ Archive\ videos/Covers\ -\ full\ size 
+for f in *.jpg; do   convert "$f" -resize 150x150  "/Users/peteashton/Dropbox/Git/websites/bugpowder/thumbs/$(basename "$f" .jpg)_t.jpg"; done
+for f in *.jpg; do   convert "$f" -resize 900x900  "/Users/peteashton/Dropbox/Git/websites/bugpowder/covers/$(basename "$f" .jpg)_c.jpg"; done
+
