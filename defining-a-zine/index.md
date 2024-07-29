@@ -76,6 +76,18 @@ Of course the networks were not discrete. They overlapped and you could argue qu
 
 Not every zine had reviews, mind you, especially those that were less periodical and more discrete book-like objects. But they still existed on the network thanks to review zines, even if they were effectively dead ends. (Although even if they didn't include reviews they'd often come with fliers for other zines. The medium of the network was a much the envelope as its primary contents.)
 
+## Zines can be mail art (but mail art isn't always zines)
+
+Mail art and zines overlap a lot, particularly in their networked structure, and from a distance are basically the same thing, but there are some nicely chewy distinctions. 
+
+Mail art is a sibling discipline to zines, being artworks that use the postal service as a medium for collaboration and production as much as a means of distribution. If you're not familar with the concept [[here's a video of Mark Pawson showing some of his archive of 1980's mail art.]] A definition of mail art could begin with "multiples of an artwork that are intended to be sent by post and are constrained by that intention" and many pieces of mail art could easily be classified as zines. 
+
+A very ziney form of mail art is what Mark calls an "assembly magazine" where contributing artists make work to the same dimensions (usually an A4 sheet), make a required number of copies or versions (which may or may not be unique) and send them to an assigned collator. The collator then collates the pages into a magazine which is sent back to the contributors and maybe any not-contributing subscribers. (Eagle eyed readers will be thinking this is basically an [Amateur Press Association](https://en.wikipedia.org/wiki/Amateur_press_association), and they'd be right.)
+
+An example of mail art that is not at all zine-like would be one-off objects like rubber-stamped prints and decorated envelopes. These can be awesome, but they're not zines. 
+
+The big question is whether all zines that are sent through the mail are mail art. I would like to think that they are, but it's not a hill I'm comfortable dying on. For one, zines are not entirely distributed by post. They are stocked in shops, sold at markets and zine fairs, traded at gigs and festivals. Selling or trading zines face to face would be the norm for some communities that were more geographically localised. 
+
 ---
 ## Not the end
 
