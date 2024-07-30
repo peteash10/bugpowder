@@ -1,6 +1,6 @@
 # Defining a zine
 
-*(This is a live document, an eternal draft, if you like. I'll be expanding and revising it over time as my thoughts organise and develop.)*
+*(This is a live document, an eternal draft, if you like. I'll be expanding, revising, deleting and denying sections over time as my thoughts organise and develop.)*
 
 One of the challenges of [scanning and indexing a zine archive](https://bugpowder.peteashton.com/) is the edge cases. Most of the zines in my "boxes of zines" are clearly zines. And most of the items that aren't zines but have slipped in there are clearly not zines. But then there's the stuff that is but also isn't, or isn't but also is. How can I decide if they should be included in the final archive?
 
