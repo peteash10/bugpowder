@@ -2,16 +2,16 @@
 
 From 1988 to the mid 2000s I amassed a collection of roughly 4-5,000 self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. Most of them are photocopied or printed in very short runs. Many of them are hand-finished with personal touches. 
 
-During the 1990s I ran a review zine, TRS (The Review Sheet, because it was a single sheet of paper and I am good at naming things), and a mail order distro, BugPowder (named for reasons I will no doubt explain later), which meant people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. Because while the quality may vary from the sublime to the unfortunate, they are unique objects and I feel they all have value.
+During the 1990s I ran a review zine, TRS (The Review Sheet, so named because it was a single A4 sheet of reviews in 6pt type), and a mail order distro, BugPowder (named for reasons I will no doubt explain later). This meant hundreds of people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. Because while the quality may vary from the sublime and gorgeous to the unfortunate and regrettable, they are unique objects that emerged in a particular time, and I feel that gives them value.
 
-In 2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box of A5 zines and scanning a handful each evening. This page documents my progress. 
+In mid-2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box of A5 zines and scanning a handful each evening. This page documents my progress. 
 
 Pete Ashton  
 *pete@peteashton.com*
 
 <div style="border:3px solid red; padding: 5px;">
 
-At some point in 2025 I will have scanned all the smaller zines and will need to get an A3 scanner to do the rest. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!
+<i>At some point in 2025 I will have scanned all the smaller zines and will need to get an A3 scanner to do the rest. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!</i>
 
 </div>
 
@@ -19,7 +19,7 @@ At some point in 2025 I will have scanned all the smaller zines and will need to
 
 - [Scanning the BugPowder zine archive](https://72.peteashton.com/scanning-the-bugpowder-archive/) - blog post introducing the project, 25 June 2024.
 - [The Open Zine Archive](https://art.peteashton.com/OZA/) - the collection on display in 2018.
-- [Defining a zine](https://bugpowder.peteashton.com/defining-a-zine/) - An "eternal draft" article in which I attempt draw a line on what is and isn't a zine.
+- [Defining a zine](https://bugpowder.peteashton.com/defining-a-zine/) - An "eternal draft" article in which I attempt draw an informed yet still fairly subjective line on what is and isn't a zine.
 
 
 ## The scanned zines
