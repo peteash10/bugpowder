@@ -244,11 +244,12 @@ Here are the covers of the scanned zines in the order they were done. The entire
 <a href="covers/100210_c.jpg"><img height="100" src="thumbs/100210_t.jpg"></a>
 <a href="covers/100211_c.jpg"><img height="100" src="thumbs/100211_t.jpg"></a>
 <a href="covers/100212_c.jpg"><img height="100" src="thumbs/100212_t.jpg"></a>
+<a href="covers/100213_c.jpg"><img height="100" src="thumbs/100213_t.jpg"></a>
+<a href="covers/100214_c.jpg"><img height="100" src="thumbs/100214_t.jpg"></a>
 
 I periodically make a video slideshow of the covers. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b8R0jODRSyM?si=u8lOMqblLYgLTeza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/T1OJ_8UphtQ?si=NoN0B2QesEq6ahxD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Stats
 
 Scanning is **5.4%** complete <br>
