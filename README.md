@@ -303,6 +303,11 @@ Comic book | 1,090mm | 0mm | 0.00%
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1841904038&format=image) 
 
+### Scanned zines by country
+(This is where the "from *all over* the world" claim will stand or fall)
+
+![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1662188658&format=image)
+
 ## The zines on show
 
 Photos taken from [an exhibition](https://art.peteashton.com/OZA/) put on in 2018. 
