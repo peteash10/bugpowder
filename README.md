@@ -2,9 +2,9 @@
 
 From 1988 to the mid 2000s I amassed a collection of roughly 4-5,000 self published comics and zines, mostly from the UK small press comics scenes but also from across the world covering all manner of subjects. Most of them are photocopied or printed in very short runs. Many of them are hand-finished with personal touches. 
 
-During the 1990s I ran a review zine, TRS (The Review Sheet, so named because it was a single A4 sheet of reviews in 6pt type), and a mail order distro, BugPowder (named for reasons I will no doubt explain later). This meant hundreds of people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. Because while the quality may vary from the sublime and gorgeous to the unfortunate and regrettable, they are unique objects that emerged in a particular time, and I feel that gives them value.
+During the 1990s I ran a review zine, TRS (The Review Sheet, so named because it was a single A4 sheet of reviews in 6pt type), and a mail order distro, BugPowder (named for reasons I will no doubt explain later). This meant that on top of the many zines I was buying for myself, hundreds of people sent me unsolicited copies of their zines for review or sale. I drifted away from the scene from around 2003 but kept all the zines in boxes. Because while the quality may vary from the sublime and gorgeous to the unfortunate and regrettable, they are unique objects that emerged in specific circumstances, and I feel that makes them valuable and of historical interest.
 
-In mid-2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, opening the first box of A5 zines and scanning a handful each evening. This page documents my progress. 
+In mid-2024, while signed off work with Long-Covid-related stuff, I decided to start scanning them, starting with the first box of A5 zines and scanning a handful each evening. This page documents my progress. 
 
 Pete Ashton  
 *pete@peteashton.com*
