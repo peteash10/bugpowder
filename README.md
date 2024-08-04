@@ -258,12 +258,12 @@ Here are the covers of the scanned zines in the order they were done. The entire
 <a href="covers/100224_c.jpg"><img height="100" src="thumbs/100224_t.jpg"></a>
 <a href="covers/100225_c.jpg"><img height="100" src="thumbs/100225_t.jpg"></a>
 <a href="covers/100226_c.jpg"><img height="100" src="thumbs/100226_t.jpg"></a>
-<a href="covers/100127_c.jpg"><img height="100" src="thumbs/100127_t.jpg"></a>
-<a href="covers/100128_c.jpg"><img height="100" src="thumbs/100128_t.jpg"></a>
-<a href="covers/100129_c.jpg"><img height="100" src="thumbs/100129_t.jpg"></a>
-<a href="covers/100130_c.jpg"><img height="100" src="thumbs/100130_t.jpg"></a>
-<a href="covers/100131_c.jpg"><img height="100" src="thumbs/100131_t.jpg"></a>
-<a href="covers/100132_c.jpg"><img height="100" src="thumbs/100132_t.jpg"></a>
+<a href="covers/100227_c.jpg"><img height="100" src="thumbs/100227_t.jpg"></a>
+<a href="covers/100228_c.jpg"><img height="100" src="thumbs/100228_t.jpg"></a>
+<a href="covers/100229_c.jpg"><img height="100" src="thumbs/100229_t.jpg"></a>
+<a href="covers/100230_c.jpg"><img height="100" src="thumbs/100230_t.jpg"></a>
+<a href="covers/100231_c.jpg"><img height="100" src="thumbs/100231_t.jpg"></a>
+<a href="covers/100232_c.jpg"><img height="100" src="thumbs/100232_t.jpg"></a>
 
 I periodically make a video slideshow of the covers. 
 
