@@ -264,6 +264,10 @@ Here are the covers of the scanned zines in the order they were done. The entire
 <a href="covers/100230_c.jpg"><img height="100" src="thumbs/100230_t.jpg"></a>
 <a href="covers/100231_c.jpg"><img height="100" src="thumbs/100231_t.jpg"></a>
 <a href="covers/100232_c.jpg"><img height="100" src="thumbs/100232_t.jpg"></a>
+<a href="covers/100233_c.jpg"><img height="100" src="thumbs/100233_t.jpg"></a>
+<a href="covers/100234_c.jpg"><img height="100" src="thumbs/100234_t.jpg"></a>
+<a href="covers/100235_c.jpg"><img height="100" src="thumbs/100235_t.jpg"></a>
+<a href="covers/100236_c.jpg"><img height="100" src="thumbs/100236_t.jpg"></a>
 
 I periodically make a video slideshow of the covers. 
 
@@ -271,29 +275,27 @@ I periodically make a video slideshow of the covers.
 
 ## Stats
 
-Scanning is **5.9%** complete <br>
-☑️☑️☑️☑️☑️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+Scanning is **6.1%** complete <br>
+☑️☑️☑️☑️☑️☑️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
 
-This page was updated on **4 August 2024** and scanning began on **6 June 2024**.  Over those 59 days **232 zines** have been scanned, an average of **3.9 per day**. 
+This page was updated on **5 August 2024** and scanning began on **6 June 2024**.  Over those 60 days **236 zines** have been scanned, an average of **3.9 per day**. 
 
-When stacked as an A4 pile the scanned zines are **211 mm high**.   The total height of all the zines in A4 boxes is **3,544 mm**, so we are **5.9%** of the way through the scanning. **0.84** of the 16 boxes have been scanned. *(A small but significant number of items may not technically be zines or self published, so the total height will shrink as I filter those out.)*
+When stacked as an A4 pile the scanned zines are **215 mm high**.   The total height of all the zines in A4 boxes is **3,544 mm**, so we are **6.1%** of the way through the scanning. **0.86** of the 16 boxes have been scanned. *(A small but significant number of items may not technically be zines or self published, so the total height will shrink as I filter those out.)*
 
-The 232 scanned zines comprise **6,536** pages, an average of **28.2** pages per zine. The largest zine has **92** pages and the smallest **2**. Of the scanned zines, the earliest were published in **1988** and the latest in **2007** while **34** zines are undated.
+The 236 scanned zines comprise **6,624** pages, an average of **28.1** pages per zine. The largest zine has **92** pages and the smallest **2**. Of the scanned zines, the earliest were published in **1988** and the latest in **2007** while **34** zines are undated.
 
-The uncompressed TIFF files take up **57.1 GB** on disk. If we are 5.9% complete, the final total should be **962.0 GB**.   
+The uncompressed TIFF files take up **57.9 GB** on disk. If we are 6.1% complete, the final total should be **956.6 GB**.   
 
-At the current rate the final day of scanning should be **24 February 2027**, which is in **30.72** months.   
+At the current rate the final day of scanning should be **22 February 2027**, which is in **30.62** months.   
 
 ### Progress by format
 
 Format | Total height | Scanned height | Progress
 ------ | ----- | ----- | -----
 A6 / mini | 840mm | 12mm | 1.43%
-A5 / digest | 1,911mm | 413mm | 21.61%
+A5 / digest | 1,911mm | 421mm | 22.03%
 A4 / letter | 1,605mm | 1mm | 0.06%
 Comic book | 1,090mm | 0mm | 0.00%
-
-
 
 ## Charts
 
