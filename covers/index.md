@@ -2,7 +2,7 @@
 
 As of 7 August I've decided to pause scanning the contents of each zine and focus on scanning just the covers and adding them to the spreadsheet. This should only take a couple of months and then we'll have a real sense of what this archive comprises. 
 
-This page shows the covers of all the zines in the order they were taken from the boxes. 
+This page shows the covers of all the zines in the order they were taken from the boxes. (I'll do something more interesting with them later...)
 
 <a href="../images/covers/100001_c.jpg"><img height="100" src="../images/thumbs/100001_t.jpg"></a>
 <a href="../images/covers/100002_c.jpg"><img height="100" src="../images/thumbs/100002_t.jpg"></a>
