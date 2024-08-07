@@ -4,7 +4,7 @@
 
 As of 7 August 2024 I've decided to pause scanning the contents of each zine and focus on scanning just the covers and adding them to the spreadsheet. This should only take a couple of months and then we'll have a real sense of what this archive comprises. 
 
-This page shows the covers of all the zines sorted alphabetically by the name of their creator. (I'll do something more interesting with them later...)
+This page shows the covers of all the zines sorted alphabetically by the name of their creator. (I'll do something more interesting with them once we have a few thousand in the bag...)
 
 <a href="../images/covers/100204_c.jpg"><img height="100" src="../images/thumbs/100204_t.jpg"></a>
 <a href="../images/covers/100273_c.jpg"><img height="100" src="../images/thumbs/100273_t.jpg"></a>
