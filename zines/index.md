@@ -6,7 +6,7 @@ As of 7 August 2024 I've decided to pause scanning the contents of each zine and
 
 This page has thumbnails of the covers of all the zines linked to more legible larger versions. 
 
-Metadata is pretty basic - many zines have more than one creator but I've just entered the main or first listed person for now. This will be expenaded when it's a proper database. 
+Metadata is pretty basic - many zines have more than one creator but I've just entered the main or first listed person for now. This will be expanded once the first pass is done. 
 
 They're sorted by creator's first name (unless I forgot to sort before exporting). 
 
