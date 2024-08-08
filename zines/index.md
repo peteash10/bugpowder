@@ -6,12 +6,12 @@ As of 7 August 2024 I've decided to pause scanning the contents of each zine and
 
 This page has thumbnails of the covers of all the zines linked to more legible larger versions. 
 
-Metadata is pretty basic - many zines have more than one creator but I've just entered the main or first listed person for now. This will be expanded once the first pass is done. 
+Metadata is pretty basic - many zines have more than one creator but I've just entered the main or first listed person for now, and "type" is very broad. This will all be expanded once the first pass is done. 
 
 They're sorted by creator's first name (unless I forgot to sort before exporting). 
 
 <table>
-<tr><th>Cover</th><th>Title</th><th>Creator</th><th>Date</th><th>Year</th><th>Format</th><th>Country</th></tr>
+<tr><th>Cover</th><th>Title</th><th>Creator</th><th>Type</th><th>Year</th><th>Format</th><th>Country</th></tr>
 
 <tr><td><a href="../images/covers/100204_c.jpg"><img src="../images/thumbs/100204_t.jpg"></a></td><td>I Am The Corner </td><td>Akiko Tamura</td><td>Comic</td><td>2005</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100273_c.jpg"><img src="../images/thumbs/100273_t.jpg"></a></td><td>The Long Walk Nowhere </td><td>Al Burian</td><td>Comic</td><td></td><td>A5</td><td>USA</td></tr>
