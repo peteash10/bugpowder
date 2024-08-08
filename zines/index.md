@@ -10,6 +10,8 @@ Metadata is pretty basic - many zines have more than one creator but I've just e
 
 They're sorted by creator's first name (unless I forgot to sort before exporting). 
 
+**This is a work in progress. More zines are being added every few days.**
+
 <table>
 <tr><th>Cover</th><th>Title</th><th>Creator</th><th>Type</th><th>Year</th><th>Format</th><th>Country</th></tr>
 
