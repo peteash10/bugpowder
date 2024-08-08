@@ -11,7 +11,7 @@ Pete Ashton
 
 <div style="border:3px solid red; padding: 5px;">
 
-<i>At some point in 2025 I will have scanned all the smaller zines and will need to get an A3 scanner to do the rest. If you can advise me on which to buy and where to get one from at a reasonable price, or have one I could buy/borrow, please get in touch!</i>
+<strong>As of 7 August 2024 I'm taking a brief sabbatical from scanning the contents to focus on the covers and spreadsheet, so we can quantify the whole archive. This should be done in a couple of months. <a href="https://bugpowder.peteashton.com/covers/ ">Covers are going up here.</a></strong>
 
 </div>
 
