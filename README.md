@@ -9,9 +9,9 @@ In mid-2024, while signed off work with Long-Covid-related stuff, I decided to s
 Pete Ashton  
 *pete@peteashton.com*
 
-<div style="border:3px solid red; padding: 5px;">
+<div style="border:3px solid red; padding: 10px;">
 
-<strong>As of 7 August 2024 I'm taking a brief sabbatical from scanning the contents to focus on the covers and spreadsheet, so we can quantify the whole archive. This should be done in a couple of months. <a href="https://bugpowder.peteashton.com/covers/ ">Covers are going up here.</a></strong>
+<strong>As of 7 August 2024 I'm taking a brief sabbatical from scanning the contents to focus on the covers and spreadsheet, to get a better sense of the whole archive. This should be complete in a couple of months and then full scanning with resume. <a href="https://bugpowder.peteashton.com/covers/ ">Covers are going up here.</a></strong>
 
 </div>
 
