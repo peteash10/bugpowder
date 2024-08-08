@@ -304,25 +304,15 @@ Comic book | 1,090mm | 0mm | 0.00%
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1533171026&format=image)
 
-### Zines groups by the year of publication
+### Zines grouped by the year of publication
 (Not all zines have a date printed in them (which is really annoying, tbh).)
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=864147397&format=image)
 
-### Scanned zines by country
+### Zines by country
 (This is where the "from *all over* the world" claim will stand or fall)
 
 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1662188658&format=image)
-
-### Number of zines scanned each day.
-(I had Covid 12-20 June...)
-
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=623822358&format=image) 
-
-### Number of pages scanned each day.
-(Some zines are bigger than others...)
-
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrnKQwETHzJO6yjRxApwnhg-3YDlPZtRe7tNGySlMr_oOgLzX6rjShSduzq1MprZHocjUgMcs0Qrvn/pubchart?oid=1841904038&format=image) 
 
 
 ## The zines on show
