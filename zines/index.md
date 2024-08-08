@@ -41,7 +41,7 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100176_c.jpg"><img src="../images/thumbs/100176_t.jpg"></a></td><td>Atomic 10</td><td>Atomic</td><td>Anthology Comic</td><td>1990</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100323_c.jpg"><img src="../images/thumbs/100323_t.jpg"></a></td><td>Atomic 11</td><td>Atomic</td><td>Anthology Comic</td><td>1991</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100124_c.jpg"><img src="../images/thumbs/100124_t.jpg"></a></td><td>The First Job </td><td>Ben Graham</td><td>Comic</td><td>2001</td><td>A5</td><td></td></tr>
-<tr><td><a href="../images/covers/100331_c.jpg"><img src="../images/thumbs/100331_t.jpg"></a></td><td>Tales from the Midden 45606</td><td>Ben Hunt</td><td>Comic</td><td></td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100331_c.jpg"><img src="../images/thumbs/100331_t.jpg"></a></td><td>Tales from the Midden 10-11</td><td>Ben Hunt</td><td>Comic</td><td></td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100232_c.jpg"><img src="../images/thumbs/100232_t.jpg"></a></td><td>Vogarth </td><td>Ben Hunt</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100060_c.jpg"><img src="../images/thumbs/100060_t.jpg"></a></td><td>Classic Comics 2</td><td>Ben Hunt & Robyn Talbot</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100188_c.jpg"><img src="../images/thumbs/100188_t.jpg"></a></td><td>Fifteen Nuns 4</td><td>Ben Oakes</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
@@ -231,13 +231,13 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100150_c.jpg"><img src="../images/thumbs/100150_t.jpg"></a></td><td>Unspoken </td><td>Megan Kelso</td><td>Comic</td><td>1996</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100212_c.jpg"><img src="../images/thumbs/100212_t.jpg"></a></td><td>Destronic News 2</td><td>Michael Perridge</td><td>Anthology Comic</td><td>1992</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100302_c.jpg"><img src="../images/thumbs/100302_t.jpg"></a></td><td>Destronic News 1</td><td>Michael Perridge</td><td>Zine</td><td>1991</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100171_c.jpg"><img src="../images/thumbs/100171_t.jpg"></a></td><td>Empty Life 10 [Filthy Shit flip] </td><td>Mike Tolento</td><td>Comic</td><td>1997</td><td>A5</td><td>USA</td></tr>
+<tr><td><a href="../images/covers/100171_c.jpg"><img src="../images/thumbs/100171_t.jpg"></a></td><td>Empty Life [Filthy Shit flip] 10</td><td>Mike Tolento</td><td>Comic</td><td>1997</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100220_c.jpg"><img src="../images/thumbs/100220_t.jpg"></a></td><td>The Sugar Paper Rebellion </td><td>Mike Weller</td><td>Comic</td><td>1998</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100098_c.jpg"><img src="../images/thumbs/100098_t.jpg"></a></td><td>Amateur demo edition </td><td>Mitch & Murray</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100019_c.jpg"><img src="../images/thumbs/100019_t.jpg"></a></td><td>Loose Screws 15</td><td>Mr Biggers</td><td>Zine</td><td>1998</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100194_c.jpg"><img src="../images/thumbs/100194_t.jpg"></a></td><td>Neil Jam 7</td><td>Neil Fitzpatrick</td><td>Comic</td><td>2001</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100310_c.jpg"><img src="../images/thumbs/100310_t.jpg"></a></td><td>The Adventures of Hamish and Dwarf </td><td>Nigel Roberts</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100165_c.jpg"><img src="../images/thumbs/100165_t.jpg"></a></td><td>Muppet Babies </td><td>Paperrad</td><td>Art Book</td><td></td><td>A5</td><td>USA</td></tr>
+<tr><td><a href="../images/covers/100165_c.jpg"><img src="../images/thumbs/100165_t.jpg"></a></td><td>Muppet Babies </td><td>Paper Rad</td><td>Art Book</td><td></td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100332_c.jpg"><img src="../images/thumbs/100332_t.jpg"></a></td><td>A Virtual Circle 4</td><td>Patrick Brown</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100335_c.jpg"><img src="../images/thumbs/100335_t.jpg"></a></td><td>A Virtual Circle 1</td><td>Patrick Brown</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100344_c.jpg"><img src="../images/thumbs/100344_t.jpg"></a></td><td>A Virtual Circle 2</td><td>Patrick Brown</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
