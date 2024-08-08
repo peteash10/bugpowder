@@ -1,12 +1,14 @@
-# The Covers
+# The Zines
 
 [< Back](../)
 
 As of 7 August 2024 I've decided to pause scanning the contents of each zine and focus on scanning just the covers and adding them to the spreadsheet. This should only take a couple of months and then we'll have a real sense of what this archive comprises. 
 
-This page has thumbnails of the covers of all the zines sorted alphabetically by the name of their creator, along with the basic metadata I've recorded so far. Click on them to see something more legible. 
+This page has thumbnails of the covers of all the zines linked to more legible larger versions. 
 
-(I'll do something more interesting with them once we have a few thousand in the bag...)
+Metadata is pretty basic - many zines have more than one creator but I've just entered the main or first listed person for now. This will be expenaded when it's a proper database. 
+
+They're sorted by creator's first name (unless I forgot to sort before exporting). 
 
 <table>
 <tr><th>Cover</th><th>Title</th><th>Creator</th><th>Year</th><th>Format</th><th>Country</th></tr>
@@ -362,8 +364,8 @@ This page has thumbnails of the covers of all the zines sorted alphabetically by
 <tr><td><a href="../images/covers/100207_c.jpg"><img src="../images/thumbs/100207_t.jpg"></a></td><td>Wow Cool Spring 97</td><td>Wow Cool</td><td>1997</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100324_c.jpg"><img src="../images/thumbs/100324_t.jpg"></a></td><td>Wonky Fascination </td><td>Yurt Barron</td><td>2003</td><td>A5</td><td>UK</td></tr>
 
-</table>
 
+</table>
 
 ---
 end
