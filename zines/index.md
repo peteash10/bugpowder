@@ -39,13 +39,13 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100032_c.jpg"><img src="../images/thumbs/100032_t.jpg"></a></td><td>TRS2 - Comics 2001 edition </td><td>Andy Luke</td><td>Review Zine</td><td></td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100107_c.jpg"><img src="../images/thumbs/100107_t.jpg"></a></td><td>Angel Dust Funnies 1</td><td>Andy Nixon</td><td>Anthology Comic</td><td>1989</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100101_c.jpg"><img src="../images/thumbs/100101_t.jpg"></a></td><td>Angel Dust Funnies 4</td><td>Andy Nixon</td><td>Anthology Comic</td><td>1989</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100250_c.jpg"><img src="../images/thumbs/100250_t.jpg"></a></td><td>Media Assassin 11</td><td>Andy Roberts</td><td>Zine</td><td>2006</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100249_c.jpg"><img src="../images/thumbs/100249_t.jpg"></a></td><td>Media Assassin 9</td><td>Andy Roberts</td><td>Zine</td><td>2005</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100250_c.jpg"><img src="../images/thumbs/100250_t.jpg"></a></td><td>Media Assassin 11</td><td>Andy Roberts</td><td>Zine</td><td>2006</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100246_c.jpg"><img src="../images/thumbs/100246_t.jpg"></a></td><td>X-Ray 1</td><td>Andy Roberts</td><td>Zine</td><td>1994</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100279_c.jpg"><img src="../images/thumbs/100279_t.jpg"></a></td><td>Circus of Deception </td><td>Anthony Setchell</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100018_c.jpg"><img src="../images/thumbs/100018_t.jpg"></a></td><td>Atomic 9</td><td>Atomic</td><td>Anthology Comic</td><td>1990</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100176_c.jpg"><img src="../images/thumbs/100176_t.jpg"></a></td><td>Atomic 10</td><td>Atomic</td><td>Anthology Comic</td><td>1990</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100323_c.jpg"><img src="../images/thumbs/100323_t.jpg"></a></td><td>Atomic 11</td><td>Atomic</td><td>Anthology Comic</td><td>1991</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100018_c.jpg"><img src="../images/thumbs/100018_t.jpg"></a></td><td>Atomic 9</td><td>Atomic</td><td>Anthology Comic</td><td>1990</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100124_c.jpg"><img src="../images/thumbs/100124_t.jpg"></a></td><td>The First Job </td><td>Ben Graham</td><td>Comic</td><td>2001</td><td>A5</td><td></td></tr>
 <tr><td><a href="../images/covers/100331_c.jpg"><img src="../images/thumbs/100331_t.jpg"></a></td><td>Tales from the Midden 10-11</td><td>Ben Hunt</td><td>Comic</td><td></td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100232_c.jpg"><img src="../images/thumbs/100232_t.jpg"></a></td><td>Vogarth </td><td>Ben Hunt</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
@@ -124,9 +124,9 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100272_c.jpg"><img src="../images/thumbs/100272_t.jpg"></a></td><td>Hothead Paisan 18</td><td>Diane DiMassa</td><td>Comic</td><td>1995</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100231_c.jpg"><img src="../images/thumbs/100231_t.jpg"></a></td><td>Hothead Pasian 19</td><td>Diane DiMassa</td><td>Comic</td><td>1995</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100037_c.jpg"><img src="../images/thumbs/100037_t.jpg"></a></td><td>SFM Roma </td><td>Douglas Nobel</td><td>Comic</td><td>2002</td><td>A4</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100397_c.jpg"><img src="../images/thumbs/100397_t.jpg"></a></td><td>Strip For Me 9</td><td>Douglas Nobel</td><td>Comic</td><td>2002</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100140_c.jpg"><img src="../images/thumbs/100140_t.jpg"></a></td><td>Strip For Me 11</td><td>Douglas Nobel</td><td>Comic</td><td>2002</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100367_c.jpg"><img src="../images/thumbs/100367_t.jpg"></a></td><td>Strip For Me 13</td><td>Douglas Nobel</td><td>Comic</td><td>2003</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100397_c.jpg"><img src="../images/thumbs/100397_t.jpg"></a></td><td>Strip For Me 9</td><td>Douglas Nobel</td><td>Comic</td><td>2002</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100102_c.jpg"><img src="../images/thumbs/100102_t.jpg"></a></td><td>Nga Pakiwaituhi o Aotearoa - New Zealand Comics </td><td>Dylan Horrocks</td><td>Review Zine</td><td>1998</td><td>A5</td><td>NZ</td></tr>
 <tr><td><a href="../images/covers/100282_c.jpg"><img src="../images/thumbs/100282_t.jpg"></a></td><td>Reporter 1</td><td>Dylan Williams</td><td>Comic</td><td></td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100281_c.jpg"><img src="../images/thumbs/100281_t.jpg"></a></td><td>Reporter 2</td><td>Dylan Williams</td><td>Comic</td><td></td><td>A5</td><td>USA</td></tr>
@@ -155,8 +155,8 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100371_c.jpg"><img src="../images/thumbs/100371_t.jpg"></a></td><td>A Brief History of Small Press Comics </td><td>Gav Burrows</td><td>Zine</td><td>2004</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100251_c.jpg"><img src="../images/thumbs/100251_t.jpg"></a></td><td>Lucid Frenzy 7</td><td>Gav Burrows</td><td>Comic</td><td>2006</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100200_c.jpg"><img src="../images/thumbs/100200_t.jpg"></a></td><td>Rocket Science </td><td>Gav Burrows</td><td>Comic</td><td>2003</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100311_c.jpg"><img src="../images/thumbs/100311_t.jpg"></a></td><td>Surge 10</td><td>Ger Evans</td><td>Anthology Comic</td><td>1998</td><td>A5</td><td>Ireland</td></tr>
 <tr><td><a href="../images/covers/100312_c.jpg"><img src="../images/thumbs/100312_t.jpg"></a></td><td>Surge 9</td><td>Ger Evans</td><td>Anthology Comic</td><td>1998</td><td>A5</td><td>Ireland</td></tr>
+<tr><td><a href="../images/covers/100311_c.jpg"><img src="../images/thumbs/100311_t.jpg"></a></td><td>Surge 10</td><td>Ger Evans</td><td>Anthology Comic</td><td>1998</td><td>A5</td><td>Ireland</td></tr>
 <tr><td><a href="../images/covers/100266_c.jpg"><img src="../images/thumbs/100266_t.jpg"></a></td><td>Memories of a Murderer </td><td>Giulia Brusco</td><td>Comic</td><td>2000</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100061_c.jpg"><img src="../images/thumbs/100061_t.jpg"></a></td><td>Aggadon </td><td>Goodman Bros</td><td>Comic</td><td>2004</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100229_c.jpg"><img src="../images/thumbs/100229_t.jpg"></a></td><td>Bahala Na! 3</td><td>Goodman Bros</td><td>Comic</td><td>2003</td><td>A5</td><td>UK</td></tr>
@@ -197,15 +197,15 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100205_c.jpg"><img src="../images/thumbs/100205_t.jpg"></a></td><td>Happy-Type Heroes 2</td><td>Jessica</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100304_c.jpg"><img src="../images/thumbs/100304_t.jpg"></a></td><td>Lore 1</td><td>Jessica</td><td>Comic</td><td></td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100017_c.jpg"><img src="../images/thumbs/100017_t.jpg"></a></td><td>Psychosense 1</td><td>Jessica</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100265_c.jpg"><img src="../images/thumbs/100265_t.jpg"></a></td><td>Psychosense 10</td><td>Jessica</td><td>Comic</td><td>1998</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100333_c.jpg"><img src="../images/thumbs/100333_t.jpg"></a></td><td>Psychosense 4</td><td>Jessica</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100320_c.jpg"><img src="../images/thumbs/100320_t.jpg"></a></td><td>Psychosense 5</td><td>Jessica</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100013_c.jpg"><img src="../images/thumbs/100013_t.jpg"></a></td><td>Psychosense 9</td><td>Jessica</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100265_c.jpg"><img src="../images/thumbs/100265_t.jpg"></a></td><td>Psychosense 10</td><td>Jessica</td><td>Comic</td><td>1998</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100261_c.jpg"><img src="../images/thumbs/100261_t.jpg"></a></td><td>Psychosense Tales 1</td><td>Jessica</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100108_c.jpg"><img src="../images/thumbs/100108_t.jpg"></a></td><td>Coffee Time 7</td><td>Jez Higgins</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100348_c.jpg"><img src="../images/thumbs/100348_t.jpg"></a></td><td>Coffee Time 8</td><td>Jez Higgins</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100298_c.jpg"><img src="../images/thumbs/100298_t.jpg"></a></td><td>Coffee Time 9</td><td>Jez Higgins</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100036_c.jpg"><img src="../images/thumbs/100036_t.jpg"></a></td><td>TRS3 5-2002</td><td>Jez Higgins</td><td>Review Zine</td><td></td><td>A4</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100036_c.jpg"><img src="../images/thumbs/100036_t.jpg"></a></td><td>TRS3 May 2002</td><td>Jez Higgins</td><td>Review Zine</td><td></td><td>A4</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100166_c.jpg"><img src="../images/thumbs/100166_t.jpg"></a></td><td>Complicity </td><td>Jim Cameron</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100128_c.jpg"><img src="../images/thumbs/100128_t.jpg"></a></td><td>Confused </td><td>Jim Cameron</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100255_c.jpg"><img src="../images/thumbs/100255_t.jpg"></a></td><td>Disillusion </td><td>Jim Cameron</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
@@ -285,9 +285,9 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100054_c.jpg"><img src="../images/thumbs/100054_t.jpg"></a></td><td>Refractor 4</td><td>Paul & Neil Bristow</td><td>Zine</td><td></td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100027_c.jpg"><img src="../images/thumbs/100027_t.jpg"></a></td><td>The Whistleblowers </td><td>Paul & Neil Bristow</td><td>Zine</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100378_c.jpg"><img src="../images/thumbs/100378_t.jpg"></a></td><td>Mean Time </td><td>Paul Carstairs</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100085_c.jpg"><img src="../images/thumbs/100085_t.jpg"></a></td><td>Beer Frame 10</td><td>Paul Lukas</td><td>Zine</td><td>2000</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100094_c.jpg"><img src="../images/thumbs/100094_t.jpg"></a></td><td>Beer Frame 6</td><td>Paul Lukas</td><td>Zine</td><td>1996</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100119_c.jpg"><img src="../images/thumbs/100119_t.jpg"></a></td><td>Beer Frame 7</td><td>Paul Lukas</td><td>Zine</td><td>1997</td><td>A5</td><td>USA</td></tr>
+<tr><td><a href="../images/covers/100085_c.jpg"><img src="../images/thumbs/100085_t.jpg"></a></td><td>Beer Frame 10</td><td>Paul Lukas</td><td>Zine</td><td>2000</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100079_c.jpg"><img src="../images/thumbs/100079_t.jpg"></a></td><td>Fun Comics 1</td><td>Paul M Davies</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100073_c.jpg"><img src="../images/thumbs/100073_t.jpg"></a></td><td>Fun Comics 2</td><td>Paul M Davies</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100391_c.jpg"><img src="../images/thumbs/100391_t.jpg"></a></td><td>Fun Comics 3</td><td>Paul M Davies</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
@@ -324,31 +324,31 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100271_c.jpg"><img src="../images/thumbs/100271_t.jpg"></a></td><td>A Jock Gallery </td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100217_c.jpg"><img src="../images/thumbs/100217_t.jpg"></a></td><td>Escape Committee 1</td><td>Rol Hirst</td><td>Comic</td><td>1999</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100267_c.jpg"><img src="../images/thumbs/100267_t.jpg"></a></td><td>The Jock 1</td><td>Rol Hirst</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100134_c.jpg"><img src="../images/thumbs/100134_t.jpg"></a></td><td>The Jock 10</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100133_c.jpg"><img src="../images/thumbs/100133_t.jpg"></a></td><td>The Jock 11</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100138_c.jpg"><img src="../images/thumbs/100138_t.jpg"></a></td><td>The Jock 12</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100137_c.jpg"><img src="../images/thumbs/100137_t.jpg"></a></td><td>The Jock 14</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100139_c.jpg"><img src="../images/thumbs/100139_t.jpg"></a></td><td>The Jock 15</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100141_c.jpg"><img src="../images/thumbs/100141_t.jpg"></a></td><td>The Jock 16</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100224_c.jpg"><img src="../images/thumbs/100224_t.jpg"></a></td><td>The Jock 18</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100396_c.jpg"><img src="../images/thumbs/100396_t.jpg"></a></td><td>The Jock 19</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100398_c.jpg"><img src="../images/thumbs/100398_t.jpg"></a></td><td>The Jock 2</td><td>Rol Hirst</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100222_c.jpg"><img src="../images/thumbs/100222_t.jpg"></a></td><td>The Jock 20</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100288_c.jpg"><img src="../images/thumbs/100288_t.jpg"></a></td><td>The Jock 21</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100387_c.jpg"><img src="../images/thumbs/100387_t.jpg"></a></td><td>The Jock 22</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100359_c.jpg"><img src="../images/thumbs/100359_t.jpg"></a></td><td>The Jock 23</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100360_c.jpg"><img src="../images/thumbs/100360_t.jpg"></a></td><td>The Jock 24</td><td>Rol Hirst</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100386_c.jpg"><img src="../images/thumbs/100386_t.jpg"></a></td><td>The Jock 4</td><td>Rol Hirst</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100043_c.jpg"><img src="../images/thumbs/100043_t.jpg"></a></td><td>The Jock 5</td><td>Rol Hirst</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100294_c.jpg"><img src="../images/thumbs/100294_t.jpg"></a></td><td>The Jock 6</td><td>Rol Hirst</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100136_c.jpg"><img src="../images/thumbs/100136_t.jpg"></a></td><td>The Jock 8</td><td>Rol Hirst</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100135_c.jpg"><img src="../images/thumbs/100135_t.jpg"></a></td><td>The Jock 9</td><td>Rol Hirst</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100382_c.jpg"><img src="../images/thumbs/100382_t.jpg"></a></td><td>The Jock  13</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100181_c.jpg"><img src="../images/thumbs/100181_t.jpg"></a></td><td>Garbles 10</td><td>Ros Garbles</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100225_c.jpg"><img src="../images/thumbs/100225_t.jpg"></a></td><td>Garbles 11</td><td>Ros Garbles</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100134_c.jpg"><img src="../images/thumbs/100134_t.jpg"></a></td><td>The Jock 10</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100133_c.jpg"><img src="../images/thumbs/100133_t.jpg"></a></td><td>The Jock 11</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100138_c.jpg"><img src="../images/thumbs/100138_t.jpg"></a></td><td>The Jock 12</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100382_c.jpg"><img src="../images/thumbs/100382_t.jpg"></a></td><td>The Jock 13</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100137_c.jpg"><img src="../images/thumbs/100137_t.jpg"></a></td><td>The Jock 14</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100139_c.jpg"><img src="../images/thumbs/100139_t.jpg"></a></td><td>The Jock 15</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100141_c.jpg"><img src="../images/thumbs/100141_t.jpg"></a></td><td>The Jock 16</td><td>Rol Hirst</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100224_c.jpg"><img src="../images/thumbs/100224_t.jpg"></a></td><td>The Jock 18</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100396_c.jpg"><img src="../images/thumbs/100396_t.jpg"></a></td><td>The Jock 19</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100222_c.jpg"><img src="../images/thumbs/100222_t.jpg"></a></td><td>The Jock 20</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100288_c.jpg"><img src="../images/thumbs/100288_t.jpg"></a></td><td>The Jock 21</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100387_c.jpg"><img src="../images/thumbs/100387_t.jpg"></a></td><td>The Jock 22</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100359_c.jpg"><img src="../images/thumbs/100359_t.jpg"></a></td><td>The Jock 23</td><td>Rol Hirst</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100360_c.jpg"><img src="../images/thumbs/100360_t.jpg"></a></td><td>The Jock 24</td><td>Rol Hirst</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100377_c.jpg"><img src="../images/thumbs/100377_t.jpg"></a></td><td>Garbles 6</td><td>Ros Garbles</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100091_c.jpg"><img src="../images/thumbs/100091_t.jpg"></a></td><td>Garbles 7</td><td>Ros Garbles</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100180_c.jpg"><img src="../images/thumbs/100180_t.jpg"></a></td><td>Garbles 9</td><td>Ros Garbles</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100181_c.jpg"><img src="../images/thumbs/100181_t.jpg"></a></td><td>Garbles 10</td><td>Ros Garbles</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100225_c.jpg"><img src="../images/thumbs/100225_t.jpg"></a></td><td>Garbles 11</td><td>Ros Garbles</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100089_c.jpg"><img src="../images/thumbs/100089_t.jpg"></a></td><td>Rough Cut Presents Trailers 1</td><td>Rough Cut Comics</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100114_c.jpg"><img src="../images/thumbs/100114_t.jpg"></a></td><td>Amusing Yourself To Death 15</td><td>Ruel Gaviola</td><td>Zine</td><td>1999</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100001_c.jpg"><img src="../images/thumbs/100001_t.jpg"></a></td><td>My Daily Review 1</td><td>Sally Anne Hickman</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
@@ -393,9 +393,9 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100227_c.jpg"><img src="../images/thumbs/100227_t.jpg"></a></td><td>The Mystic Stones 5</td><td>Tim Brown</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100199_c.jpg"><img src="../images/thumbs/100199_t.jpg"></a></td><td>The Mystic Stones 6</td><td>Tim Brown</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100263_c.jpg"><img src="../images/thumbs/100263_t.jpg"></a></td><td>The Mystic Stones 7</td><td>Tim Brown</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100349_c.jpg"><img src="../images/thumbs/100349_t.jpg"></a></td><td>Japanize 10</td><td>Toko</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100321_c.jpg"><img src="../images/thumbs/100321_t.jpg"></a></td><td>Japanize 2</td><td>Toko</td><td>Comic</td><td>1999</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100268_c.jpg"><img src="../images/thumbs/100268_t.jpg"></a></td><td>Japanize 3</td><td>Toko</td><td>Comic</td><td>1999</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100349_c.jpg"><img src="../images/thumbs/100349_t.jpg"></a></td><td>Japanize 10</td><td>Toko</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100029_c.jpg"><img src="../images/thumbs/100029_t.jpg"></a></td><td>Shelton </td><td>Tom Spurgeon</td><td>Comic</td><td>1999</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100372_c.jpg"><img src="../images/thumbs/100372_t.jpg"></a></td><td>Angel Nebula 4</td><td>Tony McGee</td><td>Comic</td><td>1999</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100103_c.jpg"><img src="../images/thumbs/100103_t.jpg"></a></td><td>Angel Nebula 9</td><td>Tony McGee</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
