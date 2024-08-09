@@ -2,15 +2,15 @@
 
 [< Back](../)
 
-As of 7 August 2024 I've decided to pause scanning the contents of each zine and focus on scanning just the covers and adding them to the spreadsheet. This should only take a couple of months and then we'll have a real sense of what this archive comprises. 
+**This is a work in progress. More zines are being added every few days.**
+
+As of 7 August 2024 I've decided to pause scanning the contents of each zine and focus on scanning just the covers and adding them to the spreadsheet. It should take a couple of months to go through the 3-4,000 in the archive, and then I'll have a better sense of what I've got here. 
 
 This page has thumbnails of the covers of all the zines linked to more legible larger versions. 
 
 Metadata is pretty basic - many zines have more than one creator but I've just entered the main or first listed person for now, and "type" is very broad. This will all be expanded once the first pass is done. 
 
 They're sorted by creator's first name (unless I forgot to sort before exporting). 
-
-**This is a work in progress. More zines are being added every few days.**
 
 <table>
 <tr><th>Cover</th><th>Title</th><th>Creator</th><th>Type</th><th>Year</th><th>Format</th><th>Country</th></tr>
