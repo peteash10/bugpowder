@@ -29,7 +29,7 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100219_c.jpg"><img src="../images/thumbs/100219_t.jpg"></a></td><td>Magazine 6</td><td>Andy Konky Kru</td><td>Zine</td><td>2002</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100247_c.jpg"><img src="../images/thumbs/100247_t.jpg"></a></td><td>Max & Moritz </td><td>Andy Konky Kru</td><td>Comic</td><td></td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100033_c.jpg"><img src="../images/thumbs/100033_t.jpg"></a></td><td>Realistische Zeichnungen 1</td><td>Andy Konky Kru</td><td>Art Book</td><td></td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100390_c.jpg"><img src="../images/thumbs/100390_t.jpg"></a></td><td>Schtumm 2</td><td>Andy Konky Kru</td><td>Anthology Comic</td><td>2002</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100390_c.jpg"><img src="../images/thumbs/100390_t.jpg"></a></td><td>Shtumm 2</td><td>Andy Konky Kru</td><td>Anthology Comic</td><td>2002</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100339_c.jpg"><img src="../images/thumbs/100339_t.jpg"></a></td><td>Shtumm 1</td><td>Andy Konky Kru</td><td>Anthology Comic</td><td>2002</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100287_c.jpg"><img src="../images/thumbs/100287_t.jpg"></a></td><td>Bob's  3</td><td>Andy Luke</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100365_c.jpg"><img src="../images/thumbs/100365_t.jpg"></a></td><td>Bob's - Can I have your autograph, Mr Hooker? </td><td>Andy Luke</td><td>Comic</td><td></td><td>A5</td><td>UK</td></tr>
