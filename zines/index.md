@@ -76,18 +76,17 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100084_c.jpg"><img src="../images/thumbs/100084_t.jpg"></a></td><td>Rockdrill </td><td>Chris Webster</td><td>Comic</td><td>2005</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100277_c.jpg"><img src="../images/thumbs/100277_t.jpg"></a></td><td>Buddah on the Road 2</td><td>Colin Upton</td><td>Comic</td><td></td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100065_c.jpg"><img src="../images/thumbs/100065_t.jpg"></a></td><td>Toonadelic Times 2</td><td>Dal</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100175_c.jpg"><img src="../images/thumbs/100175_t.jpg"></a></td><td>Percy Street </td><td>Damian Cugely</td><td>Comic</td><td>2004</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100269_c.jpg"><img src="../images/thumbs/100269_t.jpg"></a></td><td>Lickity Spit 2</td><td>Damian Cugley</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100303_c.jpg"><img src="../images/thumbs/100303_t.jpg"></a></td><td>Lickity Spit 3</td><td>Damian Cugley</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100175_c.jpg"><img src="../images/thumbs/100175_t.jpg"></a></td><td>Percy Street 1</td><td>Damian Cugley</td><td>Comic</td><td>2004</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100301_c.jpg"><img src="../images/thumbs/100301_t.jpg"></a></td><td>Percy Street 2</td><td>Damian Cugley</td><td>Comic</td><td>2005</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100142_c.jpg"><img src="../images/thumbs/100142_t.jpg"></a></td><td>The Journal of Ride Theory 3</td><td>Dan Howland</td><td>Zine</td><td>1997</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100210_c.jpg"><img src="../images/thumbs/100210_t.jpg"></a></td><td>Mr Nile: The Illustrated Bastard </td><td>Daniel Merlin Goodbrey</td><td>Comic</td><td>2003</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100347_c.jpg"><img src="../images/thumbs/100347_t.jpg"></a></td><td>Sin 4</td><td>Darren Powel</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100306_c.jpg"><img src="../images/thumbs/100306_t.jpg"></a></td><td>Theatre of Conceits 8</td><td>Darren Powel</td><td>Comic</td><td>1999</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100183_c.jpg"><img src="../images/thumbs/100183_t.jpg"></a></td><td>Going to Chapel </td><td>Darren Powell</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100356_c.jpg"><img src="../images/thumbs/100356_t.jpg"></a></td><td>Sin 1</td><td>Darren Powell</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100361_c.jpg"><img src="../images/thumbs/100361_t.jpg"></a></td><td>Sin 2</td><td>Darren Powell</td><td>Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100264_c.jpg"><img src="../images/thumbs/100264_t.jpg"></a></td><td>Sin 3</td><td>Darren Powell</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100347_c.jpg"><img src="../images/thumbs/100347_t.jpg"></a></td><td>Sin 4</td><td>Darren Powell</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100297_c.jpg"><img src="../images/thumbs/100297_t.jpg"></a></td><td>Sin 5</td><td>Darren Powell</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100393_c.jpg"><img src="../images/thumbs/100393_t.jpg"></a></td><td>Sin 6</td><td>Darren Powell</td><td>Comic</td><td>1998</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100400_c.jpg"><img src="../images/thumbs/100400_t.jpg"></a></td><td>Sin 7</td><td>Darren Powell</td><td>Comic</td><td>2004</td><td>A5</td><td>UK</td></tr>
@@ -96,16 +95,17 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100042_c.jpg"><img src="../images/thumbs/100042_t.jpg"></a></td><td>Theatre of Conceits 3</td><td>Darren Powell</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100383_c.jpg"><img src="../images/thumbs/100383_t.jpg"></a></td><td>Theatre of Conceits 4</td><td>Darren Powell</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100291_c.jpg"><img src="../images/thumbs/100291_t.jpg"></a></td><td>Theatre of Conceits 5</td><td>Darren Powell</td><td>Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100306_c.jpg"><img src="../images/thumbs/100306_t.jpg"></a></td><td>Theatre of Conceits 8</td><td>Darren Powell</td><td>Comic</td><td>1999</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100121_c.jpg"><img src="../images/thumbs/100121_t.jpg"></a></td><td>Blood Relatives </td><td>Darryl Cunningham</td><td>Comic</td><td>1989</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100132_c.jpg"><img src="../images/thumbs/100132_t.jpg"></a></td><td>The British Sketchbook 1</td><td>Darryl Cunningham</td><td>Anthology Comic</td><td>1997</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100071_c.jpg"><img src="../images/thumbs/100071_t.jpg"></a></td><td>The Marvel Sketchbook </td><td>Darryl Cunningham</td><td>Anthology Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100182_c.jpg"><img src="../images/thumbs/100182_t.jpg"></a></td><td>Got to live their life 1</td><td>Dave Metcalfe</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100379_c.jpg"><img src="../images/thumbs/100379_t.jpg"></a></td><td>My Life Story 4</td><td>Dave Metcalfe</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100125_c.jpg"><img src="../images/thumbs/100125_t.jpg"></a></td><td>David Baillie's Awkward Fascination Compendium </td><td>David Baillie</td><td>Comic</td><td>2003</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100016_c.jpg"><img src="../images/thumbs/100016_t.jpg"></a></td><td>Fury 2</td><td>David Gordon</td><td>Comic</td><td>1991</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100039_c.jpg"><img src="../images/thumbs/100039_t.jpg"></a></td><td>Fury 3</td><td>David Gordon</td><td>Comic</td><td>1992</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100111_c.jpg"><img src="../images/thumbs/100111_t.jpg"></a></td><td>The Lightning Room [Damage 1] </td><td>David Gordon</td><td>Comic</td><td>1993</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100182_c.jpg"><img src="../images/thumbs/100182_t.jpg"></a></td><td>Got to live their life 1</td><td>David Metcalfe</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100340_c.jpg"><img src="../images/thumbs/100340_t.jpg"></a></td><td>My Life Story 3</td><td>David Metcalfe</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100379_c.jpg"><img src="../images/thumbs/100379_t.jpg"></a></td><td>My Life Story 4</td><td>David Metcalfe</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100318_c.jpg"><img src="../images/thumbs/100318_t.jpg"></a></td><td>The Fugitive </td><td>David Metcalfe</td><td>Comic</td><td>1995</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100317_c.jpg"><img src="../images/thumbs/100317_t.jpg"></a></td><td>Burp! 2</td><td>David Morris</td><td>Comic</td><td></td><td></td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100177_c.jpg"><img src="../images/thumbs/100177_t.jpg"></a></td><td>Inkling 9</td><td>David Potts</td><td>Anthology Comic</td><td>1992</td><td>A5</td><td>UK</td></tr>
@@ -371,9 +371,9 @@ They're sorted by creator's first name (unless I forgot to sort before exporting
 <tr><td><a href="../images/covers/100170_c.jpg"><img src="../images/thumbs/100170_t.jpg"></a></td><td>Ten Foot Rule 2.5 - Empty Life 10.5 flip </td><td>Shawn Granton & Mike Tolento</td><td>Comic</td><td>1998</td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100376_c.jpg"><img src="../images/thumbs/100376_t.jpg"></a></td><td>The Comics Reviewer 2</td><td>Simon Baker</td><td>Review Zine</td><td>1996</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100242_c.jpg"><img src="../images/thumbs/100242_t.jpg"></a></td><td>Strimp </td><td>Simon Mackie</td><td>Comic</td><td>1996</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100070_c.jpg"><img src="../images/thumbs/100070_t.jpg"></a></td><td>Flying Monkey 3</td><td>Simon Perrins</td><td>Comic</td><td>1998</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100309_c.jpg"><img src="../images/thumbs/100309_t.jpg"></a></td><td>Hope for the Future 1</td><td>Simon Perrins</td><td>Comic</td><td>2000</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100154_c.jpg"><img src="../images/thumbs/100154_t.jpg"></a></td><td>Hope for the Future 3</td><td>Simon Perrins</td><td>Comic</td><td>2001</td><td>A5</td><td>UK</td></tr>
-<tr><td><a href="../images/covers/100070_c.jpg"><img src="../images/thumbs/100070_t.jpg"></a></td><td>Flying Monkey 3</td><td>Simon Perrins & Andrew Livesey</td><td>Comic</td><td>1998</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100211_c.jpg"><img src="../images/thumbs/100211_t.jpg"></a></td><td>Anarchy in the UK... the Comic! </td><td>Slab-o-Concrete</td><td>Anthology Comic</td><td>1994</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100100_c.jpg"><img src="../images/thumbs/100100_t.jpg"></a></td><td>Smoke - A London Peculiar 4</td><td>Smoke</td><td>Zine</td><td>2003</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100148_c.jpg"><img src="../images/thumbs/100148_t.jpg"></a></td><td>Smoke - A London Peculiar 6</td><td>Smoke</td><td>Zine</td><td></td><td>A5</td><td>UK</td></tr>
