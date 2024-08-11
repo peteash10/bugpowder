@@ -13,9 +13,9 @@ Metadata is pretty basic - many zines have more than one creator but I've just e
 They're sorted by creator's first name (unless I forgot to sort before exporting). 
 
 <table>
-<tr><th>Cover</th><th>Title</th><th>Creator</th><th>Type</th><th>Year</th><th>Format</th><th>Country</th></tr>
+<tr><th>Cover</th><th>Title <br />Creator</th><th>Format <br />Type <br />Year</th><th>Country</th></tr>
 
-<tr><td><a href="../images/covers/100204_c.jpg"><img src="../images/thumbs/100204_t.jpg"></a></td><td><strong>I Am The Corner</strong> <br /><br />Akiko Tamura</td><td>Comic</td><td>2005</td><td>A5</td><td>UK</td></tr>
+<tr><td><a href="../images/covers/100204_c.jpg"><img src="../images/thumbs/100204_t.jpg"></a></td><td><strong>I Am The Corner</strong> <br /><br />Akiko Tamura</td><td>A5<br />Comic<br />2005</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100273_c.jpg"><img src="../images/thumbs/100273_t.jpg"></a></td><td><strong>The Long Walk Nowhere</strong> <br /><br />Al Burian</td><td>Comic</td><td></td><td>A5</td><td>USA</td></tr>
 <tr><td><a href="../images/covers/100257_c.jpg"><img src="../images/thumbs/100257_t.jpg"></a></td><td><strong>Spiral Dreams - Sobakz's Dream</strong> <br /><br />Al Davison</td><td>Comic</td><td>2002</td><td>A5</td><td>UK</td></tr>
 <tr><td><a href="../images/covers/100058_c.jpg"><img src="../images/thumbs/100058_t.jpg"></a></td><td><strong>Urine</strong> <br /><br />Alan Macintyre</td><td>Comic</td><td></td><td>A5</td><td>USA</td></tr>
