@@ -1,4 +1,0 @@
-cd /Users/peteashton/Dropbox/BugPowder\ archive/_Scans/Covers
-for f in *.jpg; do   convert "$f" -resize 150x150  "thumbs/$(basename "$f" .jpg)_t.jpg"; done
-for f in *.jpg; do   convert "$f" -resize 900x900  "covers/$(basename "$f" .jpg)_c.jpg"; done
-
