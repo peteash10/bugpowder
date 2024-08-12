@@ -754,5 +754,9 @@ table td.thumbcell {
     width: calc(50% - 30px / 2);
   }
 }
+.smaller {
+  font-size: smaller;
+  font-weight: bold;
+}
 
 /*# sourceMappingURL=style.css.map */
