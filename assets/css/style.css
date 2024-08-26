@@ -332,4 +332,6 @@ table td.thumbcell { max-width: 100px; }
 
 .smaller { font-size: smaller; font-weight: bold; }
 
+.caption { font-size: 0.9em; font-variant: small-caps; }
+
 /*# sourceMappingURL=style.css.map */
