@@ -1,4 +1,182 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://bugpowder.peteashton.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bugpowder.peteashton.com/" rel="alternate" type="text/html" /><updated>2024-08-26T02:37:06+01:00</updated><id>https://bugpowder.peteashton.com/feed.xml</id><title type="html">The BugPowder zine archive</title><subtitle></subtitle><entry><title type="html">Update for 25 August 2024</title><link href="https://bugpowder.peteashton.com/2024/08/25/update.html" rel="alternate" type="text/html" title="Update for 25 August 2024" /><published>2024-08-25T00:00:00+01:00</published><updated>2024-08-25T00:00:00+01:00</updated><id>https://bugpowder.peteashton.com/2024/08/25/update</id><content type="html" xml:base="https://bugpowder.peteashton.com/2024/08/25/update.html"><![CDATA[<p><strong><a href="/timeline/">Pete’s zine timeline</a> updated.</strong> I remembered how I first came into contact with Chris Staros at Top Shelf which opened a door into the world of US mini-comics by the likes of James Kochalka, Kevin Huizenga, John Porcellino, etc and got me stocking Alan Moore. Look around 1996, 1999 and 2001-3 for some exciting new sentences.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://bugpowder.peteashton.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bugpowder.peteashton.com/" rel="alternate" type="text/html" /><updated>2024-08-31T00:54:57+01:00</updated><id>https://bugpowder.peteashton.com/feed.xml</id><title type="html">The BugPowder zine archive</title><subtitle></subtitle><entry><title type="html">Update for 30 August 2024</title><link href="https://bugpowder.peteashton.com/2024/08/30/update.html" rel="alternate" type="text/html" title="Update for 30 August 2024" /><published>2024-08-30T00:00:00+01:00</published><updated>2024-08-30T00:00:00+01:00</updated><id>https://bugpowder.peteashton.com/2024/08/30/update</id><content type="html" xml:base="https://bugpowder.peteashton.com/2024/08/30/update.html"><![CDATA[<p>The last of the minis (zines sized A6 or smaller) have been added - see the list below. I’m now going to finish off the A5 zines and then move onto the comic book sized zines. Looking at the boxes I’m about halfway there.</p>
+
+<p>I’ve been playing around with the layout of the <a href="/zines/">zine listing pages</a> - this is definitely a work in progress to expect tweaks. I’ve added a new “Contributors” field for any additional people involved in the publication. This is most useful for anthologies - check out <a href="/z/101446/">5 o’clock Shadow 13</a> and <a href="/z/100952/">!GAG!</a> to see it in action. Of course I haven’t actually added the contributors for the vast majority of the zines and that will come in the second pass. This is just a test to see how it might work.</p>
+
+<p>[<em>Techy bit follows</em>] The plan was to try and hook these into the <a href="https://jekyllrb.com/">Jekyll</a> CMS so it would build pages for each contributor, but one thing I’ve found is Jekyll’s implementation of categories and tags is simply woeful.  Anyway, all the more reason to do it properly with a proper CMS  once the data entry is complete and just treat this Jekyll site as a sketch. [<em>Techy bit ends</em>]</p>
+
+<p><a href="/z/101346/"><img src="/images/covers/101346_c.jpg" alt="" /></a></p>
+
+<p><strong>Notable items in this upload:</strong></p>
+
+<ul>
+  <li><a href="/z/101346/">Aleksandar Zograf’s <em>Alas Comics 5</em></a> comes to mind whenever there’s a sense that my country is splitting in two, so quite often in the last decade. Zograf was sending zines out from the 1990s Yugoslav War and this one, titled “What would it be like if a civil war broke out in your own country?” is a sobering cautionary tale. On a lighter note, hand coloured cover!</li>
+  <li><a href="/z/101405/">Karen Rubin’s <em>The Dust</em></a> isn’t the only teeny tiny zine in the archive but it’s the only one you need a magnifying  glass to read, which is thankfully included. It’s a detective fairy story printed at fairy scale, a fantastic conceit.</li>
+  <li><a href="/z/101428/">Stewart Home’s <em>Necrocard</em>.</a> I had no idea these were from him until <a href="https://www.artsy.net/artwork/stewart-home-necrocard">I looked them up tonight</a>. I had about a hundred and sent them out with my zines for a while. Dunno where I got them from. Just the one left now…</li>
+</ul>
+
+<p><a href="/z/101428/"><img src="/images/covers/101428_c.jpg" alt="" /></a></p>
+
+<p><strong>Added the following titles:</strong></p>
+
+<ul>
+<li><a href="/z/101302/">Ladyfest London Zine List</a>  by Ladyfest London</li>
+<li><a href="/z/101303/">The Right On Kids</a>  by Simon Gane</li>
+<li><a href="/z/101304/">Jumbo Jape</a>  by Sean Bieri</li>
+<li><a href="/z/101305/">Short Journies</a>  by Brouhaha</li>
+<li><a href="/z/101306/">Iron On Appliques Remixes</a>  by Mark Pawson</li>
+<li><a href="/z/101307/">Rubber Whammy</a>  by Christina Lamb</li>
+<li><a href="/z/101308/">Abi's Mouse Book</a>  by Abi Hobbs</li>
+<li><a href="/z/101309/">Hey Kids! It's... Dr Sputnik</a>  by Roger Langridge</li>
+<li><a href="/z/101310/">Attention Class III Consumers</a>  by Visceral Hump</li>
+<li><a href="/z/101311/">Les Peintres Maudits</a>  by Simon Gane</li>
+<li><a href="/z/101312/">The 3 Love Songs</a>  by Sally Shiny Stars</li>
+<li><a href="/z/101313/">Whispers and Intimidations</a>  by Jeremy Dennis</li>
+<li><a href="/z/101314/">Windy</a>  by Ed Pinsent</li>
+<li><a href="/z/101315/">Welcome to Slightly Grubby Heaven</a>  by Toby Tripp</li>
+<li><a href="/z/101316/">Self Portrait Comics</a> 1 by Colin Upton</li>
+<li><a href="/z/101317/">Self-indulgent Comics</a> 12 by Colin Upton</li>
+<li><a href="/z/101318/">Self-indulgent Comics</a> 10 by Colin Upton</li>
+<li><a href="/z/101319/">Happy Ned</a> 5 by Colin Upton</li>
+<li><a href="/z/101320/">Happy Ned</a> 7 by Colin Upton</li>
+<li><a href="/z/101321/">Happy Ned</a> 6 by Colin Upton</li>
+<li><a href="/z/101322/">Happy Ned</a> 4 by Colin Upton</li>
+<li><a href="/z/101323/">Happy Ned</a> 8 by Colin Upton</li>
+<li><a href="/z/101324/">Happy Ned</a> 3 by Colin Upton</li>
+<li><a href="/z/101325/">Happy Ned</a> 2 by Colin Upton</li>
+<li><a href="/z/101326/">Happy Ned</a> 1 by Colin Upton</li>
+<li><a href="/z/101327/">Supermonster</a> 14 by Kevin Huizenga</li>
+<li><a href="/z/101328/">Bad Hair Day</a>  by Craig Conlan</li>
+<li><a href="/z/101329/">Bad Hair Day</a>  by Craig Conlan</li>
+<li><a href="/z/101330/">Bad Breath</a>  by Jakob Klemenčič</li>
+<li><a href="/z/101331/">The Pebble Tarot</a>  by Damian Cugley</li>
+<li><a href="/z/101332/">Florence of Arabia</a> 2 by Hob</li>
+<li><a href="/z/101333/">Stab Me My Lovely</a>  by Mark Stafford</li>
+<li><a href="/z/101334/">Sara's brand new mobile phone</a>  by Goodman Bros</li>
+<li><a href="/z/101335/">London in Love</a>  by Sally Shiny Stars</li>
+<li><a href="/z/101336/">Fashionable Fascism</a>  by Richard Cowdry</li>
+<li><a href="/z/101337/">The Ralphie Diaries</a> 2 by Ralph Kidson</li>
+<li><a href="/z/101338/">Artbabe in Pigskin vs Paintbrush</a>  by Jessica Abel</li>
+<li><a href="/z/101339/">Alas! Comics</a> 4 by Aleksandar Zograf</li>
+<li><a href="/z/101340/">Knuckles the Malevolent Nun</a>  by Roger Langridge</li>
+<li><a href="/z/101341/">Stream of (Un)consciousness</a>  by Brett Warnock</li>
+<li><a href="/z/101342/">Bad Dog</a> 2 by Gary Northfield</li>
+<li><a href="/z/101343/">Kempble's Twisted Turns</a>  by Andrew Richmond &amp; Richard Starzecki</li>
+<li><a href="/z/101344/">The Kings of Cool</a>  by Paul Scroeder</li>
+<li><a href="/z/101345/">Why I Like Bugs</a>  by Dan Moynihan</li>
+<li><a href="/z/101346/">Alas! Comics</a> 5 by Aleksandar Zograf</li>
+<li><a href="/z/101347/">Alien Queen</a>  by Jeremy Dennis</li>
+<li><a href="/z/101348/">Turncoat</a>  by Dead Swan Squawking</li>
+<li><a href="/z/101349/">Konky Kru! </a> 1 by Andy Konky Kru</li>
+<li><a href="/z/101350/">Visions Hipnagogiques</a>  by Aleksandar Zograf</li>
+<li><a href="/z/101351/">Bunny Girl and Pig Boy in Bliss?</a>  by Nigel Auchterlounie</li>
+<li><a href="/z/101352/">Slab-o-Concrete Update Catalogue Summer 95</a>  by Peter Pavement</li>
+<li><a href="/z/101353/">Fantastic Kitten</a>  by Sweatdrop Studios</li>
+<li><a href="/z/101354/">Jeremy's Frog</a>  by Paul J Holden</li>
+<li><a href="/z/101355/">The Death of Antisocialman</a> 1 by Matt Feazell</li>
+<li><a href="/z/101356/">The Devil's Daughter</a>  by Robert Wells</li>
+<li><a href="/z/101357/">Drowning in Bed</a>  by Jeremy Dennis</li>
+<li><a href="/z/101358/">Dirtbag</a> 5 by Dave Kiersh</li>
+<li><a href="/z/101359/">Doorstep</a>  by Adrian</li>
+<li><a href="/z/101360/">Deshabille</a>  by Emma Jane Connolly</li>
+<li><a href="/z/101361/">The Death of Antisocialman</a> 3 by Matt Feazell</li>
+<li><a href="/z/101362/">Fred the Clown</a>  by Roger Langridge</li>
+<li><a href="/z/101363/">God's Architect</a>  by Bridgeen Gillespie</li>
+<li><a href="/z/101364/">Understanding the Horrible Truth about Reinventing Minicomics</a>  by Kurt Wolfgang</li>
+<li><a href="/z/101365/">A Jam of Spot</a> 3 by Colin Upton</li>
+<li><a href="/z/101366/">On the spot</a>  by Corine Perlman</li>
+<li><a href="/z/101367/">Two Small Comics About Beauty</a>  by David Morris</li>
+<li><a href="/z/101368/">Pater Contrarius</a>  by C Malkasian</li>
+<li><a href="/z/101369/">The Riot On The Spiritual Plane</a>  by Peter Pavement</li>
+<li><a href="/z/101370/">Jape</a> 2 by Sean Bieri</li>
+<li><a href="/z/101371/">Andrew Luke's Comic Book(let)</a>  by Andy Luke</li>
+<li><a href="/z/101372/">Peanut Butter and Jelly</a>  by Souther Salazar</li>
+<li><a href="/z/101373/">Neurotic Monsters Abroad</a>  by Jeremy Dennis</li>
+<li><a href="/z/101374/">New Rage</a>  by Press Charges Press</li>
+<li><a href="/z/101375/">[hand]</a>  by Paul Schroeder</li>
+<li><a href="/z/101376/">Sick Happy Idle</a> 25 by A R Shaw</li>
+<li><a href="/z/101377/">Neil Jam ABCs</a>  by Neil Fitzpatrick</li>
+<li><a href="/z/101378/">Batjam</a>  by Neil Fitzpatrick</li>
+<li><a href="/z/101379/">Sick Happy Idle</a> 16 by A R Shaw</li>
+<li><a href="/z/101380/">Real Rubbie</a> 1 by Colin Upton</li>
+<li><a href="/z/101381/">Caption 2002 exhibit invite</a>  by Caption</li>
+<li><a href="/z/101382/">Captain Rug-Doctor</a> 1 by Colin Upton</li>
+<li><a href="/z/101383/">Cecil the Nice Wasp</a>  by Gary Northfield</li>
+<li><a href="/z/101384/">Tales of the Terrible Teatotaler</a> 1 by Colin Upton</li>
+<li><a href="/z/101385/">The 13</a>  by Dan Rowbottom</li>
+<li><a href="/z/101386/">Tokonize</a>  by Toko</li>
+<li><a href="/z/101387/">The Collected Alas Comics</a>  by Aleksandar Zograf</li>
+<li><a href="/z/101388/">Dave's odd little fuckbook</a>  by Dave Cooper</li>
+<li><a href="/z/101389/">A textbook on the noble art of following people</a>  by Colin Upton</li>
+<li><a href="/z/101390/">Votre Chien et Vous</a>  by Jean-Paul Jennequin</li>
+<li><a href="/z/101391/">13 Drawings</a>  by Dave Shelton</li>
+<li><a href="/z/101392/">Dandruf and Consequences</a>  by Jakob Klemenčič</li>
+<li><a href="/z/101393/">Social Entelechy</a>  by Jim Cameron</li>
+<li><a href="/z/101394/">Space Rocket</a>  by Scott Mills</li>
+<li><a href="/z/101395/">Famous Bus Rides</a> 4 by Colin Upton</li>
+<li><a href="/z/101396/">Famous Bus Rides</a> 2 by Colin Upton</li>
+<li><a href="/z/101397/">Famous Bus Rides</a> 1 by Colin Upton</li>
+<li><a href="/z/101398/">Self-Indulgent Comics</a> 6 by Colin Upton</li>
+<li><a href="/z/101399/">Self-Indulgent Comics</a> 5 by Colin Upton</li>
+<li><a href="/z/101400/">Supermonster</a> 12 by Kevin Huizenga</li>
+<li><a href="/z/101401/">The G-Strings</a> 2 by Gary Parkin</li>
+<li><a href="/z/101402/">Winter Time in the Spring Factory</a>  by Sam H Waghar</li>
+<li><a href="/z/101403/">Curios Thing</a> 15 by Michael Leigh</li>
+<li><a href="/z/101404/">Cave In</a>  by Brian Ralph</li>
+<li><a href="/z/101405/">The Dust</a>  by Karen Rubins</li>
+<li><a href="/z/101406/">Religious Convertion</a>  by Jim Cameron</li>
+<li><a href="/z/101407/">Monster Stories for Girls and Boys</a>  by Sally Anne Hickman</li>
+<li><a href="/z/101408/">The Therapist</a>  by Hob</li>
+<li><a href="/z/101409/">Three Very Small Comics (envelope)</a>  by Tom Gauld</li>
+<li><a href="/z/101410/">Gardening</a>  by Tom Gauld</li>
+<li><a href="/z/101411/">The Art of War</a>  by Tom Gauld</li>
+<li><a href="/z/101412/">The Gauld Collection</a>  by Tom Gauld</li>
+<li><a href="/z/101413/">One night in late March 1998 I had a strange dream about travelling to Serbia</a>  by Jakob Klemenčič</li>
+<li><a href="/z/101414/">Sick Happy Idle</a> 11 by A R Shaw</li>
+<li><a href="/z/101415/">The Granville Street Gallery</a> 7 by Colin Upton</li>
+<li><a href="/z/101416/">Curios Thing</a> 16 by Michael Leigh</li>
+<li><a href="/z/101417/">Wolfs Head Press microzine pack</a>  by Wolf's Head Press</li>
+<li><a href="/z/101418/">The Luck of Roman Riss</a>  by Steve Sneyd</li>
+<li><a href="/z/101419/">Dream Seller</a>  by John Light</li>
+<li><a href="/z/101420/">The Sunderland Calamity</a>  by Wm. McGonagall</li>
+<li><a href="/z/101421/">Space Travel's In My Blood</a>  by Wolf's Head Press</li>
+<li><a href="/z/101422/">Fast! Clean! Defficient!</a>  by Dirk Borax</li>
+<li><a href="/z/101423/">An Inside Job</a>  by Hob</li>
+<li><a href="/z/101424/">Sick Happy Idle</a> 17 by A R Shaw</li>
+<li><a href="/z/101425/">Sick Happy Idle</a> 13 by A R Shaw</li>
+<li><a href="/z/101426/">Sick Happy Idle</a> 10 by A R Shaw</li>
+<li><a href="/z/101427/">Sick Happy Idle</a> 14 by A R Shaw</li>
+<li><a href="/z/101428/">Necrocard</a>  by Stewart Home</li>
+<li><a href="/z/101429/">The best kind of comedy?</a>  by Toby Tripp</li>
+<li><a href="/z/101430/">The Fabulous World of Things</a>  by Roger Langridge</li>
+<li><a href="/z/101431/">All These Murders</a>  by Denny Derbyshire</li>
+<li><a href="/z/101432/">Badges from Active</a>  by Active</li>
+<li><a href="/z/101433/">Hove Samson in... The Plot Thickens</a>  by Gavin Burrows</li>
+<li><a href="/z/101434/">Sick Happy Idle</a> 15 by A R Shaw</li>
+<li><a href="/z/101435/">Sick Happy Idle</a> 24 by A R Shaw</li>
+<li><a href="/z/101436/">Sick Happy Idle</a> 19 by A R Shaw</li>
+<li><a href="/z/101437/">Sick Happy Idle</a> 12 by A R Shaw</li>
+<li><a href="/z/101438/">Sick Happy Idle</a> 26 by A R Shaw</li>
+<li><a href="/z/101439/">Doorstep</a>  by Adrian </li>
+<li><a href="/z/101440/">Long Tail Kitty</a>  by Lark Pien</li>
+<li><a href="/z/101441/">Eager Beaver</a>  by Woodrow Phoenix</li>
+<li><a href="/z/101442/">The Happy Hater</a> 4 by Colin Upton</li>
+<li><a href="/z/101443/">Runny Boiled Comics</a> 1 by Paul J Holden</li>
+<li><a href="/z/101444/">Sof' Boy</a> 2 by Archer Prewitt</li>
+<li><a href="/z/101445/">Flimsy Mini Monsterworks</a> 1 by Martin Hand</li>
+<li><a href="/z/101446/">5 o'clock Shadow</a> 13 by Sean Bieri</li>
+<li><a href="/z/101447/">Crum Buns</a>  by Brian Ralph</li>
+<li><a href="/z/101448/">The Happy Hater</a> 3 by Colin Upton</li>
+<li><a href="/z/101449/">Cool Jerk &amp; Homogal</a> 5 by Sean Bieri</li>
+<li><a href="/z/101450/">Cool Jerk &amp; Homogal</a> 1 by Sean Bieri</li>
+<li><a href="/z/101451/">The Poort Little Princess</a>  by T. Motley</li>
+<li><a href="/z/101452/">Simon Cat</a>  by Nigel Auchterlounie</li>
+<li><a href="/z/101453/">Fidget</a> 2 by Matt Abbiss</li>
+<li><a href="/z/101454/">The Night Stalker Got Married</a>  by Juliette Torez§</li>
+<li><a href="/z/101456/">Dragon Eggs</a>  by Sweatdrop Studios</li>
+<li><a href="/z/101458/">The Officlal Castle Marion Visitors Guide Book</a>  by Andy Hemmingway</li>
+<li><a href="/z/101460/">Au pair bear's trip</a>  by n/a</li>
+<li><a href="/z/101461/">Les Poupées Vipéres et leurs Venins Plastique</a>  by Kerozen</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[The last of the minis (zines sized A6 or smaller) have been added - see the list below. I’m now going to finish off the A5 zines and then move onto the comic book sized zines. Looking at the boxes I’m about halfway there.]]></summary></entry><entry><title type="html">Update for 25 August 2024</title><link href="https://bugpowder.peteashton.com/2024/08/25/update.html" rel="alternate" type="text/html" title="Update for 25 August 2024" /><published>2024-08-25T00:00:00+01:00</published><updated>2024-08-25T00:00:00+01:00</updated><id>https://bugpowder.peteashton.com/2024/08/25/update</id><content type="html" xml:base="https://bugpowder.peteashton.com/2024/08/25/update.html"><![CDATA[<p><strong><a href="/timeline/">Pete’s zine timeline</a> updated.</strong> I remembered how I first came into contact with Chris Staros at Top Shelf which opened a door into the world of US mini-comics by the likes of James Kochalka, Kevin Huizenga, John Porcellino, etc and got me stocking Alan Moore. Look around 1996, 1999 and 2001-3 for some exciting new sentences.</p>
 
 <p>Scanned the cover of the <a href="/z/101250/">early 1998 BugPowder catalog</a> with an illustration by Frazer Irving. Gonna see if I can tidy it up and work it into the ident for this archive.</p>
 
